@@ -1,0 +1,1573 @@
+{
+    "chunks": [
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 0.0,
+            "end": 5.64,
+            "text": "What's the matter? We have completed 10 videos in Sigma Web Development course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 5.64,
+            "end": 8.3,
+            "text": "So, we are one like for everyone's consistency."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 8.3,
+            "end": 11.0,
+            "text": "In today's video, we will see about Semantic Tax."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 11.0,
+            "end": 13.0,
+            "text": "Because SEO is very important for us."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 13.0,
+            "end": 15.48,
+            "text": "And to understand the structure of the overall website,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 15.48,
+            "end": 18.400000000000002,
+            "text": "Search engines are very happy to see this structure."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 18.400000000000002,
+            "end": 22.7,
+            "text": "That is, overall SEO will be very good for your website if you use these tags."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 22.7,
+            "end": 26.2,
+            "text": "What are these tags? Why are these tags? How to use them?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 26.2,
+            "end": 28.2,
+            "text": "What is the benefit of this video?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 28.2,
+            "end": 31.2,
+            "text": "Let's go to the computer screen. Let's roll the intro."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 40.2,
+            "end": 43.5,
+            "text": "So, first of all, I would like to tell you what is going on here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 43.5,
+            "end": 47.2,
+            "text": "You can see here that I have made a folder in the name of video 11."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 47.2,
+            "end": 50.5,
+            "text": "And here I have set an index.html boilerplate template."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 50.5,
+            "end": 53.9,
+            "text": "I have set the title, H1 and set this image."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 53.9,
+            "end": 55.9,
+            "text": "I am going to preview it here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 55.9,
+            "end": 59.9,
+            "text": "To explain this image a little, I will tell you what are Semantic tags."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 59.9,
+            "end": 63.199999999999996,
+            "text": "Semantic tags are for browsers and web crawlers."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 63.199999999999996,
+            "end": 65.9,
+            "text": "Which want to understand your website properly."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 65.9,
+            "end": 72.2,
+            "text": "They want to tell you what is the content of your website and what is the purpose of which place and which tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 72.2,
+            "end": 77.9,
+            "text": "If you do not use Semantic tags in HTML, then your work will be done."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 77.9,
+            "end": 84.2,
+            "text": "It is not that if you do not use Semantic tags, then your website will not look good."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 84.2,
+            "end": 86.2,
+            "text": "You can do good designing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 86.2,
+            "end": 92.2,
+            "text": "But we want to explain to search engines like Google, Bing, about our website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 92.2,
+            "end": 97.2,
+            "text": "And if we explain them about our website, then they will understand our website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 97.2,
+            "end": 102.2,
+            "text": "And they will rank our website on Google, Bing, and on respective search engines."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 102.2,
+            "end": 105.2,
+            "text": "And we want them to understand our website and crawlers."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 105.2,
+            "end": 109.2,
+            "text": "And we want them to understand our website properly."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 109.2,
+            "end": 115.2,
+            "text": "There are some special tags like header, nav, main, article, figure."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 115.2,
+            "end": 118.2,
+            "text": "These are all special tags made in HTML."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 118.2,
+            "end": 121.2,
+            "text": "Which help you to structure your website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 121.2,
+            "end": 124.2,
+            "text": "Now if there is anything in the header, then I know that this is the header."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 124.2,
+            "end": 125.2,
+            "text": "That is, at the top."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 125.2,
+            "end": 129.2,
+            "text": "If there is anything in the footer, then I will understand that the website has started ending here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 129.2,
+            "end": 130.2,
+            "text": "This footer started here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 130.2,
+            "end": 132.2,
+            "text": "This footer could have been a div too."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 132.2,
+            "end": 137.2,
+            "text": "But no, if I am using Semantic HTML, then I will use the footer tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 137.2,
+            "end": 142.2,
+            "text": "Along with that, I was making my navigation bar in the span tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 142.2,
+            "end": 145.2,
+            "text": "This time I will not make my navigation bar in the span tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 145.2,
+            "end": 148.2,
+            "text": "I will make my navigation bar in the nav tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 148.2,
+            "end": 154.2,
+            "text": "So these are the differences that make our search engines understand our website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 154.2,
+            "end": 159.2,
+            "text": "So I will show you some examples of Semantic tags here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 159.2,
+            "end": 162.2,
+            "text": "And I hope you understood what Semantic tags are."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 162.2,
+            "end": 164.2,
+            "text": "Now look at the downloaded folders of our computer."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 164.2,
+            "end": 169.2,
+            "text": "Some of you might have noticed that the download folder of the world is the same."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 169.2,
+            "end": 174.2,
+            "text": "90% of the files of your computer are downloaded by many people."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 174.2,
+            "end": 175.2,
+            "text": "But we should not do that."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 175.2,
+            "end": 179.2,
+            "text": "Some people go through this to the extent that they start sending files in their local disc,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 179.2,
+            "end": 182.2,
+            "text": "in the windows folder."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 182.2,
+            "end": 186.2,
+            "text": "And some people also keep files in system 32."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 186.2,
+            "end": 193.2,
+            "text": "So if you send your files to your computer, then it will not be arranged in one way."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 193.2,
+            "end": 199.2,
+            "text": "But if you arrange them in folders, then you will find these files."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 199.2,
+            "end": 203.2,
+            "text": "If you want to put a secret file in a folder, then you can put it in a secret file."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 203.2,
+            "end": 206.2,
+            "text": "If you want to make a folder, then you can do not open it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 206.2,
+            "end": 211.2,
+            "text": "If you can put some files in it, then you will be able to arrange them in one way."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 211.2,
+            "end": 214.2,
+            "text": "You have arranged images in one way, you have arranged videos in one way,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 214.2,
+            "end": 217.2,
+            "text": "and you have arranged e-books in one way."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 217.2,
+            "end": 219.2,
+            "text": "So whenever you go to search, you will get it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 219.2,
+            "end": 224.2,
+            "text": "So to understand that, it will be much better to use that folder structure instead of"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 224.2,
+            "end": 227.2,
+            "text": "sending your files throughout the computer."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 227.2,
+            "end": 231.2,
+            "text": "You will definitely not want to send your files throughout the computer."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 231.2,
+            "end": 235.2,
+            "text": "So I hope you understand why we use Semantic Tags."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 235.2,
+            "end": 237.2,
+            "text": "This is very useful for SEO."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 237.2,
+            "end": 239.2,
+            "text": "So I have not used SEO word yet."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 239.2,
+            "end": 245.2,
+            "text": "But SEO search engine optimization is a very important part of using Semantic Tags."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 245.2,
+            "end": 246.2,
+            "text": "So what happens?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 246.2,
+            "end": 251.2,
+            "text": "Basically, the way you make your website, you just use some special tags."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 251.2,
+            "end": 253.2,
+            "text": "For example, let us say I am making this website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 253.2,
+            "end": 257.2,
+            "text": "Okay, I will comment out this image here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 257.2,
+            "end": 259.2,
+            "text": "I will not comment out this image."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 259.2,
+            "end": 262.2,
+            "text": "I will basically make a new one here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 262.2,
+            "end": 263.2,
+            "text": "So what will I do?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 263.2,
+            "end": 265.2,
+            "text": "First of all, I will say that this is my website's header."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 265.2,
+            "end": 266.2,
+            "text": "I have used it in a header tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 266.2,
+            "end": 268.2,
+            "text": "I will make a new one in it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 268.2,
+            "end": 270.2,
+            "text": "I will make an unordered list in it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 270.2,
+            "end": 272.2,
+            "text": "I will make an ally in it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 272.2,
+            "end": 274.2,
+            "text": "I will write here, home."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 274.2,
+            "end": 277.2,
+            "text": "And after this, I am writing a lot of things like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 277.2,
+            "end": 279.2,
+            "text": "And this is my header."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 279.2,
+            "end": 282.2,
+            "text": "So any of my website pack will understand that this is my header."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 282.2,
+            "end": 287.2,
+            "text": "Home, about, contact, whatever I want to write, I can write here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 287.2,
+            "end": 289.2,
+            "text": "So this is my header, this is my nav bar."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 289.2,
+            "end": 292.2,
+            "text": "This is clearly known because I have used header and nav tags."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 292.2,
+            "end": 294.2,
+            "text": "So I write about here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 294.2,
+            "end": 296.2,
+            "text": "And I write contact here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 296.2,
+            "end": 300.2,
+            "text": "So I wrote home, about here and contact here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 300.2,
+            "end": 302.2,
+            "text": "So I hope you understand this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 302.2,
+            "end": 305.2,
+            "text": "Now if I want a footer, I want to make a footer."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 305.2,
+            "end": 307.2,
+            "text": "Here my main content will be after header."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 307.2,
+            "end": 309.2,
+            "text": "So I will use the main tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 309.2,
+            "end": 313.2,
+            "text": "And after this, I will write in my footer."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 313.2,
+            "end": 315.2,
+            "text": "Copyright, CWH."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 315.2,
+            "end": 320.2,
+            "text": "And here I will write, all rights reserved."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 320.2,
+            "end": 322.2,
+            "text": "Okay, I can write like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 322.2,
+            "end": 325.2,
+            "text": "So here, copyright, all rights reserved."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 325.2,
+            "end": 326.2,
+            "text": "I have written all this here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 326.2,
+            "end": 330.2,
+            "text": "So I will do this, I will cut this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 330.2,
+            "end": 331.2,
+            "text": "I will put this in the main."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 331.2,
+            "end": 332.2,
+            "text": "This is my main content."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 332.2,
+            "end": 335.2,
+            "text": "So first my header will come, then the main content will come, then the footer will come."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 335.2,
+            "end": 336.2,
+            "text": "As you can see here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 336.2,
+            "end": 338.2,
+            "text": "And here you can see, this is the header."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 338.2,
+            "end": 340.2,
+            "text": "This is my main content, this is the footer."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 340.2,
+            "end": 342.2,
+            "text": "So in one way, I have arranged."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 342.2,
+            "end": 346.2,
+            "text": "In one way, you arrange your files in different folders."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 346.2,
+            "end": 348.2,
+            "text": "I have arranged my HTML tags here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 348.2,
+            "end": 350.2,
+            "text": "So we understood about the header tag,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 350.2,
+            "end": 353.2,
+            "text": "that it is used to represent the top section of a web page, which is header."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 353.2,
+            "end": 357.2,
+            "text": "Then after this, we will put nav, which is navigation menu on our page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 357.2,
+            "end": 359.2,
+            "text": "Ideally, we will put that in the nav tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 359.2,
+            "end": 364.2,
+            "text": "Article indicates a self-containing piece of content, such as blog post or news article."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 364.2,
+            "end": 369.2,
+            "text": "If you put a particular self-contained piece of content, then put it in the article tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 369.2,
+            "end": 372.2,
+            "text": "Section represents a thematic grouping."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 372.2,
+            "end": 375.2,
+            "text": "Suppose, one section is talking about something on your page,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 375.2,
+            "end": 377.2,
+            "text": "then the other section will talk about something else."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 377.2,
+            "end": 381.2,
+            "text": "Aside, aside means, if anything is on one side, then they use aside tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 381.2,
+            "end": 387.2,
+            "text": "Here, typically used for sidebars or content that is tangentially related to the main content."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 387.2,
+            "end": 389.2,
+            "text": "For example, what you can do on this aside tag is,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 389.2,
+            "end": 392.2,
+            "text": "you have to put a side note about the author."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 392.2,
+            "end": 395.2,
+            "text": "I have seen all the blogs in which it is written about the author."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 395.2,
+            "end": 397.2,
+            "text": "You can put such things with aside tags."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 397.2,
+            "end": 399.2,
+            "text": "Then after this, we have the footer tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 399.2,
+            "end": 401.2,
+            "text": "I have told you about it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 401.2,
+            "end": 403.2,
+            "text": "Copyright information, if you want to put all these things."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 403.2,
+            "end": 408.2,
+            "text": "Or if you want to put some important links on the website, then you can put them in the footer."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 408.2,
+            "end": 410.2,
+            "text": "Then after this, figure and pick caption."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 410.2,
+            "end": 412.2,
+            "text": "What is figure and pick caption?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 412.2,
+            "end": 417.2,
+            "text": "You can use images, diagrams, charts, all these things."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 417.2,
+            "end": 419.2,
+            "text": "The main content area in the main content area,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 419.2,
+            "end": 421.2,
+            "text": "like the main content area of our speech,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 421.2,
+            "end": 423.2,
+            "text": "is that we put it in the main tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 423.2,
+            "end": 425.2,
+            "text": "Then there is the time tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 425.2,
+            "end": 427.2,
+            "text": "Used to represent time related information."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 427.2,
+            "end": 429.2,
+            "text": "You can use the time tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 429.2,
+            "end": 431.2,
+            "text": "You can put date, time or anything."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 431.2,
+            "end": 434.2,
+            "text": "I hope you have understood this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 434.2,
+            "end": 437.2,
+            "text": "These are used to enhance SEO."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 437.2,
+            "end": 440.2,
+            "text": "They are used to improve accessibility."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 440.2,
+            "end": 443.2,
+            "text": "If you want to take a decision about a browser,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 443.2,
+            "end": 445.2,
+            "text": "let's say there is a browser,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 445.2,
+            "end": 447.2,
+            "text": "and it has a new feature,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 447.2,
+            "end": 449.2,
+            "text": "that it will read our content aloud."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 449.2,
+            "end": 451.2,
+            "text": "Like the feature is on the edge."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 451.2,
+            "end": 454.2,
+            "text": "So the browser can decide that the main content is being read aloud."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 454.2,
+            "end": 456.2,
+            "text": "Think about how to read aloud this page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 456.2,
+            "end": 458.2,
+            "text": "How will it read aloud?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 458.2,
+            "end": 460.2,
+            "text": "Code with Harry, Home, Code says,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 460.2,
+            "end": 462.2,
+            "text": "You don't want to read aloud like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 462.2,
+            "end": 464.2,
+            "text": "You want the main content to be read."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 464.2,
+            "end": 466.2,
+            "text": "HTML, Semantic Tags."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 466.2,
+            "end": 468.2,
+            "text": "HTML5 Introduce, Range of Semantic Tags."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 468.2,
+            "end": 470.2,
+            "text": "The first versions of HTML,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 470.2,
+            "end": 472.2,
+            "text": "were not Semantic Tags."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 472.2,
+            "end": 475.2,
+            "text": "Semantic Tags were introduced by HTML5."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 475.2,
+            "end": 479.2,
+            "text": "The most important reason to introduce Semantic Tags in HTML5,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 479.2,
+            "end": 481.2,
+            "text": "is to arrange things."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 481.2,
+            "end": 485.2,
+            "text": "So that the content that is passing the content,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 485.2,
+            "end": 487.2,
+            "text": "that is watching the content,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 487.2,
+            "end": 490.2,
+            "text": "whether it is browser, crawler, Google, Bing,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 490.2,
+            "end": 492.2,
+            "text": "Search Engine,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 492.2,
+            "end": 494.2,
+            "text": "or anyone who wants to generate preview,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 494.2,
+            "end": 496.2,
+            "text": "like you put URL on Twitter,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 496.2,
+            "end": 498.2,
+            "text": "If you have such things,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 498.2,
+            "end": 502.2,
+            "text": "you will want to be able to understand your content."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 502.2,
+            "end": 505.2,
+            "text": "If you want to understand your content,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 505.2,
+            "end": 507.2,
+            "text": "then you will use Semantic Tags."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 507.2,
+            "end": 509.2,
+            "text": "Or this image is explaining that,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 509.2,
+            "end": 511.2,
+            "text": "without Semantic Tags,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 511.2,
+            "end": 513.2,
+            "text": "if you write in HTML,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 513.2,
+            "end": 515.2,
+            "text": "then you will write in Semantic Tags."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 515.2,
+            "end": 517.2,
+            "text": "This image you see,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 517.2,
+            "end": 519.2,
+            "text": "this is header, this is nav, this is side."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 519.2,
+            "end": 521.2,
+            "text": "How to put a thing in side,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 521.2,
+            "end": 523.2,
+            "text": "we will do it with CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 523.2,
+            "end": 524.2,
+            "text": "Don't be confused."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 524.2,
+            "end": 526.2,
+            "text": "You have to use this for this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 526.2,
+            "end": 528.2,
+            "text": "Many people are confused,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 528.2,
+            "end": 530.2,
+            "text": "that is not the case,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 530.2,
+            "end": 532.2,
+            "text": "that you use to do things in side tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 532.2,
+            "end": 534.2,
+            "text": "No, it is not like that."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 534.2,
+            "end": 536.2,
+            "text": "You have to style things with CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 536.2,
+            "end": 538.2,
+            "text": "But here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 538.2,
+            "end": 540.2,
+            "text": "you can understand your content well,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 540.2,
+            "end": 542.2,
+            "text": "describe what is the main content,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 542.2,
+            "end": 544.2,
+            "text": "which is header, footer,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 544.2,
+            "end": 546.2,
+            "text": "that is why Semantic Tags are made."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 546.2,
+            "end": 548.2,
+            "text": "So Semantic Tags are not made by any magic."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 548.2,
+            "end": 550.2,
+            "text": "Semantic Tags are made only for accessibility,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 550.2,
+            "end": 552.2,
+            "text": "and to understand your page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 552.2,
+            "end": 554.2,
+            "text": "This is the footer tag example,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 554.2,
+            "end": 556.2,
+            "text": "what will be inside the header,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 556.2,
+            "end": 558.2,
+            "text": "or you will see, you will put your navigation bar"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 558.2,
+            "end": 560.2,
+            "text": "ideally inside the header,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 560.2,
+            "end": 562.2,
+            "text": "and then you will style it with CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 562.2,
+            "end": 564.2,
+            "text": "I will show you a very quick styling,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 564.2,
+            "end": 566.2,
+            "text": "obviously we will talk about styling later,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 566.2,
+            "end": 568.2,
+            "text": "but many people are confused,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 568.2,
+            "end": 570.2,
+            "text": "that how will this horizontal navigation bar be."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 570.2,
+            "end": 572.2,
+            "text": "So if you want to horizontal navigation bar,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 572.2,
+            "end": 574.2,
+            "text": "then I will write some CSS here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 574.2,
+            "end": 576.2,
+            "text": "and I will tell you all this,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 576.2,
+            "end": 578.2,
+            "text": "why CSS works here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 578.2,
+            "end": 580.2,
+            "text": "Now see, I flexed the display,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 580.2,
+            "end": 582.2,
+            "text": "so in the coming videos,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 582.2,
+            "end": 584.2,
+            "text": "there will be a lot of things,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 584.2,
+            "end": 586.2,
+            "text": "so don't worry about it,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 586.2,
+            "end": 588.2,
+            "text": "I will tell you everything,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 588.2,
+            "end": 590.2,
+            "text": "and what does this CSS mean here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 590.2,
+            "end": 592.2,
+            "text": "why did I write CSS by inspecting it,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 592.2,
+            "end": 594.2,
+            "text": "I will tell you about this,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 594.2,
+            "end": 596.2,
+            "text": "I will reload it, why it went away,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 596.2,
+            "end": 598.2,
+            "text": "we will see it in the CSS section."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 598.2,
+            "end": 600.2,
+            "text": "If you haven't done this playlist yet,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 600.2,
+            "end": 602.2,
+            "text": "then do it, bookmark it,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 602.2,
+            "end": 604.2,
+            "text": "click here and save it,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 604.2,
+            "end": 606.2,
+            "text": "and I am uploading all the code,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 606.2,
+            "end": 608.2,
+            "text": "so as you will see in the videos,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 608.2,
+            "end": 610.2,
+            "text": "you will get the code here video wise."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 610.2,
+            "end": 612.2,
+            "text": "So please do start this repository,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 612.2,
+            "end": 614.2,
+            "text": "if you haven't done it yet,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 614.2,
+            "end": 616.2,
+            "text": "and also like the video,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 616.2,
+            "end": 618.2,
+            "text": "thank you so much for watching this video,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 618.2,
+            "end": 620.2,
+            "text": "and I will see you next time."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170254_068",
+            "start": 638.2,
+            "end": 639.2,
+            "text": "."
+        }
+    ],
+    "full_text": "What's the matter? We have completed 10 videos in Sigma Web Development course. So, we are one like for everyone's consistency. In today's video, we will see about Semantic Tax. Because SEO is very important for us. And to understand the structure of the overall website, Search engines are very happy to see this structure. That is, overall SEO will be very good for your website if you use these tags. What are these tags? Why are these tags? How to use them? What is the benefit of this video? Let's go to the computer screen. Let's roll the intro. So, first of all, I would like to tell you what is going on here. You can see here that I have made a folder in the name of video 11. And here I have set an index.html boilerplate template. I have set the title, H1 and set this image. I am going to preview it here. To explain this image a little, I will tell you what are Semantic tags. Semantic tags are for browsers and web crawlers. Which want to understand your website properly. They want to tell you what is the content of your website and what is the purpose of which place and which tag. If you do not use Semantic tags in HTML, then your work will be done. It is not that if you do not use Semantic tags, then your website will not look good. You can do good designing. But we want to explain to search engines like Google, Bing, about our website. And if we explain them about our website, then they will understand our website. And they will rank our website on Google, Bing, and on respective search engines. And we want them to understand our website and crawlers. And we want them to understand our website properly. There are some special tags like header, nav, main, article, figure. These are all special tags made in HTML. Which help you to structure your website. Now if there is anything in the header, then I know that this is the header. That is, at the top. If there is anything in the footer, then I will understand that the website has started ending here. This footer started here. This footer could have been a div too. But no, if I am using Semantic HTML, then I will use the footer tag. Along with that, I was making my navigation bar in the span tag. This time I will not make my navigation bar in the span tag. I will make my navigation bar in the nav tag. So these are the differences that make our search engines understand our website. So I will show you some examples of Semantic tags here. And I hope you understood what Semantic tags are. Now look at the downloaded folders of our computer. Some of you might have noticed that the download folder of the world is the same. 90% of the files of your computer are downloaded by many people. But we should not do that. Some people go through this to the extent that they start sending files in their local disc, in the windows folder. And some people also keep files in system 32. So if you send your files to your computer, then it will not be arranged in one way. But if you arrange them in folders, then you will find these files. If you want to put a secret file in a folder, then you can put it in a secret file. If you want to make a folder, then you can do not open it. If you can put some files in it, then you will be able to arrange them in one way. You have arranged images in one way, you have arranged videos in one way, and you have arranged e-books in one way. So whenever you go to search, you will get it. So to understand that, it will be much better to use that folder structure instead of sending your files throughout the computer. You will definitely not want to send your files throughout the computer. So I hope you understand why we use Semantic Tags. This is very useful for SEO. So I have not used SEO word yet. But SEO search engine optimization is a very important part of using Semantic Tags. So what happens? Basically, the way you make your website, you just use some special tags. For example, let us say I am making this website. Okay, I will comment out this image here. I will not comment out this image. I will basically make a new one here. So what will I do? First of all, I will say that this is my website's header. I have used it in a header tag. I will make a new one in it. I will make an unordered list in it. I will make an ally in it. I will write here, home. And after this, I am writing a lot of things like this. And this is my header. So any of my website pack will understand that this is my header. Home, about, contact, whatever I want to write, I can write here. So this is my header, this is my nav bar. This is clearly known because I have used header and nav tags. So I write about here. And I write contact here. So I wrote home, about here and contact here. So I hope you understand this. Now if I want a footer, I want to make a footer. Here my main content will be after header. So I will use the main tag. And after this, I will write in my footer. Copyright, CWH. And here I will write, all rights reserved. Okay, I can write like this. So here, copyright, all rights reserved. I have written all this here. So I will do this, I will cut this. I will put this in the main. This is my main content. So first my header will come, then the main content will come, then the footer will come. As you can see here. And here you can see, this is the header. This is my main content, this is the footer. So in one way, I have arranged. In one way, you arrange your files in different folders. I have arranged my HTML tags here. So we understood about the header tag, that it is used to represent the top section of a web page, which is header. Then after this, we will put nav, which is navigation menu on our page. Ideally, we will put that in the nav tag. Article indicates a self-containing piece of content, such as blog post or news article. If you put a particular self-contained piece of content, then put it in the article tag. Section represents a thematic grouping. Suppose, one section is talking about something on your page, then the other section will talk about something else. Aside, aside means, if anything is on one side, then they use aside tag. Here, typically used for sidebars or content that is tangentially related to the main content. For example, what you can do on this aside tag is, you have to put a side note about the author. I have seen all the blogs in which it is written about the author. You can put such things with aside tags. Then after this, we have the footer tag. I have told you about it. Copyright information, if you want to put all these things. Or if you want to put some important links on the website, then you can put them in the footer. Then after this, figure and pick caption. What is figure and pick caption? You can use images, diagrams, charts, all these things. The main content area in the main content area, like the main content area of our speech, is that we put it in the main tag. Then there is the time tag. Used to represent time related information. You can use the time tag. You can put date, time or anything. I hope you have understood this. These are used to enhance SEO. They are used to improve accessibility. If you want to take a decision about a browser, let's say there is a browser, and it has a new feature, that it will read our content aloud. Like the feature is on the edge. So the browser can decide that the main content is being read aloud. Think about how to read aloud this page. How will it read aloud? Code with Harry, Home, Code says, You don't want to read aloud like this. You want the main content to be read. HTML, Semantic Tags. HTML5 Introduce, Range of Semantic Tags. The first versions of HTML, were not Semantic Tags. Semantic Tags were introduced by HTML5. The most important reason to introduce Semantic Tags in HTML5, is to arrange things. So that the content that is passing the content, that is watching the content, whether it is browser, crawler, Google, Bing, Search Engine, or anyone who wants to generate preview, like you put URL on Twitter, If you have such things, you will want to be able to understand your content. If you want to understand your content, then you will use Semantic Tags. Or this image is explaining that, without Semantic Tags, if you write in HTML, then you will write in Semantic Tags. This image you see, this is header, this is nav, this is side. How to put a thing in side, we will do it with CSS. Don't be confused. You have to use this for this. Many people are confused, that is not the case, that you use to do things in side tag. No, it is not like that. You have to style things with CSS. But here, you can understand your content well, describe what is the main content, which is header, footer, that is why Semantic Tags are made. So Semantic Tags are not made by any magic. Semantic Tags are made only for accessibility, and to understand your page. This is the footer tag example, what will be inside the header, or you will see, you will put your navigation bar ideally inside the header, and then you will style it with CSS. I will show you a very quick styling, obviously we will talk about styling later, but many people are confused, that how will this horizontal navigation bar be. So if you want to horizontal navigation bar, then I will write some CSS here, and I will tell you all this, why CSS works here. Now see, I flexed the display, so in the coming videos, there will be a lot of things, so don't worry about it, I will tell you everything, and what does this CSS mean here, why did I write CSS by inspecting it, I will tell you about this, I will reload it, why it went away, we will see it in the CSS section. If you haven't done this playlist yet, then do it, bookmark it, click here and save it, and I am uploading all the code, so as you will see in the videos, you will get the code here video wise. So please do start this repository, if you haven't done it yet, and also like the video, thank you so much for watching this video, and I will see you next time. ."
+}

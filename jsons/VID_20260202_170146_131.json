@@ -1,0 +1,2098 @@
+{
+    "chunks": [
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 0.0,
+            "end": 3.72,
+            "text": "What's up guys, you are back in the Sigma Web Development course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 3.72,
+            "end": 7.3,
+            "text": "I'm really very happy that you guys have given so much love to this course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 7.3,
+            "end": 9.38,
+            "text": "Like this course with high energy."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 9.38,
+            "end": 13.1,
+            "text": "Because for this Sigma free course, Sigma Chats are always liked."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 13.1,
+            "end": 17.6,
+            "text": "In today's video, I will explain you guys how to make a basic website look like."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 17.6,
+            "end": 22.1,
+            "text": "Along with that, I will tell you guys a mobile trick that will help you to know"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 22.1,
+            "end": 25.76,
+            "text": "how you can preview your websites in your phone."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 25.76,
+            "end": 30.6,
+            "text": "You guys have a request to write to me in the comment section and tell me if you have HTML or not."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 30.6,
+            "end": 32.64,
+            "text": "That will help me structure this course better."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 32.64,
+            "end": 35.46,
+            "text": "In this video, I will tell you guys about ChatGbD."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 35.46,
+            "end": 38.400000000000006,
+            "text": "Because there are a lot of things going on about ChatGbD."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 38.400000000000006,
+            "end": 41.0,
+            "text": "In the upcoming videos, I will also give you quizzes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 41.0,
+            "end": 44.34,
+            "text": "So, be very careful and learn all the concepts."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 44.34,
+            "end": 45.84,
+            "text": "Let's go to the computer screen."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 45.84,
+            "end": 47.34,
+            "text": "Let's roll the info."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 55.839999999999996,
+            "end": 57.839999999999996,
+            "text": "So guys, I have come to the computer screen."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 57.839999999999996,
+            "end": 64.53999999999999,
+            "text": "And now we will talk about how to create a basic website for opening, closing, and structure."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 64.53999999999999,
+            "end": 68.0,
+            "text": "In this folder, I will create a folder named Video3."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 68.0,
+            "end": 73.75999999999999,
+            "text": "I will click on the new folder, Video3 and in the video3, I will shift right click and open with code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 73.75999999999999,
+            "end": 77.6,
+            "text": "And here you can see that my theme is blue."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 77.6,
+            "end": 79.75999999999999,
+            "text": "And a lot of people have said that blue is not good."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 79.75999999999999,
+            "end": 82.14,
+            "text": "Look, the theme is your choice."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 82.14,
+            "end": 84.14,
+            "text": "If you want to change the color theme,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 84.22,
+            "end": 86.72,
+            "text": "you can change your color theme."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 86.72,
+            "end": 88.52,
+            "text": "I want to use the GitHub dark."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 88.52,
+            "end": 89.84,
+            "text": "I can use GitHub dark."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 89.84,
+            "end": 90.64,
+            "text": "It's your choice."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 90.64,
+            "end": 94.02,
+            "text": "To create a new file, I will add index.html."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 94.02,
+            "end": 97.92,
+            "text": "We had already talked about that if I write the title of the page,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 97.92,
+            "end": 102.44,
+            "text": "and write the content here, and then use the link tag here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 102.44,
+            "end": 106.42,
+            "text": "and use the emit here and link the style.css."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 106.42,
+            "end": 109.52,
+            "text": "I am doing it so fast because it has already been talked about in the previous video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 109.6,
+            "end": 112.82,
+            "text": "And here if I write script.js here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 112.82,
+            "end": 115.36,
+            "text": "and here I write let us say alert hello."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 115.36,
+            "end": 119.47999999999999,
+            "text": "So I will not tell you again that if I put a script tag here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 119.47999999999999,
+            "end": 123.94,
+            "text": "just before the body, and then put script colon src here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 123.94,
+            "end": 125.67999999999999,
+            "text": "and then I put script.js here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 125.67999999999999,
+            "end": 128.6,
+            "text": "And then click here and open with browser,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 128.6,
+            "end": 131.9,
+            "text": "then this will come hello, and here if I red the body background,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 131.9,
+            "end": 132.7,
+            "text": "then it will be red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 132.7,
+            "end": 136.35999999999999,
+            "text": "I will not tell you all this because I have already told you all this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 136.74,
+            "end": 138.48000000000002,
+            "text": "I will tell you all this now."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 138.48000000000002,
+            "end": 140.58,
+            "text": "What does this structure mean?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 140.58,
+            "end": 141.74,
+            "text": "Why did it write so big?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 141.74,
+            "end": 146.10000000000002,
+            "text": "This is a doubt for a beginner that we cannot write the title and content directly."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 146.10000000000002,
+            "end": 148.10000000000002,
+            "text": "What is the need to write so much?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 148.10000000000002,
+            "end": 149.06,
+            "text": "I will tell you this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 149.06,
+            "end": 150.60000000000002,
+            "text": "What is the need to write so much?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 150.60000000000002,
+            "end": 151.48000000000002,
+            "text": "I will reload it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 151.48000000000002,
+            "end": 155.3,
+            "text": "Look, the content here is here, and it has turned red here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 155.3,
+            "end": 158.06,
+            "text": "You have seen that I needed to reload the page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 158.06,
+            "end": 160.74,
+            "text": "You must have thought why do people need to reload the questions."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 160.74,
+            "end": 163.06,
+            "text": "When it already reloads live."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 163.06,
+            "end": 164.62,
+            "text": "Look, I have changed the CSS file."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 164.70000000000002,
+            "end": 166.22,
+            "text": "When I change the CSS file,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 166.22,
+            "end": 168.22,
+            "text": "at times we need to reload."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 168.22,
+            "end": 169.62,
+            "text": "If you are using HTML file,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 169.62,
+            "end": 171.82,
+            "text": "I am changing the changes of HTML file,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 171.82,
+            "end": 174.42000000000002,
+            "text": "you don't need to reload like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 174.42000000000002,
+            "end": 178.74,
+            "text": "Now here, what I will do is I will come back and explain to you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 178.74,
+            "end": 181.74,
+            "text": "This is a basic structure of any HTML website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 181.74,
+            "end": 184.04000000000002,
+            "text": "First, we write doc type HTML,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 184.04000000000002,
+            "end": 185.64000000000001,
+            "text": "then we write HTML tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 185.64000000000001,
+            "end": 187.38,
+            "text": "Now look, this is the opening tag of HTML tag,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 187.38,
+            "end": 188.44,
+            "text": "and here is the closing tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 188.44,
+            "end": 189.66,
+            "text": "This is the opening tag of the body,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 189.66,
+            "end": 190.82,
+            "text": "and here is the closing tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 190.82,
+            "end": 192.22,
+            "text": "Here is the opening tag of the head,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 192.22,
+            "end": 193.28,
+            "text": "and here is the closing tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 193.44,
+            "end": 195.94,
+            "text": "The problem in this is the content of the head."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 195.94,
+            "end": 198.1,
+            "text": "What is the problem in HTML?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 198.1,
+            "end": 199.32,
+            "text": "It is the content of HTML."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 199.32,
+            "end": 202.62,
+            "text": "According to that, the title of the title is the content of the title."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 202.62,
+            "end": 204.82,
+            "text": "Now what is the content of the meta?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 204.82,
+            "end": 207.22,
+            "text": "Meta is a self-closing tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 207.22,
+            "end": 208.62,
+            "text": "There are two types of tags in HTML,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 208.62,
+            "end": 211.1,
+            "text": "one is self-closing tag and one is pair tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 211.1,
+            "end": 212.32,
+            "text": "What is pair tag?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 212.32,
+            "end": 214.82,
+            "text": "Your opening tag is a closing tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 214.82,
+            "end": 216.94,
+            "text": "This is the basic structure of the HTML website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 216.94,
+            "end": 219.02,
+            "text": "Now here you have seen that the background has turned red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 219.02,
+            "end": 220.74,
+            "text": "Whose background is this?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 220.74,
+            "end": 222.34,
+            "text": "This is the background of CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 222.4,
+            "end": 224.24,
+            "text": "If I remove the CSS from here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 224.24,
+            "end": 226.24,
+            "text": "and say that I will remove it from here quickly,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 226.24,
+            "end": 227.74,
+            "text": "what will I say from CSS?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 227.74,
+            "end": 229.24,
+            "text": "Remove it quickly."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 229.24,
+            "end": 231.48000000000002,
+            "text": "And as soon as I say remove from here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 231.48000000000002,
+            "end": 232.68,
+            "text": "it will have to be removed from here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 232.68,
+            "end": 233.72,
+            "text": "I will reload the page,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 233.72,
+            "end": 235.48000000000002,
+            "text": "so you can see that it has been removed from here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 235.48000000000002,
+            "end": 237.68,
+            "text": "Similarly, I can say from JavaScript,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 237.68,
+            "end": 239.28,
+            "text": "remove it quickly."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 239.28,
+            "end": 240.38,
+            "text": "You see, I said from here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 240.38,
+            "end": 241.88,
+            "text": "then the alert will also be closed."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 241.88,
+            "end": 243.88,
+            "text": "So you see, I will reload it now,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 243.88,
+            "end": 244.88,
+            "text": "then the alert will also be closed."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 244.88,
+            "end": 247.08,
+            "text": "So in this content of HTML,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 247.08,
+            "end": 249.08,
+            "text": "I added CSS and JavaScript."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 249.32000000000002,
+            "end": 250.32000000000002,
+            "text": "This additionally,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 250.32000000000002,
+            "end": 252.82000000000002,
+            "text": "we used the functionalities of CSS and JavaScript"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 252.82000000000002,
+            "end": 255.82000000000002,
+            "text": "to link this HTML page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 255.82000000000002,
+            "end": 257.82,
+            "text": "Now I already told you about the title tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 257.82,
+            "end": 259.82,
+            "text": "This is used to set the title of the page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 259.82,
+            "end": 261.82,
+            "text": "Now you just have to give the purpose of this"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 261.82,
+            "end": 263.32,
+            "text": "that you see the title here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 263.32,
+            "end": 265.32,
+            "text": "The search engines that are used,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 265.32,
+            "end": 266.82,
+            "text": "they also use it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 266.82,
+            "end": 268.82,
+            "text": "If you will write here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 268.82,
+            "end": 270.82,
+            "text": "code with Harry HTML,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 270.82,
+            "end": 272.82,
+            "text": "then code with Harry's HTML introduction,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 272.82,
+            "end": 274.82,
+            "text": "HTML working,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 274.82,
+            "end": 276.82,
+            "text": "all the titles I have put on the page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 276.82,
+            "end": 277.82,
+            "text": "You see here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 277.82,
+            "end": 279.82,
+            "text": "HTML introduction is the title of the page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 279.82,
+            "end": 281.82,
+            "text": "So these titles are used"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 281.82,
+            "end": 283.82,
+            "text": "by the search engines and are passed."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 283.82,
+            "end": 285.82,
+            "text": "Now I will change the page here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 285.82,
+            "end": 287.82,
+            "text": "Here HTML is working,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 287.82,
+            "end": 289.82,
+            "text": "its title."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 289.82,
+            "end": 291.82,
+            "text": "Now I will change the page again."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 291.82,
+            "end": 293.82,
+            "text": "Here HTML installation is its title."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 293.82,
+            "end": 295.82,
+            "text": "So the titles keep changing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 295.82,
+            "end": 297.82,
+            "text": "Along with that, as I will change it,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 297.82,
+            "end": 299.82,
+            "text": "it will keep changing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 299.82,
+            "end": 301.82,
+            "text": "So the title of HTML pages"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 301.82,
+            "end": 303.82,
+            "text": "doesn't just mean that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 303.82,
+            "end": 305.82,
+            "text": "you can see here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 305.82,
+            "end": 307.82,
+            "text": "these are also very useful in SEO."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 307.82,
+            "end": 309.82,
+            "text": "And they tell you what is the content of the page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 309.82,
+            "end": 311.82,
+            "text": "So they describe the content of the page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 311.82,
+            "end": 313.82,
+            "text": "As I am getting to know here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 313.82,
+            "end": 315.82,
+            "text": "what is HTML execution."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 315.82,
+            "end": 317.82,
+            "text": "What does HTML execution mean?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 317.82,
+            "end": 319.82,
+            "text": "How is HTML executed? I am being told about this page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 319.82,
+            "end": 321.82,
+            "text": "So changing the title of the page is a very good SEO practice."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 321.82,
+            "end": 323.82,
+            "text": "So from any framework, we will make a website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 323.82,
+            "end": 325.82,
+            "text": "We will keep changing the title of the page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 325.82,
+            "end": 327.82,
+            "text": "Now here is the head section."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 327.82,
+            "end": 329.82,
+            "text": "The metadata of the page is inside the head section."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 329.82,
+            "end": 331.82,
+            "text": "Like the title is done."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 331.82,
+            "end": 333.82,
+            "text": "And you can link it with any script."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 333.82,
+            "end": 335.82,
+            "text": "Along with that, there are other metadata tags."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 335.82,
+            "end": 337.82,
+            "text": "I will tell you about them later."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 337.82,
+            "end": 339.82,
+            "text": "Meta tags basically means"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 339.82,
+            "end": 341.82,
+            "text": "how is the HTML document."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 341.82,
+            "end": 343.82,
+            "text": "It is told about it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 343.82,
+            "end": 345.82,
+            "text": "Keywords are added, descriptions are added."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 345.82,
+            "end": 349.82,
+            "text": "Meta description is a very important keyword for SEO."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 349.82,
+            "end": 351.82,
+            "text": "So what is the page about?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 351.82,
+            "end": 353.82,
+            "text": "If you go to my website,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 353.82,
+            "end": 355.82,
+            "text": "you will find the view of page source."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 355.82,
+            "end": 357.82,
+            "text": "Meta description tag is attached."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 357.82,
+            "end": 359.82,
+            "text": "This is a compressed HTML."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 359.82,
+            "end": 361.82,
+            "text": "So don't get confused with it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 361.82,
+            "end": 363.82,
+            "text": "Meta description tag is attached."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 363.82,
+            "end": 365.82,
+            "text": "If we talk about Google,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 365.82,
+            "end": 367.82,
+            "text": "Meta description shows Google here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 367.82,
+            "end": 369.82,
+            "text": "I want to show you"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 369.82,
+            "end": 371.82,
+            "text": "the doc type, HTML,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 371.82,
+            "end": 373.82,
+            "text": "what is inside the head section."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 373.82,
+            "end": 375.82,
+            "text": "Meta tags, title tags, script tags,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 375.82,
+            "end": 377.82,
+            "text": "link tags are also there."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 377.82,
+            "end": 379.82,
+            "text": "The script tags you can add"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 379.82,
+            "end": 381.82,
+            "text": "before and above the body."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 381.82,
+            "end": 383.82,
+            "text": "We will talk about the differences in this in the course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 383.82,
+            "end": 385.82,
+            "text": "But you can see here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 385.82,
+            "end": 387.82,
+            "text": "I used the link and added CSS again."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 387.82,
+            "end": 389.82,
+            "text": "Then the body is the main content"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 389.82,
+            "end": 391.82,
+            "text": "of the website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 391.82,
+            "end": 393.82,
+            "text": "Which shows you on this page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 393.82,
+            "end": 395.82,
+            "text": "So the body will be shown on this page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 395.82,
+            "end": 397.82,
+            "text": "Whatever you put in the body,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 397.82,
+            "end": 399.82,
+            "text": "it will show you here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 399.82,
+            "end": 401.82,
+            "text": "And whatever script you put, it will be executed."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 401.82,
+            "end": 403.82,
+            "text": "Now by putting the script here"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 403.82,
+            "end": 405.82,
+            "text": "and by putting the script in the head,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 405.82,
+            "end": 407.82,
+            "text": "what will happen? I will tell you in the course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 407.82,
+            "end": 409.82,
+            "text": "But this is a basic structure"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 409.82,
+            "end": 411.82,
+            "text": "of the HTML website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 411.82,
+            "end": 413.82,
+            "text": "Lang is equal to en, it is an attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 413.82,
+            "end": 415.82,
+            "text": "It is an attribute of a tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 415.82,
+            "end": 417.82,
+            "text": "Lang is equal to en, it is an attribute of a tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 417.82,
+            "end": 419.82,
+            "text": "So what values are used"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 419.82,
+            "end": 421.82,
+            "text": "and what tags are used?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 421.82,
+            "end": 423.82,
+            "text": "Like the name is equal to description"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 423.82,
+            "end": 425.82,
+            "text": "in the meta tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 425.82,
+            "end": 427.82,
+            "text": "The name is equal to description is an attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 427.82,
+            "end": 429.82,
+            "text": "And if you hover in the VS Code,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 429.82,
+            "end": 431.82,
+            "text": "you will know a lot about it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 431.82,
+            "end": 433.82,
+            "text": "I have hovered on the name, and it is telling"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 433.82,
+            "end": 435.82,
+            "text": "about the attributes, why, how, how it is used."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 435.82,
+            "end": 437.82,
+            "text": "Now most of the content"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 437.82,
+            "end": 439.82,
+            "text": "of the body,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 439.82,
+            "end": 441.82,
+            "text": "mostly the HTML raw, you will copy it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 441.82,
+            "end": 443.82,
+            "text": "Mostly code with any .com website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 443.82,
+            "end": 445.82,
+            "text": "You will copy any source code here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 445.82,
+            "end": 447.82,
+            "text": "If I talk about forms,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 447.82,
+            "end": 449.82,
+            "text": "you will copy it in the HTML forms page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 449.82,
+            "end": 451.82,
+            "text": "And you will start making your form"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 451.82,
+            "end": 453.82,
+            "text": "and modify it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 453.82,
+            "end": 455.82,
+            "text": "So copy and paste is very important."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 455.82,
+            "end": 457.82,
+            "text": "According to me, as a senior developer,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 457.82,
+            "end": 459.82,
+            "text": "you should know where to copy and paste"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 459.82,
+            "end": 461.82,
+            "text": "and when to do it. I am not saying it is"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 461.82,
+            "end": 463.82,
+            "text": "for the sake of the government."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 463.82,
+            "end": 465.82,
+            "text": "This thing will always be the same."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 465.82,
+            "end": 467.82,
+            "text": "You type it or copy and paste it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 467.82,
+            "end": 469.82,
+            "text": "Obviously you will prefer to copy and paste it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 469.82,
+            "end": 471.82,
+            "text": "Because this change is not going to happen."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 471.82,
+            "end": 473.82,
+            "text": "The form will remain."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 473.82,
+            "end": 475.82,
+            "text": "If you do it, your time will be saved."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 475.82,
+            "end": 477.82,
+            "text": "Then you have to put your mind to innovation."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 477.82,
+            "end": 479.82,
+            "text": "Which thing can not be copied and pasted."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 479.82,
+            "end": 481.82,
+            "text": "So you should understand it as a sigma rule"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 481.82,
+            "end": 483.82,
+            "text": "that you will copy and paste"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 483.82,
+            "end": 485.82,
+            "text": "the thing which has to be copied and pasted."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 485.82,
+            "end": 487.82,
+            "text": "And where you have to put your mind,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 487.82,
+            "end": 489.82,
+            "text": "you can not copy and paste it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 489.82,
+            "end": 491.82,
+            "text": "So you will save time and put your mind to it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 491.82,
+            "end": 493.82,
+            "text": "The most important part of being"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 493.82,
+            "end": 495.82,
+            "text": "a senior software developer"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 495.82,
+            "end": 497.82,
+            "text": "is to where to copy and paste from."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 497.82,
+            "end": 499.82,
+            "text": "Which stack overflow question to copy and paste from."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 499.82,
+            "end": 501.82,
+            "text": "And how to paste it from where"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 501.82,
+            "end": 503.82,
+            "text": "you have to paste it from."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 503.82,
+            "end": 505.82,
+            "text": "So you can understand it as"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 505.82,
+            "end": 507.82,
+            "text": "the same as the same as the same."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 507.82,
+            "end": 509.82,
+            "text": "But the statement is too much."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 509.82,
+            "end": 511.82,
+            "text": "Now I will tell you about a technique"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 511.82,
+            "end": 513.8199999999999,
+            "text": "that you can see in this mobile"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 513.8199999999999,
+            "end": 515.8199999999999,
+            "text": "that you can develop this website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 515.8199999999999,
+            "end": 517.8199999999999,
+            "text": "Now listen to them carefully."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 517.8199999999999,
+            "end": 519.8199999999999,
+            "text": "Right click and open the terminal."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 519.8199999999999,
+            "end": 521.8199999999999,
+            "text": "And write IPConfig."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 521.8199999999999,
+            "end": 523.8199999999999,
+            "text": "If you are in the old version,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 523.8199999999999,
+            "end": 525.8199999999999,
+            "text": "then you can open the command prompt or power shell."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 525.8199999999999,
+            "end": 527.8199999999999,
+            "text": "When you enter the IPConfig,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 527.8199999999999,
+            "end": 529.8199999999999,
+            "text": "you will see the IPv4 address."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 529.82,
+            "end": 531.82,
+            "text": "1681199"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 531.82,
+            "end": 533.82,
+            "text": "Now I will copy this IP address"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 533.82,
+            "end": 535.82,
+            "text": "that we have found here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 535.82,
+            "end": 537.82,
+            "text": "So I will copy this IPv4 address."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 537.82,
+            "end": 539.82,
+            "text": "And I will write in my settings"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 539.82,
+            "end": 541.82,
+            "text": "Live review."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 541.82,
+            "end": 543.82,
+            "text": "The local IP host address to host your files on"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 543.82,
+            "end": 545.82,
+            "text": "is written here. I will write"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 545.82,
+            "end": 547.82,
+            "text": "my IP address on it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 547.82,
+            "end": 549.82,
+            "text": "And after doing this, I will restart my VS Code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 549.82,
+            "end": 551.82,
+            "text": "You have to make sure"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 551.82,
+            "end": 553.82,
+            "text": "that you go to your Wi-Fi settings"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 553.82,
+            "end": 555.82,
+            "text": "and do your network"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 555.82,
+            "end": 557.82,
+            "text": "as a private network."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 557.82,
+            "end": 559.82,
+            "text": "You should have a private network."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 559.82,
+            "end": 561.82,
+            "text": "You can connect the Wi-Fi to the Wi-Fi"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 561.82,
+            "end": 563.82,
+            "text": "and do your network."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 563.82,
+            "end": 565.82,
+            "text": "Now you will do the show preview"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 565.82,
+            "end": 567.82,
+            "text": "by right clicking."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 567.82,
+            "end": 569.82,
+            "text": "You will get your IP address"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 569.82,
+            "end": 571.82,
+            "text": "at slashindex.html."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 571.82,
+            "end": 573.82,
+            "text": "I can use this on my phone too."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 573.82,
+            "end": 575.82,
+            "text": "I will put this IP address here quickly."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 575.82,
+            "end": 577.82,
+            "text": "So I have put 192.168.1.199"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 577.82,
+            "end": 579.82,
+            "text": "colon 5000"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 579.82,
+            "end": 581.82,
+            "text": "You can also use 3000."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 581.82,
+            "end": 583.82,
+            "text": "You can put your port here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 583.82,
+            "end": 585.82,
+            "text": "And look here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 585.82,
+            "end": 587.82,
+            "text": "This trick is very useful"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 587.82,
+            "end": 589.82,
+            "text": "when we want to"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 589.82,
+            "end": 591.82,
+            "text": "preview on our mobile."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 591.82,
+            "end": 593.82,
+            "text": "Because most of the websites are on the phone."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 593.82,
+            "end": 595.82,
+            "text": "So we want our"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 595.82,
+            "end": 597.82,
+            "text": "users to enjoy"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 597.82,
+            "end": 599.82,
+            "text": "our website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 599.82,
+            "end": 601.82,
+            "text": "And we are developing on the computer."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 601.82,
+            "end": 603.82,
+            "text": "So that testing will be done."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 603.82,
+            "end": 605.82,
+            "text": "If you haven't done the review in the first video"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 605.82,
+            "end": 607.82,
+            "text": "then I will request you"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 607.82,
+            "end": 609.82,
+            "text": "to review your course in the first video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 609.82,
+            "end": 611.82,
+            "text": "I said in the last video, please review it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 611.82,
+            "end": 613.82,
+            "text": "I will give you an initial review."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 613.82,
+            "end": 615.82,
+            "text": "You can write your initial review."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 615.82,
+            "end": 617.82,
+            "text": "As soon as you write your initial review"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 617.82,
+            "end": 619.82,
+            "text": "people will know what is the initial review of this course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 619.82,
+            "end": 621.82,
+            "text": "You can give me 5 stars."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 621.82,
+            "end": 623.82,
+            "text": "Also, you can access the playlist and description."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 623.82,
+            "end": 625.82,
+            "text": "Click here to bookmark it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 625.82,
+            "end": 627.82,
+            "text": "Click on the star to bookmark it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 627.82,
+            "end": 629.82,
+            "text": "And it will start the show in your bookmarks."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 629.82,
+            "end": 631.82,
+            "text": "I have bookmarked it here at Sigma Web Development"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 631.82,
+            "end": 633.82,
+            "text": "and you can save it here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 633.82,
+            "end": 635.82,
+            "text": "Many people have accessed the playlist."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 635.82,
+            "end": 637.82,
+            "text": "So I want everyone to access this playlist."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 637.82,
+            "end": 639.82,
+            "text": "Bookmark and save this playlist."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 639.82,
+            "end": 641.82,
+            "text": "So access the playlist."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 641.82,
+            "end": 643.82,
+            "text": "Like this video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 643.82,
+            "end": 645.82,
+            "text": "Do the same for both the village and the uncle."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 645.82,
+            "end": 647.82,
+            "text": "Thank you so much for watching this video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170146_131",
+            "start": 647.82,
+            "end": 649.82,
+            "text": "And I will see you next time."
+        }
+    ],
+    "full_text": "What's up guys, you are back in the Sigma Web Development course. I'm really very happy that you guys have given so much love to this course. Like this course with high energy. Because for this Sigma free course, Sigma Chats are always liked. In today's video, I will explain you guys how to make a basic website look like. Along with that, I will tell you guys a mobile trick that will help you to know how you can preview your websites in your phone. You guys have a request to write to me in the comment section and tell me if you have HTML or not. That will help me structure this course better. In this video, I will tell you guys about ChatGbD. Because there are a lot of things going on about ChatGbD. In the upcoming videos, I will also give you quizzes. So, be very careful and learn all the concepts. Let's go to the computer screen. Let's roll the info. So guys, I have come to the computer screen. And now we will talk about how to create a basic website for opening, closing, and structure. In this folder, I will create a folder named Video3. I will click on the new folder, Video3 and in the video3, I will shift right click and open with code. And here you can see that my theme is blue. And a lot of people have said that blue is not good. Look, the theme is your choice. If you want to change the color theme, you can change your color theme. I want to use the GitHub dark. I can use GitHub dark. It's your choice. To create a new file, I will add index.html. We had already talked about that if I write the title of the page, and write the content here, and then use the link tag here, and use the emit here and link the style.css. I am doing it so fast because it has already been talked about in the previous video. And here if I write script.js here, and here I write let us say alert hello. So I will not tell you again that if I put a script tag here, just before the body, and then put script colon src here, and then I put script.js here. And then click here and open with browser, then this will come hello, and here if I red the body background, then it will be red. I will not tell you all this because I have already told you all this. I will tell you all this now. What does this structure mean? Why did it write so big? This is a doubt for a beginner that we cannot write the title and content directly. What is the need to write so much? I will tell you this. What is the need to write so much? I will reload it. Look, the content here is here, and it has turned red here. You have seen that I needed to reload the page. You must have thought why do people need to reload the questions. When it already reloads live. Look, I have changed the CSS file. When I change the CSS file, at times we need to reload. If you are using HTML file, I am changing the changes of HTML file, you don't need to reload like this. Now here, what I will do is I will come back and explain to you. This is a basic structure of any HTML website. First, we write doc type HTML, then we write HTML tag. Now look, this is the opening tag of HTML tag, and here is the closing tag. This is the opening tag of the body, and here is the closing tag. Here is the opening tag of the head, and here is the closing tag. The problem in this is the content of the head. What is the problem in HTML? It is the content of HTML. According to that, the title of the title is the content of the title. Now what is the content of the meta? Meta is a self-closing tag. There are two types of tags in HTML, one is self-closing tag and one is pair tag. What is pair tag? Your opening tag is a closing tag. This is the basic structure of the HTML website. Now here you have seen that the background has turned red. Whose background is this? This is the background of CSS. If I remove the CSS from here, and say that I will remove it from here quickly, what will I say from CSS? Remove it quickly. And as soon as I say remove from here, it will have to be removed from here, I will reload the page, so you can see that it has been removed from here. Similarly, I can say from JavaScript, remove it quickly. You see, I said from here, then the alert will also be closed. So you see, I will reload it now, then the alert will also be closed. So in this content of HTML, I added CSS and JavaScript. This additionally, we used the functionalities of CSS and JavaScript to link this HTML page. Now I already told you about the title tag. This is used to set the title of the page. Now you just have to give the purpose of this that you see the title here. The search engines that are used, they also use it. If you will write here, code with Harry HTML, then code with Harry's HTML introduction, HTML working, all the titles I have put on the page. You see here, HTML introduction is the title of the page. So these titles are used by the search engines and are passed. Now I will change the page here. Here HTML is working, its title. Now I will change the page again. Here HTML installation is its title. So the titles keep changing. Along with that, as I will change it, it will keep changing. So the title of HTML pages doesn't just mean that you can see here, these are also very useful in SEO. And they tell you what is the content of the page. So they describe the content of the page. As I am getting to know here, what is HTML execution. What does HTML execution mean? How is HTML executed? I am being told about this page. So changing the title of the page is a very good SEO practice. So from any framework, we will make a website. We will keep changing the title of the page. Now here is the head section. The metadata of the page is inside the head section. Like the title is done. And you can link it with any script. Along with that, there are other metadata tags. I will tell you about them later. Meta tags basically means how is the HTML document. It is told about it. Keywords are added, descriptions are added. Meta description is a very important keyword for SEO. So what is the page about? If you go to my website, you will find the view of page source. Meta description tag is attached. This is a compressed HTML. So don't get confused with it. Meta description tag is attached. If we talk about Google, Meta description shows Google here. I want to show you the doc type, HTML, what is inside the head section. Meta tags, title tags, script tags, link tags are also there. The script tags you can add before and above the body. We will talk about the differences in this in the course. But you can see here, I used the link and added CSS again. Then the body is the main content of the website. Which shows you on this page. So the body will be shown on this page. Whatever you put in the body, it will show you here. And whatever script you put, it will be executed. Now by putting the script here and by putting the script in the head, what will happen? I will tell you in the course. But this is a basic structure of the HTML website. Lang is equal to en, it is an attribute. It is an attribute of a tag. Lang is equal to en, it is an attribute of a tag. So what values are used and what tags are used? Like the name is equal to description in the meta tag. The name is equal to description is an attribute. And if you hover in the VS Code, you will know a lot about it. I have hovered on the name, and it is telling about the attributes, why, how, how it is used. Now most of the content of the body, mostly the HTML raw, you will copy it. Mostly code with any .com website. You will copy any source code here. If I talk about forms, you will copy it in the HTML forms page. And you will start making your form and modify it. So copy and paste is very important. According to me, as a senior developer, you should know where to copy and paste and when to do it. I am not saying it is for the sake of the government. This thing will always be the same. You type it or copy and paste it. Obviously you will prefer to copy and paste it. Because this change is not going to happen. The form will remain. If you do it, your time will be saved. Then you have to put your mind to innovation. Which thing can not be copied and pasted. So you should understand it as a sigma rule that you will copy and paste the thing which has to be copied and pasted. And where you have to put your mind, you can not copy and paste it. So you will save time and put your mind to it. The most important part of being a senior software developer is to where to copy and paste from. Which stack overflow question to copy and paste from. And how to paste it from where you have to paste it from. So you can understand it as the same as the same as the same. But the statement is too much. Now I will tell you about a technique that you can see in this mobile that you can develop this website. Now listen to them carefully. Right click and open the terminal. And write IPConfig. If you are in the old version, then you can open the command prompt or power shell. When you enter the IPConfig, you will see the IPv4 address. 1681199 Now I will copy this IP address that we have found here. So I will copy this IPv4 address. And I will write in my settings Live review. The local IP host address to host your files on is written here. I will write my IP address on it. And after doing this, I will restart my VS Code. You have to make sure that you go to your Wi-Fi settings and do your network as a private network. You should have a private network. You can connect the Wi-Fi to the Wi-Fi and do your network. Now you will do the show preview by right clicking. You will get your IP address at slashindex.html. I can use this on my phone too. I will put this IP address here quickly. So I have put 192.168.1.199 colon 5000 You can also use 3000. You can put your port here. And look here. This trick is very useful when we want to preview on our mobile. Because most of the websites are on the phone. So we want our users to enjoy our website. And we are developing on the computer. So that testing will be done. If you haven't done the review in the first video then I will request you to review your course in the first video. I said in the last video, please review it. I will give you an initial review. You can write your initial review. As soon as you write your initial review people will know what is the initial review of this course. You can give me 5 stars. Also, you can access the playlist and description. Click here to bookmark it. Click on the star to bookmark it. And it will start the show in your bookmarks. I have bookmarked it here at Sigma Web Development and you can save it here. Many people have accessed the playlist. So I want everyone to access this playlist. Bookmark and save this playlist. So access the playlist. Like this video. Do the same for both the village and the uncle. Thank you so much for watching this video. And I will see you next time."
+}

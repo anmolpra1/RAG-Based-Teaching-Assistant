@@ -1,0 +1,3141 @@
+{
+    "chunks": [
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 0.0,
+            "end": 5.6000000000000005,
+            "text": "In this video, we will learn how to use audio, video and media elements in HTML."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 5.6000000000000005,
+            "end": 10.56,
+            "text": "We have seen in our very first video that we can embed videos in HTML."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 10.56,
+            "end": 13.36,
+            "text": "Today, I will tell you how to play video auto."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 13.36,
+            "end": 19.84,
+            "text": "How can you keep muted video and how can you enable and disable video controls."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 19.84,
+            "end": 22.56,
+            "text": "Along with that, we will also see a lot of audio."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 22.56,
+            "end": 25.52,
+            "text": "How can media be shown in a page overall."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 25.52,
+            "end": 32.72,
+            "text": "Like this video and stay tuned because the examples I have used are very effective for video tags."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 32.72,
+            "end": 34.0,
+            "text": "Let's go to the middle screen."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 34.0,
+            "end": 35.2,
+            "text": "Let's roll the intro."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 44.239999999999995,
+            "end": 47.120000000000005,
+            "text": "I have made a folder called video 10 this time."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 47.120000000000005,
+            "end": 51.519999999999996,
+            "text": "I will not waste your time by opening and opening the code by right-clicking the shift."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 51.519999999999996,
+            "end": 53.760000000000005,
+            "text": "In fact, I will make it in the index.html."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 53.839999999999996,
+            "end": 56.72,
+            "text": "The topic of today's video is video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 56.72,
+            "end": 60.879999999999995,
+            "text": "How to play video in an HTML file."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 60.879999999999995,
+            "end": 62.4,
+            "text": "How to add video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 62.4,
+            "end": 64.08,
+            "text": "How to add audio."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 64.08,
+            "end": 65.92,
+            "text": "How to add media."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 65.92,
+            "end": 68.48,
+            "text": "So, adding video is very straightforward."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 68.48,
+            "end": 70.16,
+            "text": "I will copy it here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 70.16,
+            "end": 71.84,
+            "text": "This is our video tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 71.84,
+            "end": 73.75999999999999,
+            "text": "It has an SRC attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 73.75999999999999,
+            "end": 76.96,
+            "text": "And there are some other attributes about it that I will discuss with you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 76.96,
+            "end": 81.68,
+            "text": "But first, I would like to tell you that video src is equal to this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 81.76,
+            "end": 84.4,
+            "text": "So, if you have video.mp4, then it will be played."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 84.4,
+            "end": 85.76,
+            "text": "I have video.mp4."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 85.76,
+            "end": 86.80000000000001,
+            "text": "So, let's see."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 86.80000000000001,
+            "end": 88.4,
+            "text": "I have put it here with control."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 88.4,
+            "end": 90.56,
+            "text": "And I will click here and preview it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 90.56,
+            "end": 92.88000000000001,
+            "text": "And you can see that this video has come."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 92.88000000000001,
+            "end": 95.60000000000001,
+            "text": "Now it is a very big video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 95.60000000000001,
+            "end": 97.84,
+            "text": "So, what can I do to give it a bit?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 97.84,
+            "end": 101.52000000000001,
+            "text": "So, I can say that the bit is equal to 555 pixels."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 101.52000000000001,
+            "end": 105.60000000000001,
+            "text": "And as soon as I do 555 pixels, in fact, I do not need to write px."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 105.60000000000001,
+            "end": 106.80000000000001,
+            "text": "I will just do 555."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 106.80000000000001,
+            "end": 108.96000000000001,
+            "text": "As soon as we do not need to write px in the image."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 108.96000000000001,
+            "end": 111.36000000000001,
+            "text": "Here, we do not need to write px."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 111.52,
+            "end": 117.36,
+            "text": "So, as soon as I do 555, I do height is equal to 555."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 117.36,
+            "end": 118.72,
+            "text": "So that it becomes smaller."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 118.72,
+            "end": 120.0,
+            "text": "In fact, I do it smaller."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 120.0,
+            "end": 121.44,
+            "text": "I do 255."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 121.44,
+            "end": 122.72,
+            "text": "And you see, it came here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 122.72,
+            "end": 124.08,
+            "text": "Okay, now I will play it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 124.08,
+            "end": 125.03999999999999,
+            "text": "Because I have put control."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 125.03999999999999,
+            "end": 126.08,
+            "text": "I can play it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 126.08,
+            "end": 128.07999999999998,
+            "text": "Look, there is a better route than America."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 128.07999999999998,
+            "end": 130.0,
+            "text": "My name is Jogi."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 130.0,
+            "end": 130.96,
+            "text": "Where did you go to US?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 130.96,
+            "end": 132.16,
+            "text": "I went to a lot of places in US."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 132.16,
+            "end": 132.72,
+            "text": "Tell me."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 132.72,
+            "end": 133.52,
+            "text": "Jogi."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 135.52,
+            "end": 138.07999999999998,
+            "text": "So, you can play video like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 138.07999999999998,
+            "end": 139.52,
+            "text": "Now, some attributes are added here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 139.52,
+            "end": 140.48000000000002,
+            "text": "This is video tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 140.48000000000002,
+            "end": 142.08,
+            "text": "It is very simple to use video tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 142.08,
+            "end": 143.44,
+            "text": "You should have a video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 143.44,
+            "end": 144.96,
+            "text": "You have given the path of the video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 144.96,
+            "end": 146.24,
+            "text": "You have written the controls."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 146.24,
+            "end": 147.20000000000002,
+            "text": "So, these controls will come."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 147.20000000000002,
+            "end": 149.04000000000002,
+            "text": "You can download it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 149.04000000000002,
+            "end": 150.0,
+            "text": "You can do full screen."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 150.0,
+            "end": 150.88,
+            "text": "You can do mute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 150.88,
+            "end": 152.56,
+            "text": "You can do picture in picture."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 152.56,
+            "end": 154.88,
+            "text": "All this automatically presents your browser."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 154.88,
+            "end": 156.48000000000002,
+            "text": "But I will tell you some attributes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 156.48000000000002,
+            "end": 157.76000000000002,
+            "text": "The first attribute is SRC."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 157.76000000000002,
+            "end": 160.0,
+            "text": "You must know that, put a video here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 160.0,
+            "end": 161.92000000000002,
+            "text": "The name of the video file is SRC."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 161.92000000000002,
+            "end": 164.96,
+            "text": "This video file can also come from an external URL."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 164.96,
+            "end": 165.68,
+            "text": "You understand?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 165.68,
+            "end": 169.04000000000002,
+            "text": "If I have uploaded another video on Amazon S3."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 169.04,
+            "end": 170.56,
+            "text": "I can also put the URL there."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 170.56,
+            "end": 171.44,
+            "text": "It is not necessary."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 171.44,
+            "end": 175.84,
+            "text": "The file can be on your server or third party."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 175.84,
+            "end": 177.2,
+            "text": "Now, what controls do?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 177.2,
+            "end": 179.6,
+            "text": "Arts, video controls like play, pause and volume."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 179.6,
+            "end": 182.32,
+            "text": "Which we saw here in the video of Bupindar Jogi."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 182.32,
+            "end": 185.35999999999999,
+            "text": "You are getting the controls here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 185.35999999999999,
+            "end": 187.2,
+            "text": "Now, what is this?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 187.2,
+            "end": 191.76,
+            "text": "The browser automatically sees what control will be added in your video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 191.76,
+            "end": 193.04,
+            "text": "Then, what will auto play?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 193.04,
+            "end": 194.16,
+            "text": "It will automatically play."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 194.16,
+            "end": 195.2,
+            "text": "Like the page will load."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 195.2,
+            "end": 195.76,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 195.76,
+            "end": 197.12,
+            "text": "So, if I put auto play here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 197.12,
+            "end": 198.39999999999998,
+            "text": "I will put auto play here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 198.48000000000002,
+            "end": 198.96,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 199.92000000000002,
+            "end": 201.12,
+            "text": "What do you see on the market road?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 201.12,
+            "end": 201.92000000000002,
+            "text": "What is happening here?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 201.92000000000002,
+            "end": 202.64000000000001,
+            "text": "Look here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 202.64000000000001,
+            "end": 203.68,
+            "text": "It is good."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 203.68,
+            "end": 205.76000000000002,
+            "text": "You can see that this auto play is done here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 205.76000000000002,
+            "end": 206.24,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 206.24,
+            "end": 207.92000000000002,
+            "text": "I will put auto play here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 207.92000000000002,
+            "end": 210.64000000000001,
+            "text": "And our next attribute is loop."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 210.64000000000001,
+            "end": 214.64000000000001,
+            "text": "That is, once our video is played."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 214.64000000000001,
+            "end": 215.92000000000002,
+            "text": "Then it will be loop."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 215.92000000000002,
+            "end": 216.96,
+            "text": "Like I will show you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 216.96,
+            "end": 218.4,
+            "text": "What do you see?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 218.4,
+            "end": 219.36,
+            "text": "Bupindar Jogi."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 219.36,
+            "end": 220.4,
+            "text": "What do you see on the market road?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 220.4,
+            "end": 221.36,
+            "text": "This is started again."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 221.36,
+            "end": 223.12,
+            "text": "Once I finished this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 223.12,
+            "end": 224.4,
+            "text": "This is started again."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 224.4,
+            "end": 224.72,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 224.72,
+            "end": 227.36,
+            "text": "This loop works like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 227.36,
+            "end": 228.72000000000003,
+            "text": "Next attribute is muted."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 228.72000000000003,
+            "end": 230.08,
+            "text": "Muted video is muted."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 230.08,
+            "end": 231.84,
+            "text": "So, if I write here muted."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 231.84,
+            "end": 233.60000000000002,
+            "text": "Sometimes we want the video to be muted."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 233.60000000000002,
+            "end": 237.04000000000002,
+            "text": "In fact, when I add videos here on code with 3.com."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 237.04000000000002,
+            "end": 238.4,
+            "text": "And I demonstrate something."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 238.4,
+            "end": 240.16000000000003,
+            "text": "I am downloading VS Code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 240.16000000000003,
+            "end": 241.92000000000002,
+            "text": "So, I use muted attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 241.92000000000002,
+            "end": 244.0,
+            "text": "But I don't want that when I have recorded a video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 244.0,
+            "end": 246.0,
+            "text": "If there is a background noise, they will hear you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 246.0,
+            "end": 248.48000000000002,
+            "text": "For example, I want to show you that this is an element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 248.48000000000002,
+            "end": 250.08,
+            "text": "So, I will make a video by scrolling like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 250.08,
+            "end": 251.36,
+            "text": "I will highlight it like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 251.36,
+            "end": 252.48000000000002,
+            "text": "So, I don't want audio in it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 252.48000000000002,
+            "end": 254.08,
+            "text": "So, I will mute it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 254.16000000000003,
+            "end": 257.68,
+            "text": "So, you can use muted attribute in your websites."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 257.68,
+            "end": 258.40000000000003,
+            "text": "Then, poster."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 258.40000000000003,
+            "end": 259.52000000000004,
+            "text": "Poster is very important."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 259.52000000000004,
+            "end": 261.44,
+            "text": "So, I have an image here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 261.44,
+            "end": 262.72,
+            "text": "Download.jpg."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 262.72,
+            "end": 263.28000000000003,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 263.28000000000003,
+            "end": 265.84000000000003,
+            "text": "If I write here, poster is equal to"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 265.84000000000003,
+            "end": 268.0,
+            "text": "And I write download.jpg."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 268.0,
+            "end": 269.84000000000003,
+            "text": "So, you will see something like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 269.84000000000003,
+            "end": 270.88,
+            "text": "Okay. This is how it looks."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 270.88,
+            "end": 272.24,
+            "text": "I will play it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 272.24,
+            "end": 273.36,
+            "text": "Then the video will be played."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 273.36,
+            "end": 274.40000000000003,
+            "text": "So, like this thumbnail."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 274.40000000000003,
+            "end": 274.8,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 274.8,
+            "end": 276.24,
+            "text": "The thumbnail of the YouTube video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 276.24,
+            "end": 278.24,
+            "text": "This is the poster attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 278.24,
+            "end": 280.8,
+            "text": "So, you can use all these attributes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 280.8,
+            "end": 282.64,
+            "text": "You know that width and height."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 282.64,
+            "end": 284.32,
+            "text": "You specify the dimension of the video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 284.32,
+            "end": 285.52000000000004,
+            "text": "Like I have written width and height."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 285.52000000000004,
+            "end": 287.04,
+            "text": "You saw both the height and height."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 287.04,
+            "end": 290.32,
+            "text": "So, I hope you have understood this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 290.32,
+            "end": 293.76,
+            "text": "Now, the thing I want to tell you after this is audio."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 293.76,
+            "end": 295.84000000000003,
+            "text": "So, this is all the attributes of the video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 295.84000000000003,
+            "end": 296.96000000000004,
+            "text": "It is very straightforward."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 296.96000000000004,
+            "end": 298.48,
+            "text": "I want you to make a website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 298.48,
+            "end": 299.76,
+            "text": "It was very good."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 299.76,
+            "end": 301.92,
+            "text": "Which I am going to give you at the end of this video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 301.92,
+            "end": 302.56,
+            "text": "In a quick quiz."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 302.56,
+            "end": 304.0,
+            "text": "So, do listen to a quick quiz."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 304.0,
+            "end": 306.32,
+            "text": "In fact, I will put a quick quiz from the heading."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 306.32,
+            "end": 307.12,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 307.12,
+            "end": 308.32,
+            "text": "So that I don't forget."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 309.52,
+            "end": 310.56,
+            "text": "I will give you this right now."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 310.56,
+            "end": 312.08,
+            "text": "And this is going to be a very interesting quiz."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 312.08,
+            "end": 313.44,
+            "text": "And everyone should solve it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 313.44,
+            "end": 315.2,
+            "text": "But before that."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 316.08,
+            "end": 318.08,
+            "text": "As you write audio, there is SRC here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 318.08,
+            "end": 320.08,
+            "text": "And I am putting it in the SRC in Sachin.mp3."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 320.8,
+            "end": 322.96,
+            "text": "So, I will put it as soon as I put it in Sachin.mp3."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 322.96,
+            "end": 323.68,
+            "text": "Now, look here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 323.68,
+            "end": 324.56,
+            "text": "I will reload it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 325.28000000000003,
+            "end": 326.88,
+            "text": "And the audio is not here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 326.88,
+            "end": 327.68,
+            "text": "Which is strange."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 327.68,
+            "end": 328.8,
+            "text": "Let me see what is the problem here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 329.68,
+            "end": 330.96,
+            "text": "I will not put SRC equal to."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 330.96,
+            "end": 332.32,
+            "text": "I will have to write controls here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 333.12,
+            "end": 335.2,
+            "text": "So, if I write with controls, I will not see the audio."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 335.2,
+            "end": 336.24,
+            "text": "Look, now the audio is here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 336.24,
+            "end": 337.44,
+            "text": "I can see the controls here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 337.44,
+            "end": 338.88,
+            "text": "I can set the volume of it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 338.88,
+            "end": 340.32,
+            "text": "I play this audio."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 340.4,
+            "end": 342.15999999999997,
+            "text": "Sachin, what is in Sachin?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 342.15999999999997,
+            "end": 343.36,
+            "text": "It is not in Sachin."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 343.36,
+            "end": 343.84,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 343.84,
+            "end": 344.8,
+            "text": "So, this is our audio."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 344.8,
+            "end": 346.48,
+            "text": "If I mute it, it will not work."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 346.48,
+            "end": 347.68,
+            "text": "I can increase it further."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 347.68,
+            "end": 348.96,
+            "text": "It is not in Sachin.mp3."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 348.96,
+            "end": 349.36,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 349.36,
+            "end": 350.08,
+            "text": "You have seen it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 350.08,
+            "end": 351.92,
+            "text": "So, this is the audio called Sachin.mp3."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 351.92,
+            "end": 353.2,
+            "text": "Now, what we will do is."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 353.2,
+            "end": 355.84,
+            "text": "We will see some attributes of this audio."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 355.84,
+            "end": 358.96,
+            "text": "You know the source video file."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 358.96,
+            "end": 359.52,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 359.52,
+            "end": 361.28,
+            "text": "Then, you know the controls."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 361.28,
+            "end": 362.32,
+            "text": "Play, pause, and volume."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 362.32,
+            "end": 363.6,
+            "text": "Which we saw just now."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 363.6,
+            "end": 364.4,
+            "text": "What will auto play?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 364.4,
+            "end": 365.76,
+            "text": "It will play automatically."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 365.76,
+            "end": 367.2,
+            "text": "If I play here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 368.0,
+            "end": 369.44,
+            "text": "Sachin, what is in Sachin?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 369.52,
+            "end": 370.56,
+            "text": "It will play automatically."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 370.56,
+            "end": 371.04,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 372.16,
+            "end": 373.28,
+            "text": "So, what will auto play?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 373.28,
+            "end": 374.4,
+            "text": "It will play automatically."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 374.4,
+            "end": 375.04,
+            "text": "This is our audio."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 375.84,
+            "end": 378.71999999999997,
+            "text": "After this, the next attribute is loop."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 378.71999999999997,
+            "end": 379.92,
+            "text": "What will loop do?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 379.92,
+            "end": 380.96,
+            "text": "It will repeat it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 380.96,
+            "end": 382.32,
+            "text": "If I want to loop it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 382.32,
+            "end": 383.2,
+            "text": "So, I have played auto."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 383.2,
+            "end": 384.16,
+            "text": "I will loop it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 384.16,
+            "end": 386.0,
+            "text": "What is Sachin in Sachin?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 386.0,
+            "end": 387.36,
+            "text": "It is not in Sachin.mp3."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 387.36,
+            "end": 387.84,
+            "text": "Once."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 387.84,
+            "end": 388.88,
+            "text": "What is Sachin in Sachin?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 388.88,
+            "end": 389.52,
+            "text": "Second time."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 389.52,
+            "end": 390.4,
+            "text": "It is not in Sachin.mp3."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 390.4,
+            "end": 390.96,
+            "text": "So, you saw it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 390.96,
+            "end": 391.6,
+            "text": "It was repeated."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 391.6,
+            "end": 393.12,
+            "text": "I mean, it was saved once."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 393.12,
+            "end": 394.72,
+            "text": "Then, it was saved again."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 394.72,
+            "end": 396.15999999999997,
+            "text": "Because I had looped the audio."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 396.15999999999997,
+            "end": 396.72,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 396.72,
+            "end": 398.15999999999997,
+            "text": "So, you have seen this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 398.15999999999997,
+            "end": 399.12,
+            "text": "Sachin.mp3."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 399.12,
+            "end": 400.08,
+            "text": "I have looped it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 400.08,
+            "end": 401.28000000000003,
+            "text": "I mean, it was saved once."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 401.28000000000003,
+            "end": 402.16,
+            "text": "Then, it was saved again."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 402.16,
+            "end": 402.8,
+            "text": "Then, it was saved again."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 402.8,
+            "end": 402.96,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 402.96,
+            "end": 403.76,
+            "text": "What is Sachin in Sachin?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 403.76,
+            "end": 404.24,
+            "text": "Sachin."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 404.24,
+            "end": 404.4,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 404.4,
+            "end": 405.84000000000003,
+            "text": "It was repeatedly said."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 405.84000000000003,
+            "end": 407.36,
+            "text": "Because this is the mp3."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 407.36,
+            "end": 408.88,
+            "text": "It will play again and again."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 408.88,
+            "end": 410.16,
+            "text": "So, there are many use cases."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 410.16,
+            "end": 414.08,
+            "text": "When you want this mp3 to be repeated."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 414.08,
+            "end": 414.56,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 414.56,
+            "end": 416.4,
+            "text": "So, if you want your mp3 to be repeated."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 416.4,
+            "end": 418.32,
+            "text": "You can use it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 418.32,
+            "end": 421.12,
+            "text": "Now, after this, what will mutate?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 421.12,
+            "end": 422.24,
+            "text": "It will mute the audio."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 422.24,
+            "end": 424.4,
+            "text": "And definitely, you don't want by default."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 424.4,
+            "end": 426.24,
+            "text": "Your audio will be muted in most of the cases."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 426.24,
+            "end": 428.8,
+            "text": "But, we sometimes want that."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 428.88,
+            "end": 431.36,
+            "text": "The audio that is muted."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 431.36,
+            "end": 432.72,
+            "text": "And we can say to the user."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 432.72,
+            "end": 433.92,
+            "text": "That, we have to listen to it and mute it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 433.92,
+            "end": 434.88,
+            "text": "Sachin, what is it?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 434.88,
+            "end": 436.72,
+            "text": "We do this when there are multiple audios."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 436.72,
+            "end": 438.64,
+            "text": "You want to show 5-6 audios together."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 438.64,
+            "end": 440.16,
+            "text": "You can mute them."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 440.16,
+            "end": 443.6,
+            "text": "The user who wants to play and mute it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 443.6,
+            "end": 444.08000000000004,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 444.08000000000004,
+            "end": 445.6,
+            "text": "So, you can control it in your hands."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 445.6,
+            "end": 447.36,
+            "text": "If you want, you can use this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 447.36,
+            "end": 447.84000000000003,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 447.84000000000003,
+            "end": 449.04,
+            "text": "This is the whole thing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 449.04,
+            "end": 451.2,
+            "text": "So, I hope you understood this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 451.2,
+            "end": 452.24,
+            "text": "You will have fun."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 452.24,
+            "end": 454.0,
+            "text": "You will be able to preload."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 454.0,
+            "end": 455.68,
+            "text": "The most confusing attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 455.68,
+            "end": 457.68,
+            "text": "That's why I have explained this code with the area.com."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 458.40000000000003,
+            "end": 459.76,
+            "text": "Preload attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 459.76,
+            "end": 461.6,
+            "text": "These values can be."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 461.6,
+            "end": 462.88,
+            "text": "The first value can be none."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 462.88,
+            "end": 463.92,
+            "text": "This is the default value."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 463.92,
+            "end": 466.88,
+            "text": "It indicates that the browser should not preload the audio at all."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 466.88,
+            "end": 467.44,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 467.44,
+            "end": 472.08,
+            "text": "Preload means that if you want the browser to fetch the data."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 472.08,
+            "end": 474.4,
+            "text": "Then, you will use the preload attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 474.4,
+            "end": 476.4,
+            "text": "Otherwise, you will not use the preload attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 476.4,
+            "end": 477.04,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 477.04,
+            "end": 478.32,
+            "text": "Preload is equal to none."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 478.32,
+            "end": 479.12,
+            "text": "It is the default value."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 479.12,
+            "end": 480.48,
+            "text": "Preload is equal to metadata."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 480.48,
+            "end": 486.0,
+            "text": "Means that the browser will preload the information about the audio file."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 486.0,
+            "end": 487.36,
+            "text": "Because it will preload it first."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 487.44,
+            "end": 488.64,
+            "text": "And what will happen if you auto it?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 488.64,
+            "end": 491.12,
+            "text": "The browser will preload the entire audio."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 491.12,
+            "end": 491.76,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 491.76,
+            "end": 493.12,
+            "text": "So, preload is equal to auto."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 493.12,
+            "end": 496.32,
+            "text": "If I do it, it will be downloaded and automatically loaded."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 496.32,
+            "end": 499.36,
+            "text": "So that when the user plays it, it will save the audio."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 499.36,
+            "end": 500.0,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 500.0,
+            "end": 502.16,
+            "text": "So, this is the preload attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 502.16,
+            "end": 503.68,
+            "text": "And it is often asked in interviews."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 503.68,
+            "end": 504.64,
+            "text": "Preload attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 504.64,
+            "end": 507.04,
+            "text": "So, you should know what is preload attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 507.04,
+            "end": 510.96000000000004,
+            "text": "Before moving on, I want you to share this playlist with your friends."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 510.96000000000004,
+            "end": 513.2,
+            "text": "Because I am seeing that the interest is declining."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 513.2,
+            "end": 515.2,
+            "text": "Like we are moving forward in the videos."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 515.2800000000001,
+            "end": 516.8000000000001,
+            "text": "I want you to share it with you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 516.8000000000001,
+            "end": 518.32,
+            "text": "Like this video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 518.32,
+            "end": 523.36,
+            "text": "And also, as you are phoning this repository, you have to star it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 523.36,
+            "end": 524.0,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 524.0,
+            "end": 528.1600000000001,
+            "text": "Your star, your likes, will help me a lot in bringing such free courses."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 528.1600000000001,
+            "end": 530.88,
+            "text": "So, this was about audio and video tags."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 530.88,
+            "end": 531.2,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 531.2,
+            "end": 532.96,
+            "text": "I have told you all the attributes here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 532.96,
+            "end": 535.2,
+            "text": "And you definitely have to use this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 535.2,
+            "end": 539.12,
+            "text": "I will give you all the images so that you can try out this thing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 539.12,
+            "end": 543.12,
+            "text": "Many people were asking that, can we use the replete?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 543.12,
+            "end": 545.44,
+            "text": "Look, I have not used the replete in this course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 545.44,
+            "end": 547.2,
+            "text": "But replete.com is an amazing website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 547.2,
+            "end": 550.0,
+            "text": "If you want, you can use it on your phone."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 550.0,
+            "end": 552.0,
+            "text": "HTML, if you want to run it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 552.0,
+            "end": 554.16,
+            "text": "It is also a replete app for iOS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 554.16,
+            "end": 554.96,
+            "text": "It is also for Android."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 554.96,
+            "end": 556.0,
+            "text": "So, you can try it out."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 556.0,
+            "end": 559.2,
+            "text": "Many people are asking how to record replete in your phone."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 559.2,
+            "end": 560.72,
+            "text": "But, what I want to do now is,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 560.72,
+            "end": 564.96,
+            "text": "that VS Code, which most of the people want to use, prefer."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 564.96,
+            "end": 567.52,
+            "text": "So, I thought, why not make videos in VS Code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 567.52,
+            "end": 570.4,
+            "text": "But, I personally use replete a lot."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 570.4,
+            "end": 571.76,
+            "text": "In fact, videos also come in replete."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 571.84,
+            "end": 574.0,
+            "text": "Next topic is SVG."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 574.0,
+            "end": 575.2,
+            "text": "Media-related."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 575.2,
+            "end": 577.2,
+            "text": "SVG is a format."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 577.2,
+            "end": 583.2,
+            "text": "So, you can create images with high graphics."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 583.2,
+            "end": 586.72,
+            "text": "So, you can copy and make circles in it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 586.72,
+            "end": 589.2,
+            "text": "So, SVG is used in the same way."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 589.2,
+            "end": 591.2,
+            "text": "The way it is used."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 591.2,
+            "end": 592.8,
+            "text": "Our IMG tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 592.8,
+            "end": 595.6,
+            "text": "So, if I put SVG here, it will come here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 595.6,
+            "end": 598.08,
+            "text": "So, this circular SVG came here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 598.08,
+            "end": 601.2,
+            "text": "Video, audio, SVG were these in-line elements."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 601.76,
+            "end": 603.76,
+            "text": "So, we are getting to see in the same line."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 603.76,
+            "end": 605.76,
+            "text": "We have seen here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 605.76,
+            "end": 607.76,
+            "text": "Now, what is here?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 607.76,
+            "end": 609.76,
+            "text": "You can save SVG file separately."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 609.76,
+            "end": 611.76,
+            "text": "You can save SVG file separately."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 611.76,
+            "end": 613.76,
+            "text": "If I write here, that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 613.76,
+            "end": 615.76,
+            "text": "IMG.SVG and save SVG content."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 615.76,
+            "end": 619.76,
+            "text": "So, if I write here, I will write it by IMG."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 619.76,
+            "end": 621.76,
+            "text": "And I will write IMG.SVG."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 621.76,
+            "end": 623.76,
+            "text": "So, you can see here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 623.76,
+            "end": 625.76,
+            "text": "That I didn't get to see this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 625.76,
+            "end": 629.76,
+            "text": "If I write here, and write my SVG image."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 630.3199999999999,
+            "end": 632.3199999999999,
+            "text": "So, you have to see here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 632.3199999999999,
+            "end": 634.3199999999999,
+            "text": "My SVG image came like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 634.3199999999999,
+            "end": 636.3199999999999,
+            "text": "But I didn't get to see SVG."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 636.3199999999999,
+            "end": 638.3199999999999,
+            "text": "Why did this happen?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 638.3199999999999,
+            "end": 640.3199999999999,
+            "text": "Because SVG is"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 640.3199999999999,
+            "end": 642.3199999999999,
+            "text": "I write SVG file in browser."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 642.3199999999999,
+            "end": 644.3199999999999,
+            "text": "And you can see that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 644.3199999999999,
+            "end": 646.3199999999999,
+            "text": "you will put a declaration"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 646.3199999999999,
+            "end": 648.3199999999999,
+            "text": "if you want to see SVG file in browser."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 648.3199999999999,
+            "end": 650.3199999999999,
+            "text": "I will show you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 650.3199999999999,
+            "end": 652.3199999999999,
+            "text": "So, I have written here, SVG file not showing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 652.3199999999999,
+            "end": 654.3199999999999,
+            "text": "So, here is the answer of stack overflow."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 654.3199999999999,
+            "end": 656.3199999999999,
+            "text": "Which will tell you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 656.3199999999999,
+            "end": 658.3199999999999,
+            "text": "So, you have to write this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 658.88,
+            "end": 660.88,
+            "text": "You have to add this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 660.88,
+            "end": 662.88,
+            "text": "It is called namespace declaration."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 662.88,
+            "end": 664.88,
+            "text": "So, you have to add this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 664.88,
+            "end": 666.88,
+            "text": "And now, you can see here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 666.88,
+            "end": 668.88,
+            "text": "So, this is very important."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 668.88,
+            "end": 670.88,
+            "text": "And many people in future"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 670.88,
+            "end": 672.88,
+            "text": "will get stuck in this problem."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 672.88,
+            "end": 674.88,
+            "text": "I will get stuck."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 674.88,
+            "end": 676.88,
+            "text": "So, I am telling you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 676.88,
+            "end": 678.88,
+            "text": "The problem you got stuck in"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 678.88,
+            "end": 680.88,
+            "text": "I told you earlier."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 680.88,
+            "end": 682.8800000000001,
+            "text": "You didn't get any problem."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 682.8800000000001,
+            "end": 684.8800000000001,
+            "text": "I told you about problem and solution."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 684.8800000000001,
+            "end": 686.8800000000001,
+            "text": "Next topic is iframes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 687.4399999999999,
+            "end": 689.4399999999999,
+            "text": "It is very simple."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 689.4399999999999,
+            "end": 691.4399999999999,
+            "text": "You can embed a website from iframe."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 691.4399999999999,
+            "end": 693.4399999999999,
+            "text": "Like if I want to"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 693.4399999999999,
+            "end": 695.4399999999999,
+            "text": "embed this web page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 695.4399999999999,
+            "end": 697.4399999999999,
+            "text": "So, I can use iframe."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 697.4399999999999,
+            "end": 699.4399999999999,
+            "text": "So, I have written iframe here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 699.4399999999999,
+            "end": 701.4399999999999,
+            "text": "And I will copy this URL."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 701.4399999999999,
+            "end": 703.4399999999999,
+            "text": "And paste here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 703.4399999999999,
+            "end": 705.4399999999999,
+            "text": "And you can see here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 705.4399999999999,
+            "end": 707.4399999999999,
+            "text": "The website is embedded."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 707.4399999999999,
+            "end": 709.4399999999999,
+            "text": "So, iframe."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 709.4399999999999,
+            "end": 711.44,
+            "text": "You will definitely want to embed in big iframe."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 711.44,
+            "end": 713.44,
+            "text": "But if you want to embed,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 713.44,
+            "end": 715.44,
+            "text": "you can embed it like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 716.0,
+            "end": 718.0,
+            "text": "I will increase the height."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 718.0,
+            "end": 720.0,
+            "text": "So, width is equal to width."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 720.0,
+            "end": 722.0,
+            "text": "I will give width equal to 122."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 722.0,
+            "end": 724.0,
+            "text": "Height is equal to 444."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 724.0,
+            "end": 726.0,
+            "text": "So, this is how it came."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 726.0,
+            "end": 728.0,
+            "text": "Now, definitely, if you are coming in this width"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 728.0,
+            "end": 730.0,
+            "text": "then it came in this line."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 730.0,
+            "end": 732.0,
+            "text": "But I will increase the width."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 732.0,
+            "end": 734.0,
+            "text": "I will increase the width."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 734.0,
+            "end": 736.0,
+            "text": "322."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 736.0,
+            "end": 738.0,
+            "text": "So, this is embedded here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 738.0,
+            "end": 740.0,
+            "text": "You can see here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 740.0,
+            "end": 742.0,
+            "text": "You can embed a website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 742.0,
+            "end": 744.0,
+            "text": "One more use of iframe is youtube video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 744.56,
+            "end": 746.56,
+            "text": "If you want to share youtube video"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 746.56,
+            "end": 748.56,
+            "text": "and click on embed,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 748.56,
+            "end": 750.56,
+            "text": "then it will give you iframe code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 750.56,
+            "end": 752.56,
+            "text": "And you can start it here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 752.56,
+            "end": 754.56,
+            "text": "If you want to start at a particular time,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 754.56,
+            "end": 756.56,
+            "text": "then you can do it here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 756.56,
+            "end": 758.56,
+            "text": "The point where you will share it,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 758.56,
+            "end": 760.56,
+            "text": "that time comes here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 760.56,
+            "end": 762.56,
+            "text": "I will show you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 762.56,
+            "end": 764.56,
+            "text": "I want to start from here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 764.56,
+            "end": 766.56,
+            "text": "Start the video from here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 766.56,
+            "end": 768.56,
+            "text": "So, I will click on share."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 768.56,
+            "end": 770.56,
+            "text": "After clicking on share, I will click on embed."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 770.56,
+            "end": 772.56,
+            "text": "I will start at 1219."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 773.1199999999999,
+            "end": 775.1199999999999,
+            "text": "I will put it in my code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 775.1199999999999,
+            "end": 777.1199999999999,
+            "text": "I will comment this iframe."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 777.1199999999999,
+            "end": 779.1199999999999,
+            "text": "And I will put the iframe below."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 779.1199999999999,
+            "end": 781.1199999999999,
+            "text": "I will do the word wrap."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 781.1199999999999,
+            "end": 783.1199999999999,
+            "text": "So that you get the right code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 783.1199999999999,
+            "end": 785.1199999999999,
+            "text": "Now, I will paste it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 785.1199999999999,
+            "end": 787.1199999999999,
+            "text": "After pasting it,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 787.1199999999999,
+            "end": 789.1199999999999,
+            "text": "I will show you the document."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 789.1199999999999,
+            "end": 791.1199999999999,
+            "text": "See, this video is embedded here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 791.1199999999999,
+            "end": 793.1199999999999,
+            "text": "So, I hope you understood this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 793.1199999999999,
+            "end": 795.1199999999999,
+            "text": "And,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 795.1199999999999,
+            "end": 797.1199999999999,
+            "text": "Media HTML is only this much."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 797.1199999999999,
+            "end": 799.1199999999999,
+            "text": "Pretty much."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 799.1199999999999,
+            "end": 801.1199999999999,
+            "text": "You will get to see a lot of things in every topic."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 801.68,
+            "end": 803.68,
+            "text": "But, pretty much, that's all about media."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 803.68,
+            "end": 805.68,
+            "text": "In HTML, audio, video, media is just this much."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 805.68,
+            "end": 807.68,
+            "text": "This is what you will use 95% of the time."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 807.68,
+            "end": 809.68,
+            "text": "Now, I will give you a quick quiz."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 809.68,
+            "end": 811.68,
+            "text": "And your quick quiz is that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 811.68,
+            "end": 813.68,
+            "text": "Create a website"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 813.68,
+            "end": 815.68,
+            "text": "which shows videos of different categories."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 815.68,
+            "end": 817.68,
+            "text": "And,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 817.68,
+            "end": 819.68,
+            "text": "Audio of different categories."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 819.68,
+            "end": 821.68,
+            "text": "You can use"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 821.68,
+            "end": 823.68,
+            "text": "YouTube videos in an iframe."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 823.68,
+            "end": 825.6800000000001,
+            "text": "Using YouTube's embedding feature."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 825.6800000000001,
+            "end": 827.6800000000001,
+            "text": "So, what you have to do is"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 827.6800000000001,
+            "end": 829.6800000000001,
+            "text": "you have to make a website"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 830.2399999999999,
+            "end": 832.2399999999999,
+            "text": "in which you will get a lot of content."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 832.2399999999999,
+            "end": 834.2399999999999,
+            "text": "Now, you can use video audio tags"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 834.2399999999999,
+            "end": 836.2399999999999,
+            "text": "and use this share feature of YouTube."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 836.2399999999999,
+            "end": 838.2399999999999,
+            "text": "The way I have embedded this video,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 838.2399999999999,
+            "end": 840.2399999999999,
+            "text": "you can also embed it here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 840.2399999999999,
+            "end": 842.2399999999999,
+            "text": "And, you can make a really great website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 842.2399999999999,
+            "end": 844.2399999999999,
+            "text": "You can give me a github comment."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 844.2399999999999,
+            "end": 846.2399999999999,
+            "text": "And, you can also share the code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 846.2399999999999,
+            "end": 848.2399999999999,
+            "text": "But, you have to attempt this quiz."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 848.2399999999999,
+            "end": 850.2399999999999,
+            "text": "And, in the comment section,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 850.2399999999999,
+            "end": 852.2399999999999,
+            "text": "write sigma batch op."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 852.2399999999999,
+            "end": 854.24,
+            "text": "Access this playlist."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 854.24,
+            "end": 856.24,
+            "text": "Like the video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 856.24,
+            "end": 858.24,
+            "text": "Write sigma batch op."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 858.8,
+            "end": 860.8,
+            "text": "That's all for now."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 860.8,
+            "end": 862.8,
+            "text": "Thank you so much for watching this video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170251_503",
+            "start": 862.8,
+            "end": 864.8,
+            "text": "And, I will see you next time."
+        }
+    ],
+    "full_text": "In this video, we will learn how to use audio, video and media elements in HTML. We have seen in our very first video that we can embed videos in HTML. Today, I will tell you how to play video auto. How can you keep muted video and how can you enable and disable video controls. Along with that, we will also see a lot of audio. How can media be shown in a page overall. Like this video and stay tuned because the examples I have used are very effective for video tags. Let's go to the middle screen. Let's roll the intro. I have made a folder called video 10 this time. I will not waste your time by opening and opening the code by right-clicking the shift. In fact, I will make it in the index.html. The topic of today's video is video. How to play video in an HTML file. How to add video. How to add audio. How to add media. So, adding video is very straightforward. I will copy it here. This is our video tag. It has an SRC attribute. And there are some other attributes about it that I will discuss with you. But first, I would like to tell you that video src is equal to this. So, if you have video.mp4, then it will be played. I have video.mp4. So, let's see. I have put it here with control. And I will click here and preview it. And you can see that this video has come. Now it is a very big video. So, what can I do to give it a bit? So, I can say that the bit is equal to 555 pixels. And as soon as I do 555 pixels, in fact, I do not need to write px. I will just do 555. As soon as we do not need to write px in the image. Here, we do not need to write px. So, as soon as I do 555, I do height is equal to 555. So that it becomes smaller. In fact, I do it smaller. I do 255. And you see, it came here. Okay, now I will play it. Because I have put control. I can play it. Look, there is a better route than America. My name is Jogi. Where did you go to US? I went to a lot of places in US. Tell me. Jogi. So, you can play video like this. Now, some attributes are added here. This is video tag. It is very simple to use video tag. You should have a video. You have given the path of the video. You have written the controls. So, these controls will come. You can download it. You can do full screen. You can do mute. You can do picture in picture. All this automatically presents your browser. But I will tell you some attributes. The first attribute is SRC. You must know that, put a video here. The name of the video file is SRC. This video file can also come from an external URL. You understand? If I have uploaded another video on Amazon S3. I can also put the URL there. It is not necessary. The file can be on your server or third party. Now, what controls do? Arts, video controls like play, pause and volume. Which we saw here in the video of Bupindar Jogi. You are getting the controls here. Now, what is this? The browser automatically sees what control will be added in your video. Then, what will auto play? It will automatically play. Like the page will load. Okay. So, if I put auto play here. I will put auto play here. Okay. What do you see on the market road? What is happening here? Look here. It is good. You can see that this auto play is done here. Okay. I will put auto play here. And our next attribute is loop. That is, once our video is played. Then it will be loop. Like I will show you. What do you see? Bupindar Jogi. What do you see on the market road? This is started again. Once I finished this. This is started again. Okay. This loop works like this. Next attribute is muted. Muted video is muted. So, if I write here muted. Sometimes we want the video to be muted. In fact, when I add videos here on code with 3.com. And I demonstrate something. I am downloading VS Code. So, I use muted attribute. But I don't want that when I have recorded a video. If there is a background noise, they will hear you. For example, I want to show you that this is an element. So, I will make a video by scrolling like this. I will highlight it like this. So, I don't want audio in it. So, I will mute it. So, you can use muted attribute in your websites. Then, poster. Poster is very important. So, I have an image here. Download.jpg. Okay. If I write here, poster is equal to And I write download.jpg. So, you will see something like this. Okay. This is how it looks. I will play it. Then the video will be played. So, like this thumbnail. Okay. The thumbnail of the YouTube video. This is the poster attribute. So, you can use all these attributes. You know that width and height. You specify the dimension of the video. Like I have written width and height. You saw both the height and height. So, I hope you have understood this. Now, the thing I want to tell you after this is audio. So, this is all the attributes of the video. It is very straightforward. I want you to make a website. It was very good. Which I am going to give you at the end of this video. In a quick quiz. So, do listen to a quick quiz. In fact, I will put a quick quiz from the heading. Okay. So that I don't forget. I will give you this right now. And this is going to be a very interesting quiz. And everyone should solve it. But before that. As you write audio, there is SRC here. And I am putting it in the SRC in Sachin.mp3. So, I will put it as soon as I put it in Sachin.mp3. Now, look here. I will reload it. And the audio is not here. Which is strange. Let me see what is the problem here. I will not put SRC equal to. I will have to write controls here. So, if I write with controls, I will not see the audio. Look, now the audio is here. I can see the controls here. I can set the volume of it. I play this audio. Sachin, what is in Sachin? It is not in Sachin. Okay. So, this is our audio. If I mute it, it will not work. I can increase it further. It is not in Sachin.mp3. Okay. You have seen it. So, this is the audio called Sachin.mp3. Now, what we will do is. We will see some attributes of this audio. You know the source video file. Okay. Then, you know the controls. Play, pause, and volume. Which we saw just now. What will auto play? It will play automatically. If I play here. Sachin, what is in Sachin? It will play automatically. Okay. So, what will auto play? It will play automatically. This is our audio. After this, the next attribute is loop. What will loop do? It will repeat it. If I want to loop it. So, I have played auto. I will loop it. What is Sachin in Sachin? It is not in Sachin.mp3. Once. What is Sachin in Sachin? Second time. It is not in Sachin.mp3. So, you saw it. It was repeated. I mean, it was saved once. Then, it was saved again. Because I had looped the audio. Okay. So, you have seen this. Sachin.mp3. I have looped it. I mean, it was saved once. Then, it was saved again. Then, it was saved again. Okay. What is Sachin in Sachin? Sachin. Okay. It was repeatedly said. Because this is the mp3. It will play again and again. So, there are many use cases. When you want this mp3 to be repeated. Okay. So, if you want your mp3 to be repeated. You can use it. Now, after this, what will mutate? It will mute the audio. And definitely, you don't want by default. Your audio will be muted in most of the cases. But, we sometimes want that. The audio that is muted. And we can say to the user. That, we have to listen to it and mute it. Sachin, what is it? We do this when there are multiple audios. You want to show 5-6 audios together. You can mute them. The user who wants to play and mute it. Okay. So, you can control it in your hands. If you want, you can use this. Okay. This is the whole thing. So, I hope you understood this. You will have fun. You will be able to preload. The most confusing attribute. That's why I have explained this code with the area.com. Preload attribute. These values can be. The first value can be none. This is the default value. It indicates that the browser should not preload the audio at all. Okay. Preload means that if you want the browser to fetch the data. Then, you will use the preload attribute. Otherwise, you will not use the preload attribute. Okay. Preload is equal to none. It is the default value. Preload is equal to metadata. Means that the browser will preload the information about the audio file. Because it will preload it first. And what will happen if you auto it? The browser will preload the entire audio. Okay. So, preload is equal to auto. If I do it, it will be downloaded and automatically loaded. So that when the user plays it, it will save the audio. Okay. So, this is the preload attribute. And it is often asked in interviews. Preload attribute. So, you should know what is preload attribute. Before moving on, I want you to share this playlist with your friends. Because I am seeing that the interest is declining. Like we are moving forward in the videos. I want you to share it with you. Like this video. And also, as you are phoning this repository, you have to star it. Okay. Your star, your likes, will help me a lot in bringing such free courses. So, this was about audio and video tags. Okay. I have told you all the attributes here. And you definitely have to use this. I will give you all the images so that you can try out this thing. Many people were asking that, can we use the replete? Look, I have not used the replete in this course. But replete.com is an amazing website. If you want, you can use it on your phone. HTML, if you want to run it. It is also a replete app for iOS. It is also for Android. So, you can try it out. Many people are asking how to record replete in your phone. But, what I want to do now is, that VS Code, which most of the people want to use, prefer. So, I thought, why not make videos in VS Code. But, I personally use replete a lot. In fact, videos also come in replete. Next topic is SVG. Media-related. SVG is a format. So, you can create images with high graphics. So, you can copy and make circles in it. So, SVG is used in the same way. The way it is used. Our IMG tag. So, if I put SVG here, it will come here. So, this circular SVG came here. Video, audio, SVG were these in-line elements. So, we are getting to see in the same line. We have seen here. Now, what is here? You can save SVG file separately. You can save SVG file separately. If I write here, that IMG.SVG and save SVG content. So, if I write here, I will write it by IMG. And I will write IMG.SVG. So, you can see here. That I didn't get to see this. If I write here, and write my SVG image. So, you have to see here. My SVG image came like this. But I didn't get to see SVG. Why did this happen? Because SVG is I write SVG file in browser. And you can see that you will put a declaration if you want to see SVG file in browser. I will show you. So, I have written here, SVG file not showing. So, here is the answer of stack overflow. Which will tell you. So, you have to write this. You have to add this. It is called namespace declaration. So, you have to add this. And now, you can see here. So, this is very important. And many people in future will get stuck in this problem. I will get stuck. So, I am telling you. The problem you got stuck in I told you earlier. You didn't get any problem. I told you about problem and solution. Next topic is iframes. It is very simple. You can embed a website from iframe. Like if I want to embed this web page. So, I can use iframe. So, I have written iframe here. And I will copy this URL. And paste here. And you can see here. The website is embedded. So, iframe. You will definitely want to embed in big iframe. But if you want to embed, you can embed it like this. I will increase the height. So, width is equal to width. I will give width equal to 122. Height is equal to 444. So, this is how it came. Now, definitely, if you are coming in this width then it came in this line. But I will increase the width. I will increase the width. 322. So, this is embedded here. You can see here. You can embed a website. One more use of iframe is youtube video. If you want to share youtube video and click on embed, then it will give you iframe code. And you can start it here. If you want to start at a particular time, then you can do it here. The point where you will share it, that time comes here. I will show you. I want to start from here. Start the video from here. So, I will click on share. After clicking on share, I will click on embed. I will start at 1219. I will put it in my code. I will comment this iframe. And I will put the iframe below. I will do the word wrap. So that you get the right code. Now, I will paste it. After pasting it, I will show you the document. See, this video is embedded here. So, I hope you understood this. And, Media HTML is only this much. Pretty much. You will get to see a lot of things in every topic. But, pretty much, that's all about media. In HTML, audio, video, media is just this much. This is what you will use 95% of the time. Now, I will give you a quick quiz. And your quick quiz is that Create a website which shows videos of different categories. And, Audio of different categories. You can use YouTube videos in an iframe. Using YouTube's embedding feature. So, what you have to do is you have to make a website in which you will get a lot of content. Now, you can use video audio tags and use this share feature of YouTube. The way I have embedded this video, you can also embed it here. And, you can make a really great website. You can give me a github comment. And, you can also share the code. But, you have to attempt this quiz. And, in the comment section, write sigma batch op. Access this playlist. Like the video. Write sigma batch op. That's all for now. Thank you so much for watching this video. And, I will see you next time."
+}

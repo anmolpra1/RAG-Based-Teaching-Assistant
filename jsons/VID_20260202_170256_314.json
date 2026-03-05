@@ -1,0 +1,432 @@
+{
+    "chunks": [
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 0.0,
+            "end": 4.76,
+            "text": "Guys, in today's video, I will give you an exercise and Jojo will solve this exercise."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 4.76,
+            "end": 6.6000000000000005,
+            "text": "I will also give a shout out to them."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 6.6000000000000005,
+            "end": 8.8,
+            "text": "So, write in the comment section."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 8.8,
+            "end": 15.36,
+            "text": "If you accept this challenge, I will give you a question and you will have to solve it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 15.36,
+            "end": 21.080000000000002,
+            "text": "And it will be a basis for all the concepts that we have studied in the Sigma Web Development course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 21.080000000000002,
+            "end": 24.080000000000002,
+            "text": "So, I am very excited to give you a question."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 24.080000000000002,
+            "end": 25.96,
+            "text": "I hope you are equally excited."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 25.96,
+            "end": 27.44,
+            "text": "Let's roll the intro."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 30.0,
+            "end": 36.56,
+            "text": "Music"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 36.56,
+            "end": 40.76,
+            "text": "So, guys, as you can see in the computer screen, if you haven't accessed all the playlists yet,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 40.76,
+            "end": 45.04,
+            "text": "then click here and open this playlist and click Save."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 45.04,
+            "end": 49.64,
+            "text": "And if you haven't accessed the code, then that too is updated to video 11."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 49.64,
+            "end": 52.32,
+            "text": "And I will keep updating as the videos will continue."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 52.32,
+            "end": 56.24,
+            "text": "Now, for the question that I want to give you, I will make a folder first."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 56.24,
+            "end": 58.400000000000006,
+            "text": "I will definitely name the folder."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 58.4,
+            "end": 61.08,
+            "text": "I will click Shift and open with code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 61.08,
+            "end": 63.199999999999996,
+            "text": "And look at this challenge, everyone accepts it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 63.199999999999996,
+            "end": 65.4,
+            "text": "If you accept it, I will feel good."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 65.4,
+            "end": 71.75999999999999,
+            "text": "What you do here is that I will make an index.html and I will give you a question."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 71.75999999999999,
+            "end": 78.96,
+            "text": "So, the question is, you are given 12 video files."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 78.96,
+            "end": 82.4,
+            "text": "Okay, 12 files, 6 audio and 6 video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 82.4,
+            "end": 84.2,
+            "text": "Music"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 84.2,
+            "end": 85.56,
+            "text": "And 6 video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 86.32000000000001,
+            "end": 96.64,
+            "text": "Design a website using HTML only and which shows these 12 files."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 96.64,
+            "end": 102.0,
+            "text": "Okay, I will do a little toggle word wrap so that you can see the word wrap."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 102.0,
+            "end": 104.48,
+            "text": "So, what you have to do is that you are given 12 files."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 104.48,
+            "end": 106.08,
+            "text": "And what is the name of those files?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 106.08,
+            "end": 108.56,
+            "text": "1.mp3, 2.mp3."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 108.56,
+            "end": 111.36,
+            "text": "So, I will tell you what is the name of those files?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 112.32,
+            "end": 115.88,
+            "text": "1.mp3, 2.mp3, all the way till 6.mp3."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 115.88,
+            "end": 117.32,
+            "text": "These are your MP3 files."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 117.32,
+            "end": 123.68,
+            "text": "Then you have 1.mp4, 2.mp4, all the way till 6.mp4."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 123.68,
+            "end": 125.84,
+            "text": "Okay, these are your files."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 125.84,
+            "end": 130.0,
+            "text": "So, you have to show these 12 files by previewing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 130.0,
+            "end": 131.6,
+            "text": "So, I hope this will be done."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 131.6,
+            "end": 133.2,
+            "text": "It is a very simple question."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 133.2,
+            "end": 137.0,
+            "text": "And you all must write the challenge accepted by commenting quickly."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 137.0,
+            "end": 141.04,
+            "text": "Because if you accept this challenge, then you can write the challenge accepted in the first instance."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 141.12,
+            "end": 145.23999999999998,
+            "text": "And whoever gives me the code, I will give it a shout out."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 145.23999999999998,
+            "end": 146.51999999999998,
+            "text": "The challenge accepted will be written."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 146.51999999999998,
+            "end": 148.07999999999998,
+            "text": "You will get a shout out for sure."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 148.07999999999998,
+            "end": 151.12,
+            "text": "And you all must definitely tell me in the comment section."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 151.12,
+            "end": 153.35999999999999,
+            "text": "So, I hope you will complete this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 153.35999999999999,
+            "end": 155.39999999999998,
+            "text": "And it is a very simple question."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 155.39999999999998,
+            "end": 157.95999999999998,
+            "text": "I know that many people will also say that it is very simple."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 157.95999999999998,
+            "end": 163.68,
+            "text": "One more thing that I will hope from you all is that you all should try to solve this question"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 163.68,
+            "end": 167.56,
+            "text": "by using as many concepts as you can."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 167.56,
+            "end": 169.51999999999998,
+            "text": "So, this was our question for today."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 169.52,
+            "end": 171.24,
+            "text": "I hope you all enjoyed it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 171.24,
+            "end": 174.0,
+            "text": "I will select it and forward slash it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 174.0,
+            "end": 176.60000000000002,
+            "text": "And what happens by doing the control forward slash?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 176.60000000000002,
+            "end": 178.48000000000002,
+            "text": "That you can comment or uncomment."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 178.48000000000002,
+            "end": 180.84,
+            "text": "So, if I will press control forward slash, then it will be uncommented."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 180.84,
+            "end": 184.4,
+            "text": "And if I will press control forward slash again, then it will be commented."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 184.4,
+            "end": 186.64000000000001,
+            "text": "So, you have to complete this website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 186.64000000000001,
+            "end": 188.08,
+            "text": "It is a very simple problem."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 188.08,
+            "end": 190.20000000000002,
+            "text": "It is a straight forward problem."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 190.20000000000002,
+            "end": 192.28,
+            "text": "Everyone must solve it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 192.28,
+            "end": 194.08,
+            "text": "So, that's all for now."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 194.08,
+            "end": 196.04000000000002,
+            "text": "Thank you so much for watching this video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170256_314",
+            "start": 196.04000000000002,
+            "end": 198.92000000000002,
+            "text": "And I will see you next time."
+        }
+    ],
+    "full_text": "Guys, in today's video, I will give you an exercise and Jojo will solve this exercise. I will also give a shout out to them. So, write in the comment section. If you accept this challenge, I will give you a question and you will have to solve it. And it will be a basis for all the concepts that we have studied in the Sigma Web Development course. So, I am very excited to give you a question. I hope you are equally excited. Let's roll the intro. Music So, guys, as you can see in the computer screen, if you haven't accessed all the playlists yet, then click here and open this playlist and click Save. And if you haven't accessed the code, then that too is updated to video 11. And I will keep updating as the videos will continue. Now, for the question that I want to give you, I will make a folder first. I will definitely name the folder. I will click Shift and open with code. And look at this challenge, everyone accepts it. If you accept it, I will feel good. What you do here is that I will make an index.html and I will give you a question. So, the question is, you are given 12 video files. Okay, 12 files, 6 audio and 6 video. Music And 6 video. Design a website using HTML only and which shows these 12 files. Okay, I will do a little toggle word wrap so that you can see the word wrap. So, what you have to do is that you are given 12 files. And what is the name of those files? 1.mp3, 2.mp3. So, I will tell you what is the name of those files? 1.mp3, 2.mp3, all the way till 6.mp3. These are your MP3 files. Then you have 1.mp4, 2.mp4, all the way till 6.mp4. Okay, these are your files. So, you have to show these 12 files by previewing. So, I hope this will be done. It is a very simple question. And you all must write the challenge accepted by commenting quickly. Because if you accept this challenge, then you can write the challenge accepted in the first instance. And whoever gives me the code, I will give it a shout out. The challenge accepted will be written. You will get a shout out for sure. And you all must definitely tell me in the comment section. So, I hope you will complete this. And it is a very simple question. I know that many people will also say that it is very simple. One more thing that I will hope from you all is that you all should try to solve this question by using as many concepts as you can. So, this was our question for today. I hope you all enjoyed it. I will select it and forward slash it. And what happens by doing the control forward slash? That you can comment or uncomment. So, if I will press control forward slash, then it will be uncommented. And if I will press control forward slash again, then it will be commented. So, you have to complete this website. It is a very simple problem. It is a straight forward problem. Everyone must solve it. So, that's all for now. Thank you so much for watching this video. And I will see you next time."
+}

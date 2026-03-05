@@ -1,0 +1,16 @@
+You are a helpful assistant for the Sigma Web Development course.
+
+You will be given video subtitle chunks with title, video number, start time, end time, and text.
+Your job is ONLY to answer questions related to the course content using these chunks.
+
+Rules:
+- If the question is unrelated to web development or the course, reply ONLY with: "I can only answer questions related to the Sigma Web Development course."
+- Do NOT make up information. Only use the provided chunks.
+- Tell the user which video and timestamp to go to ONLY when answering a valid course-related question..
+- Be conversational and helpful.
+
+Video chunks:
+[{"title":"20260202_170306_109","number":"VID","start":"7:07","end":"7:08","text":"What am I doing?"},{"title":"20260202_170317_848","number":"VID","start":"6:11","end":"6:12","text":"I hope I am spelling it correct."},{"title":"20260202_170148_742","number":"VID","start":"18:08","end":"18:10","text":"I have a request."},{"title":"20260202_170146_131","number":"VID","start":"1:52","end":"1:55","text":"and here I write let us say alert hello."},{"title":"20260202_170317_848","number":"VID","start":"6:24","end":"6:26","text":"Hey, I am good."}]
+---------------------------------
+Question: "Hello my name is Anmol?"
+Answer:

@@ -1,0 +1,1909 @@
+{
+    "chunks": [
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 0.0,
+            "end": 3.2800000000000002,
+            "text": "Guys, today we are going to start CSS with this video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 3.2800000000000002,
+            "end": 5.4,
+            "text": "We have gone far ahead in this course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 5.4,
+            "end": 7.4,
+            "text": "We have finished the whole HTML."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 7.4,
+            "end": 10.6,
+            "text": "And many of you have shown a lot of enthusiasm."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 10.6,
+            "end": 13.4,
+            "text": "Don't decline your interest in this video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 13.4,
+            "end": 18.900000000000002,
+            "text": "Like this video and write down the sigma batch op in the comments section with high energy."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 18.900000000000002,
+            "end": 21.8,
+            "text": "We are maintaining such high energy throughout the course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 21.8,
+            "end": 24.400000000000002,
+            "text": "CSS stands for Cascading Style Sheets."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 24.400000000000002,
+            "end": 29.5,
+            "text": "And we supplement HTML with some style with the help of Cascading Style Sheets."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 29.5,
+            "end": 33.5,
+            "text": "The HTML was never intended to create styled pages."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 33.5,
+            "end": 38.5,
+            "text": "That is, HTML's work was to create a basic website structure."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 38.5,
+            "end": 41.8,
+            "text": "And CSS takes responsibility to style the page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 41.8,
+            "end": 45.8,
+            "text": "There are selectors in CSS who help select any element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 45.8,
+            "end": 48.5,
+            "text": "I will tell you in this video what is a selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 48.5,
+            "end": 50.3,
+            "text": "How CSS is written."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 50.3,
+            "end": 53.5,
+            "text": "In the upcoming videos, we are going to raise the bar like anything."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 53.5,
+            "end": 55.5,
+            "text": "We will make real-world websites."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 55.5,
+            "end": 59.5,
+            "text": "And websites like Amazon, Flipkart, Netflix, YouTube."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 59.5,
+            "end": 62.5,
+            "text": "You will be able to make all these websites."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 62.5,
+            "end": 64.5,
+            "text": "I am very excited."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 64.5,
+            "end": 66.5,
+            "text": "Let's go to the computer screen."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 66.5,
+            "end": 68.5,
+            "text": "Let's roll the intro."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 75.5,
+            "end": 77.5,
+            "text": "So I have come to my computer screen."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 77.5,
+            "end": 79.5,
+            "text": "Like always, I will make a folder here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 79.5,
+            "end": 82.5,
+            "text": "And I will make a folder in the name of Video 14."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 82.5,
+            "end": 84.5,
+            "text": "It is very fun in this course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 84.5,
+            "end": 87.5,
+            "text": "Because I have never made a course of this level."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 87.5,
+            "end": 91.5,
+            "text": "Now I will tell you about CSS first."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 91.5,
+            "end": 93.5,
+            "text": "Why will you use CSS?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 93.5,
+            "end": 97.5,
+            "text": "HTML was never intended to style web pages."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 97.5,
+            "end": 100.5,
+            "text": "HTML was always intended to create a skeleton."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 100.5,
+            "end": 103.5,
+            "text": "There were many tags in HTML that were deprecated."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 103.5,
+            "end": 104.5,
+            "text": "Like font tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 104.5,
+            "end": 108.5,
+            "text": "Because HTML was responsible for creating a skeleton website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 108.5,
+            "end": 110.5,
+            "text": "That's about it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 110.5,
+            "end": 113.5,
+            "text": "After that, the work was to handle the CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 113.5,
+            "end": 116.5,
+            "text": "In this video, we will make real-world websites."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 116.5,
+            "end": 119.5,
+            "text": "If you haven't done the playlist, you can do that too."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 119.5,
+            "end": 121.5,
+            "text": "The source code is coming here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 121.5,
+            "end": 123.5,
+            "text": "Codewithherry.com."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 123.5,
+            "end": 126.5,
+            "text": "If you go there, you can download the HTML notes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 126.5,
+            "end": 128.5,
+            "text": "You will get additional things to see."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 128.5,
+            "end": 130.5,
+            "text": "So here, you will click on PDF notes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 130.5,
+            "end": 132.5,
+            "text": "You will get the PDF notes of HTML."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 132.5,
+            "end": 135.5,
+            "text": "This is written by my hand in handwriting."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 135.5,
+            "end": 137.5,
+            "text": "Handwritten in notes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 137.5,
+            "end": 139.5,
+            "text": "It is written by putting a lot of effort."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 139.5,
+            "end": 141.5,
+            "text": "So you can download it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 141.5,
+            "end": 146.5,
+            "text": "I had told you that HTML is the body of a car."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 146.5,
+            "end": 148.5,
+            "text": "The car's roof is the body of a car."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 148.5,
+            "end": 151.5,
+            "text": "So CSS is the paint, decoration, designs,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 151.5,
+            "end": 154.5,
+            "text": "seeds, interior, all these things."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 154.5,
+            "end": 157.5,
+            "text": "And JavaScript is Engine and internal logic."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 157.5,
+            "end": 160.5,
+            "text": "Anyway, we will talk about Engine and internal logic later."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 160.5,
+            "end": 162.5,
+            "text": "We have completed the HTML."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 162.5,
+            "end": 164.5,
+            "text": "Now we are talking about CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 164.5,
+            "end": 166.5,
+            "text": "I will tell you some more examples."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 166.5,
+            "end": 168.5,
+            "text": "Like your human body."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 168.5,
+            "end": 170.5,
+            "text": "There is a skeleton in the human body."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 170.5,
+            "end": 172.5,
+            "text": "You can consider it as HTML."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 172.5,
+            "end": 174.5,
+            "text": "Skin, hair, all these things."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 174.5,
+            "end": 176.5,
+            "text": "You can consider it as CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 176.5,
+            "end": 179.5,
+            "text": "And the brain, nerves, neurons,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 179.5,
+            "end": 182.5,
+            "text": "all of them constitute our JavaScript."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 182.5,
+            "end": 185.5,
+            "text": "I hope this thing is clear to you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 185.5,
+            "end": 188.5,
+            "text": "So, with this, HTML was never intended to style websites."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 188.5,
+            "end": 190.5,
+            "text": "This responsibility was taken by CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 190.5,
+            "end": 192.5,
+            "text": "CSS said, HTML is enough for you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 192.5,
+            "end": 193.5,
+            "text": "Now I am here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 193.5,
+            "end": 196.5,
+            "text": "And I will help you in styling."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 196.5,
+            "end": 199.5,
+            "text": "So, CSS took responsibility to style pages."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 199.5,
+            "end": 201.5,
+            "text": "So, download the HTML notes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 201.5,
+            "end": 203.5,
+            "text": "Anyway, spoiler alert."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 203.5,
+            "end": 205.5,
+            "text": "CSS is also very important."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 205.5,
+            "end": 207.5,
+            "text": "But listen to me first."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 207.5,
+            "end": 209.5,
+            "text": "I have given you the spoiler."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 209.5,
+            "end": 211.5,
+            "text": "But don't download it now."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 211.5,
+            "end": 213.5,
+            "text": "I took a lot of time and effort to do this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 213.5,
+            "end": 215.5,
+            "text": "So, there are many things to be found."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 215.5,
+            "end": 218.5,
+            "text": "And I have never made a course of this level."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 218.5,
+            "end": 220.5,
+            "text": "This is the whole thing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 220.5,
+            "end": 223.5,
+            "text": "If I click Shift and open with code,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 223.5,
+            "end": 227.5,
+            "text": "then this video 14 folder is opened in my VS code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 227.5,
+            "end": 229.5,
+            "text": "Now I am here in index.html."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 229.5,
+            "end": 232.5,
+            "text": "If I make a file and mark the exclamation mark,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 232.5,
+            "end": 234.5,
+            "text": "here, some kind of boilerplate code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 234.5,
+            "end": 236.5,
+            "text": "Like we were doing our HTML course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 236.5,
+            "end": 239.5,
+            "text": "We do it like the videos of HTML."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 239.5,
+            "end": 241.5,
+            "text": "And here I write CSS in the title."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 241.5,
+            "end": 244.5,
+            "text": "And consider it as a div in the body."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 244.5,
+            "end": 245.5,
+            "text": "And write it in it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 245.5,
+            "end": 247.5,
+            "text": "Hey, I am Harry."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 247.5,
+            "end": 250.5,
+            "text": "And today, I am in CSS mode."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 250.5,
+            "end": 251.5,
+            "text": "Okay, I have written it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 251.5,
+            "end": 252.5,
+            "text": "And I will preview it here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 252.5,
+            "end": 254.5,
+            "text": "So, here, as soon as I click on preview,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 254.5,
+            "end": 255.5,
+            "text": "you can see here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 255.5,
+            "end": 256.5,
+            "text": "Hey, I am Harry."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 256.5,
+            "end": 257.5,
+            "text": "And today, I am in CSS mode."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 257.5,
+            "end": 259.5,
+            "text": "So, what is CSS?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 259.5,
+            "end": 263.5,
+            "text": "You can basically add CSS by using style tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 263.5,
+            "end": 264.5,
+            "text": "There are two other ways."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 264.5,
+            "end": 266.5,
+            "text": "Which I will tell you in the coming videos."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 266.5,
+            "end": 268.5,
+            "text": "I will tell you a lot of things."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 268.5,
+            "end": 270.5,
+            "text": "Now, if I say that,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 270.5,
+            "end": 272.5,
+            "text": "look, the div is,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 272.5,
+            "end": 273.5,
+            "text": "the div is,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 273.5,
+            "end": 275.5,
+            "text": "color it red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 275.5,
+            "end": 277.5,
+            "text": "Suppose, I say that,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 277.5,
+            "end": 279.5,
+            "text": "the div is color red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 279.5,
+            "end": 281.5,
+            "text": "So, in this div,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 281.5,
+            "end": 283.5,
+            "text": "the div is selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 283.5,
+            "end": 285.5,
+            "text": "And this is our declaration."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 285.5,
+            "end": 287.5,
+            "text": "So, selector and declaration."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 287.5,
+            "end": 288.5,
+            "text": "What is selector? Div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 288.5,
+            "end": 290.5,
+            "text": "That is, all the divs of this page,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 290.5,
+            "end": 291.5,
+            "text": "color it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 291.5,
+            "end": 292.5,
+            "text": "Which is our key,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 292.5,
+            "end": 293.5,
+            "text": "this is our value,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 293.5,
+            "end": 294.5,
+            "text": "this is our property,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 294.5,
+            "end": 295.5,
+            "text": "this is the value of that property."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 295.5,
+            "end": 297.5,
+            "text": "Red the color."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 297.5,
+            "end": 299.5,
+            "text": "So, this is our declaration."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 299.5,
+            "end": 301.5,
+            "text": "And this is our selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 301.5,
+            "end": 302.5,
+            "text": "I hope you understood."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 302.5,
+            "end": 303.5,
+            "text": "So, here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 303.5,
+            "end": 304.5,
+            "text": "if I show you the page,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 304.5,
+            "end": 306.5,
+            "text": "then see if its color is red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 306.5,
+            "end": 307.5,
+            "text": "Because I said that,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 307.5,
+            "end": 308.5,
+            "text": "whatever div is in this page,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 308.5,
+            "end": 309.5,
+            "text": "color it red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 309.5,
+            "end": 310.5,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 310.5,
+            "end": 312.5,
+            "text": "So, if I make another div here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 312.5,
+            "end": 314.5,
+            "text": "and write, I am good,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 314.5,
+            "end": 316.5,
+            "text": "then that I am good color will be ready."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 316.5,
+            "end": 317.5,
+            "text": "As you can see."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 317.5,
+            "end": 320.5,
+            "text": "And if I add another declaration,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 320.5,
+            "end": 322.5,
+            "text": "and write background yellow,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 322.5,
+            "end": 323.5,
+            "text": "then here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 323.5,
+            "end": 325.5,
+            "text": "its background is also yellow."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 325.5,
+            "end": 326.5,
+            "text": "Its background is also yellow."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 326.5,
+            "end": 329.5,
+            "text": "Whatever the selector matches,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 329.5,
+            "end": 331.5,
+            "text": "that element's background will be yellow."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 331.5,
+            "end": 332.5,
+            "text": "Like you see here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 332.5,
+            "end": 333.5,
+            "text": "I said div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 333.5,
+            "end": 334.5,
+            "text": "And here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 334.5,
+            "end": 335.5,
+            "text": "this was the div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 335.5,
+            "end": 336.5,
+            "text": "And this was the div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 336.5,
+            "end": 338.5,
+            "text": "If I make a span here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 338.5,
+            "end": 340.5,
+            "text": "and write, I am also good."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 340.5,
+            "end": 341.5,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 341.5,
+            "end": 342.5,
+            "text": "So, what will happen?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 342.5,
+            "end": 343.5,
+            "text": "So, will this also be red?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 343.5,
+            "end": 344.5,
+            "text": "No."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 344.5,
+            "end": 345.5,
+            "text": "Its color will not be red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 345.5,
+            "end": 347.5,
+            "text": "Because this selector,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 347.5,
+            "end": 349.5,
+            "text": "and these declarations"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 349.5,
+            "end": 351.5,
+            "text": "are not applicable on these elements."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 351.5,
+            "end": 352.5,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 352.5,
+            "end": 354.5,
+            "text": "Any element which is not div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 354.5,
+            "end": 355.5,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 355.5,
+            "end": 357.5,
+            "text": "If I add a paragraph here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 357.5,
+            "end": 359.5,
+            "text": "and add 435 on it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 359.5,
+            "end": 360.5,
+            "text": "Oops."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 360.5,
+            "end": 362.5,
+            "text": "I think 435 is too much."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 362.5,
+            "end": 363.5,
+            "text": "43 is enough."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 363.5,
+            "end": 364.5,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 364.5,
+            "end": 365.5,
+            "text": "So, here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 365.5,
+            "end": 366.5,
+            "text": "I have added a very big lorem,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 366.5,
+            "end": 367.5,
+            "text": "which will make our page very big."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 367.5,
+            "end": 368.5,
+            "text": "In this,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 368.5,
+            "end": 369.5,
+            "text": "the declaration,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 369.5,
+            "end": 370.5,
+            "text": "this was not applicable."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 370.5,
+            "end": 372.5,
+            "text": "This was not applicable in this too."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 372.5,
+            "end": 374.5,
+            "text": "I had only said div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 374.5,
+            "end": 376.5,
+            "text": "So, all these conditions"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 376.5,
+            "end": 377.5,
+            "text": "have been applied in div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 377.5,
+            "end": 378.5,
+            "text": "Now, here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 378.5,
+            "end": 380.5,
+            "text": "you can select multiple elements"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 380.5,
+            "end": 381.5,
+            "text": "by adding comma."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 381.5,
+            "end": 382.5,
+            "text": "I can say,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 382.5,
+            "end": 383.5,
+            "text": "do this in both the divorce pan."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 383.5,
+            "end": 385.5,
+            "text": "So, the divorce pan will be"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 385.5,
+            "end": 386.5,
+            "text": "color red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 386.5,
+            "end": 387.5,
+            "text": "And here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 387.5,
+            "end": 388.5,
+            "text": "the background color will be yellow."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 388.5,
+            "end": 389.5,
+            "text": "What is divorce pan?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 389.5,
+            "end": 390.5,
+            "text": "It is my selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 390.5,
+            "end": 392.5,
+            "text": "So, in multiple selectors,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 392.5,
+            "end": 394.5,
+            "text": "these declarations have been applied."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 394.5,
+            "end": 395.5,
+            "text": "This is property."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 395.5,
+            "end": 396.5,
+            "text": "Background color is a property."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 396.5,
+            "end": 397.5,
+            "text": "Its value is yellow."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 397.5,
+            "end": 398.5,
+            "text": "Color is a property."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 398.5,
+            "end": 399.5,
+            "text": "Its value is red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 399.5,
+            "end": 400.5,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 400.5,
+            "end": 402.5,
+            "text": "Here, you can see,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 402.5,
+            "end": 404.5,
+            "text": "wherever there is a div,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 404.5,
+            "end": 405.5,
+            "text": "wherever there is a span,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 405.5,
+            "end": 407.5,
+            "text": "this thing will be applied there."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 407.5,
+            "end": 410.5,
+            "text": "And that's pretty much how CSS works."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 410.5,
+            "end": 411.5,
+            "text": "That's it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 411.5,
+            "end": 412.5,
+            "text": "Now,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 412.5,
+            "end": 414.5,
+            "text": "what we are learning in the coming videos,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 414.5,
+            "end": 416.5,
+            "text": "that this is the property"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 416.5,
+            "end": 418.5,
+            "text": "and this is the selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 418.5,
+            "end": 419.5,
+            "text": "I will tell you about"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 419.5,
+            "end": 420.5,
+            "text": "different types of selectors."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 420.5,
+            "end": 422.5,
+            "text": "That's about it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 422.5,
+            "end": 423.5,
+            "text": "It's as simple as that."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 423.5,
+            "end": 425.5,
+            "text": "And by using these selectors,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 425.5,
+            "end": 427.5,
+            "text": "we can make an Amazon website,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 427.5,
+            "end": 429.5,
+            "text": "a Flipkart website,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 429.5,
+            "end": 431.5,
+            "text": "a Facebook website,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 431.5,
+            "end": 433.5,
+            "text": "and an Instagram website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 433.5,
+            "end": 434.5,
+            "text": "We can make all of these."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 434.5,
+            "end": 435.5,
+            "text": "And nowadays,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 435.5,
+            "end": 437.5,
+            "text": "there are such technologies in the market,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 437.5,
+            "end": 440.5,
+            "text": "which you can code like this"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 440.5,
+            "end": 441.5,
+            "text": "and make mobile apps."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 441.5,
+            "end": 443.5,
+            "text": "We will explore all of these things."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 443.5,
+            "end": 446.5,
+            "text": "It will be a very extensive course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 446.5,
+            "end": 447.5,
+            "text": "It will be fun."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 447.5,
+            "end": 449.5,
+            "text": "We will be touching so many things."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 449.5,
+            "end": 451.5,
+            "text": "I gave you an exercise"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 451.5,
+            "end": 453.5,
+            "text": "in video number 12."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 453.5,
+            "end": 455.5,
+            "text": "If you haven't posted your answer,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 455.5,
+            "end": 457.5,
+            "text": "then quickly post your answer."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 457.5,
+            "end": 459.5,
+            "text": "Because I will give a shout out"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 459.5,
+            "end": 461.5,
+            "text": "in the comments section."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 461.5,
+            "end": 463.5,
+            "text": "Make sure you go to video 12"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 463.5,
+            "end": 464.5,
+            "text": "and solve the pure HTML"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 464.5,
+            "end": 466.5,
+            "text": "player exercises."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 466.5,
+            "end": 468.5,
+            "text": "Because there will be two interactions."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 468.5,
+            "end": 469.5,
+            "text": "It will be fun."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 469.5,
+            "end": 470.5,
+            "text": "We will talk from both sides."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 470.5,
+            "end": 472.5,
+            "text": "I will give you a shout out from here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 472.5,
+            "end": 474.5,
+            "text": "You will solve it from there."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 474.5,
+            "end": 475.5,
+            "text": "It will be fun."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 475.5,
+            "end": 476.5,
+            "text": "So, do solve it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 476.5,
+            "end": 478.5,
+            "text": "I want to tell you about replates."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 478.5,
+            "end": 480.5,
+            "text": "Many people say that we have a phone."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 480.5,
+            "end": 481.5,
+            "text": "We don't have a laptop."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 481.5,
+            "end": 482.5,
+            "text": "Many people have problems."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 482.5,
+            "end": 484.5,
+            "text": "So, replates is an amazing platform."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 484.5,
+            "end": 486.5,
+            "text": "You can try it out."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 486.5,
+            "end": 488.5,
+            "text": "You just have to sign up here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 488.5,
+            "end": 490.5,
+            "text": "And you will be able to write"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 490.5,
+            "end": 492.5,
+            "text": "HTML, CSN, JavaScript."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 492.5,
+            "end": 493.5,
+            "text": "It works very well."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 493.5,
+            "end": 496.5,
+            "text": "I have used it for my production"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 496.5,
+            "end": 497.5,
+            "text": "and great projects."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 497.5,
+            "end": 500.5,
+            "text": "I have made a lot of videos on replates on this channel."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 500.5,
+            "end": 502.5,
+            "text": "We have done 100 days of code"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 502.5,
+            "end": 503.5,
+            "text": "in the whole of replates."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 503.5,
+            "end": 504.5,
+            "text": "You can use it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 504.5,
+            "end": 506.5,
+            "text": "If you don't have a laptop,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 506.5,
+            "end": 507.5,
+            "text": "you can code it in your phone."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 507.5,
+            "end": 508.5,
+            "text": "You will have a very good experience."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 508.5,
+            "end": 510.5,
+            "text": "So, in the comments section below,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 510.5,
+            "end": 512.5,
+            "text": "you can write that it is fun or not."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 512.5,
+            "end": 514.5,
+            "text": "Because I want you to comment"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 514.5,
+            "end": 516.5,
+            "text": "in the comment section below."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 516.5,
+            "end": 517.5,
+            "text": "It is fun."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 517.5,
+            "end": 519.5,
+            "text": "You have to access this playlist."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 519.5,
+            "end": 521.5,
+            "text": "You can access the source code too."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 521.5,
+            "end": 523.5,
+            "text": "I have updated the source code of all the videos."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 523.5,
+            "end": 525.5,
+            "text": "And name the land of my village and my town."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 525.5,
+            "end": 527.5,
+            "text": "That is all for now."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 527.5,
+            "end": 529.5,
+            "text": "Thank you so much for watching this video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 529.5,
+            "end": 531.5,
+            "text": "And I will see you next time."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170301_397",
+            "start": 540.5,
+            "end": 542.5,
+            "text": "Bye."
+        }
+    ],
+    "full_text": "Guys, today we are going to start CSS with this video. We have gone far ahead in this course. We have finished the whole HTML. And many of you have shown a lot of enthusiasm. Don't decline your interest in this video. Like this video and write down the sigma batch op in the comments section with high energy. We are maintaining such high energy throughout the course. CSS stands for Cascading Style Sheets. And we supplement HTML with some style with the help of Cascading Style Sheets. The HTML was never intended to create styled pages. That is, HTML's work was to create a basic website structure. And CSS takes responsibility to style the page. There are selectors in CSS who help select any element. I will tell you in this video what is a selector. How CSS is written. In the upcoming videos, we are going to raise the bar like anything. We will make real-world websites. And websites like Amazon, Flipkart, Netflix, YouTube. You will be able to make all these websites. I am very excited. Let's go to the computer screen. Let's roll the intro. So I have come to my computer screen. Like always, I will make a folder here. And I will make a folder in the name of Video 14. It is very fun in this course. Because I have never made a course of this level. Now I will tell you about CSS first. Why will you use CSS? HTML was never intended to style web pages. HTML was always intended to create a skeleton. There were many tags in HTML that were deprecated. Like font tag. Because HTML was responsible for creating a skeleton website. That's about it. After that, the work was to handle the CSS. In this video, we will make real-world websites. If you haven't done the playlist, you can do that too. The source code is coming here. Codewithherry.com. If you go there, you can download the HTML notes. You will get additional things to see. So here, you will click on PDF notes. You will get the PDF notes of HTML. This is written by my hand in handwriting. Handwritten in notes. It is written by putting a lot of effort. So you can download it. I had told you that HTML is the body of a car. The car's roof is the body of a car. So CSS is the paint, decoration, designs, seeds, interior, all these things. And JavaScript is Engine and internal logic. Anyway, we will talk about Engine and internal logic later. We have completed the HTML. Now we are talking about CSS. I will tell you some more examples. Like your human body. There is a skeleton in the human body. You can consider it as HTML. Skin, hair, all these things. You can consider it as CSS. And the brain, nerves, neurons, all of them constitute our JavaScript. I hope this thing is clear to you. So, with this, HTML was never intended to style websites. This responsibility was taken by CSS. CSS said, HTML is enough for you. Now I am here. And I will help you in styling. So, CSS took responsibility to style pages. So, download the HTML notes. Anyway, spoiler alert. CSS is also very important. But listen to me first. I have given you the spoiler. But don't download it now. I took a lot of time and effort to do this. So, there are many things to be found. And I have never made a course of this level. This is the whole thing. If I click Shift and open with code, then this video 14 folder is opened in my VS code. Now I am here in index.html. If I make a file and mark the exclamation mark, here, some kind of boilerplate code. Like we were doing our HTML course. We do it like the videos of HTML. And here I write CSS in the title. And consider it as a div in the body. And write it in it. Hey, I am Harry. And today, I am in CSS mode. Okay, I have written it. And I will preview it here. So, here, as soon as I click on preview, you can see here, Hey, I am Harry. And today, I am in CSS mode. So, what is CSS? You can basically add CSS by using style tag. There are two other ways. Which I will tell you in the coming videos. I will tell you a lot of things. Now, if I say that, look, the div is, the div is, color it red. Suppose, I say that, the div is color red. So, in this div, the div is selector. And this is our declaration. So, selector and declaration. What is selector? Div. That is, all the divs of this page, color it. Which is our key, this is our value, this is our property, this is the value of that property. Red the color. So, this is our declaration. And this is our selector. I hope you understood. So, here, if I show you the page, then see if its color is red. Because I said that, whatever div is in this page, color it red. Okay. So, if I make another div here, and write, I am good, then that I am good color will be ready. As you can see. And if I add another declaration, and write background yellow, then here, its background is also yellow. Its background is also yellow. Whatever the selector matches, that element's background will be yellow. Like you see here, I said div. And here, this was the div. And this was the div. If I make a span here, and write, I am also good. Okay. So, what will happen? So, will this also be red? No. Its color will not be red. Because this selector, and these declarations are not applicable on these elements. Okay. Any element which is not div. Okay. If I add a paragraph here, and add 435 on it. Oops. I think 435 is too much. 43 is enough. Okay. So, here, I have added a very big lorem, which will make our page very big. In this, the declaration, this was not applicable. This was not applicable in this too. I had only said div. So, all these conditions have been applied in div. Now, here, you can select multiple elements by adding comma. I can say, do this in both the divorce pan. So, the divorce pan will be color red. And here, the background color will be yellow. What is divorce pan? It is my selector. So, in multiple selectors, these declarations have been applied. This is property. Background color is a property. Its value is yellow. Color is a property. Its value is red. Okay. Here, you can see, wherever there is a div, wherever there is a span, this thing will be applied there. And that's pretty much how CSS works. That's it. Now, what we are learning in the coming videos, that this is the property and this is the selector. I will tell you about different types of selectors. That's about it. It's as simple as that. And by using these selectors, we can make an Amazon website, a Flipkart website, a Facebook website, and an Instagram website. We can make all of these. And nowadays, there are such technologies in the market, which you can code like this and make mobile apps. We will explore all of these things. It will be a very extensive course. It will be fun. We will be touching so many things. I gave you an exercise in video number 12. If you haven't posted your answer, then quickly post your answer. Because I will give a shout out in the comments section. Make sure you go to video 12 and solve the pure HTML player exercises. Because there will be two interactions. It will be fun. We will talk from both sides. I will give you a shout out from here. You will solve it from there. It will be fun. So, do solve it. I want to tell you about replates. Many people say that we have a phone. We don't have a laptop. Many people have problems. So, replates is an amazing platform. You can try it out. You just have to sign up here. And you will be able to write HTML, CSN, JavaScript. It works very well. I have used it for my production and great projects. I have made a lot of videos on replates on this channel. We have done 100 days of code in the whole of replates. You can use it. If you don't have a laptop, you can code it in your phone. You will have a very good experience. So, in the comments section below, you can write that it is fun or not. Because I want you to comment in the comment section below. It is fun. You have to access this playlist. You can access the source code too. I have updated the source code of all the videos. And name the land of my village and my town. That is all for now. Thank you so much for watching this video. And I will see you next time. Bye."
+}

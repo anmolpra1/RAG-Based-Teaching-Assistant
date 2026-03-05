@@ -1,0 +1,3764 @@
+{
+    "chunks": [
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 0.0,
+            "end": 5.0,
+            "text": "In this video, we will see how images are made, lists are made in the HTML and tables are made."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 5.0,
+            "end": 9.0,
+            "text": "So, if you like the video, I know very few people like videos on YouTube."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 9.0,
+            "end": 15.0,
+            "text": "But if you do, thanks to you, I get the motivation to bring free courses like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 15.0,
+            "end": 20.0,
+            "text": "So, let's start the 5th video of Sigma Web Development course on the computer screen."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 20.0,
+            "end": 21.0,
+            "text": "Let's roll the intro."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 30.0,
+            "end": 33.0,
+            "text": "So, guys, I have come to the computer screen."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 33.0,
+            "end": 36.0,
+            "text": "First, I want to tell you to bookmark GetUp.com."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 36.0,
+            "end": 41.0,
+            "text": "In fact, bookmark this repository so that you get the whole code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 41.0,
+            "end": 44.0,
+            "text": "Second thing, click on the playlist and bookmark it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 44.0,
+            "end": 47.0,
+            "text": "Click on the star and save it here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 47.0,
+            "end": 51.0,
+            "text": "Now, the first thing I will tell you is about the image."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 51.0,
+            "end": 53.0,
+            "text": "What is the image in HTML?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 53.0,
+            "end": 55.0,
+            "text": "We will make a folder here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 55.0,
+            "end": 59.0,
+            "text": "In the name of Video 5, click on the new folder and here Video 5."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 59.0,
+            "end": 63.0,
+            "text": "You know, I have already told you that I will open with code with Shift right click."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 63.0,
+            "end": 67.0,
+            "text": "But if you want to see this welcome page again and again,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 67.0,
+            "end": 70.0,
+            "text": "then click on the show welcome page and uncheck the start-up."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 70.0,
+            "end": 72.0,
+            "text": "And you won't get to see this again and again."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 72.0,
+            "end": 73.0,
+            "text": "But what are we doing?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 73.0,
+            "end": 77.0,
+            "text": "We will make index.html, control it, zoom in by mouse wheel,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 77.0,
+            "end": 82.0,
+            "text": "toggle the screencast mode so that you will know which button I am pressing and why I am pressing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 82.0,
+            "end": 85.0,
+            "text": "Now, I will put the exclamation mark and bring the image abbreviation here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 85.0,
+            "end": 87.0,
+            "text": "And here I will do the view word wrap."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 87.0,
+            "end": 89.0,
+            "text": "You have to work very hard."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 89.0,
+            "end": 93.0,
+            "text": "You can see that your word wrap is closed."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 93.0,
+            "end": 96.0,
+            "text": "So what will happen here is that the horizontal scroll bar will not come."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 96.0,
+            "end": 98.0,
+            "text": "Now what I will do here is I will write images."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 98.0,
+            "end": 100.0,
+            "text": "First of all, I will write images here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 100.0,
+            "end": 103.0,
+            "text": "And I will simply bring an image here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 103.0,
+            "end": 105.0,
+            "text": "Now you can bring images from the internet."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 105.0,
+            "end": 106.0,
+            "text": "I will write here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 106.0,
+            "end": 108.0,
+            "text": "Let us say we want to bring images."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 108.0,
+            "end": 110.0,
+            "text": "Let us say train key."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 110.0,
+            "end": 111.0,
+            "text": "Okay, train key images."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 111.0,
+            "end": 113.0,
+            "text": "Because we have run a lot of trains in this course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 113.0,
+            "end": 114.0,
+            "text": "So we will bring train key images."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 114.0,
+            "end": 115.0,
+            "text": "Why will we bring any other image?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 115.0,
+            "end": 116.0,
+            "text": "I will do the same images."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 116.0,
+            "end": 120.0,
+            "text": "And here in the video number 5 folder in the Sigma Web Development course,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 120.0,
+            "end": 121.0,
+            "text": "this is a CMS file."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 121.0,
+            "end": 122.0,
+            "text": "In fact, I will do one thing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 122.0,
+            "end": 123.0,
+            "text": "So I will cancel it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 123.0,
+            "end": 124.0,
+            "text": "I will take its snippet."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 124.0,
+            "end": 126.0,
+            "text": "Because this is a CMS extension."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 126.0,
+            "end": 127.0,
+            "text": "I will go to PNG and take it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 127.0,
+            "end": 130.0,
+            "text": "So I have pressed Windows, Shift and S."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 130.0,
+            "end": 132.0,
+            "text": "It is a shortcut for Snipping tool."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 132.0,
+            "end": 136.0,
+            "text": "If you don't know, then now you will know through Sigma Web Development course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 136.0,
+            "end": 140.0,
+            "text": "If you press Windows, Shift and S, then your Snipping tool opens in Windows."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 140.0,
+            "end": 141.0,
+            "text": "No one knows anything."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 141.0,
+            "end": 143.0,
+            "text": "Tell me in the comment section."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 143.0,
+            "end": 144.0,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 144.0,
+            "end": 145.0,
+            "text": "Now what we will do here?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 145.0,
+            "end": 147.0,
+            "text": "I had done Windows, Shift and S."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 147.0,
+            "end": 148.0,
+            "text": "Then I got into talks."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 148.0,
+            "end": 150.0,
+            "text": "So here you click and save it here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 150.0,
+            "end": 152.0,
+            "text": "Here the floppy description of the save is here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 152.0,
+            "end": 154.0,
+            "text": "You click here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 154.0,
+            "end": 156.0,
+            "text": "And go to downloads."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 156.0,
+            "end": 158.0,
+            "text": "Go to Sigma Web Development course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 158.0,
+            "end": 160.0,
+            "text": "Save it in video 5."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 160.0,
+            "end": 162.0,
+            "text": "Okay, saved it in image."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 162.0,
+            "end": 164.0,
+            "text": "Now there is an IMG tag in HTML."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 164.0,
+            "end": 168.0,
+            "text": "The way you will put it, SRC and Alt are required attributes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 168.0,
+            "end": 170.0,
+            "text": "In fact, if you don't write Alt, then it will work."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 170.0,
+            "end": 171.0,
+            "text": "But it is recommended."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 171.0,
+            "end": 172.0,
+            "text": "I will tell you what these attributes are."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 172.0,
+            "end": 174.0,
+            "text": "First, if you write in SRC,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 174.0,
+            "end": 175.0,
+            "text": "image.png."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 175.0,
+            "end": 177.0,
+            "text": "You can see this image here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 177.0,
+            "end": 179.0,
+            "text": "And I will put it in Alt."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 179.0,
+            "end": 180.0,
+            "text": "Train image."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 180.0,
+            "end": 182.0,
+            "text": "Now if I show it to you,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 182.0,
+            "end": 183.0,
+            "text": "by previewing it in the browser."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 183.0,
+            "end": 184.0,
+            "text": "See how it looks."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 184.0,
+            "end": 187.0,
+            "text": "This is our page and this is the image of the train."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 187.0,
+            "end": 188.0,
+            "text": "What happened by doing this?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 188.0,
+            "end": 190.0,
+            "text": "Alt, what we wrote, where did it go?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 190.0,
+            "end": 192.0,
+            "text": "You can say, I will tell you where it went."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 192.0,
+            "end": 196.0,
+            "text": "The thing we put in Alt, we didn't see it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 196.0,
+            "end": 199.0,
+            "text": "Suppose for some reason, the server can't see you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 199.0,
+            "end": 200.0,
+            "text": "Then what will happen?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 200.0,
+            "end": 201.0,
+            "text": "Suppose I wrote image2 wrong."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 201.0,
+            "end": 204.0,
+            "text": "Now image2.png is not here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 204.0,
+            "end": 205.0,
+            "text": "So what will be the error?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 205.0,
+            "end": 206.0,
+            "text": "I will show you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 206.0,
+            "end": 208.0,
+            "text": "So here the alt will be displayed."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 208.0,
+            "end": 211.0,
+            "text": "And this kind of error image will be displayed."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 211.0,
+            "end": 215.0,
+            "text": "Which will tell you that you have put the image correctly."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 215.0,
+            "end": 216.0,
+            "text": "You have done something wrong."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 216.0,
+            "end": 219.0,
+            "text": "Here the server's URL is not there."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 219.0,
+            "end": 221.0,
+            "text": "These kind of things are shown."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 221.0,
+            "end": 222.0,
+            "text": "And there is alt."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 222.0,
+            "end": 225.0,
+            "text": "So the user knows what is the purpose of this image."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 225.0,
+            "end": 227.0,
+            "text": "And now if I come back here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 227.0,
+            "end": 230.0,
+            "text": "you can put the alt in the image like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 230.0,
+            "end": 232.0,
+            "text": "What will happen if I don't put it in the alt?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 232.0,
+            "end": 233.0,
+            "text": "If I don't put it in the alt,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 233.0,
+            "end": 235.0,
+            "text": "then the alt text won't come."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 235.0,
+            "end": 236.0,
+            "text": "Nothing will happen."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 236.0,
+            "end": 238.0,
+            "text": "So you won't want that when your server has an error,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 238.0,
+            "end": 239.0,
+            "text": "then you will see the image like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 239.0,
+            "end": 241.0,
+            "text": "This is the scenario."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 241.0,
+            "end": 242.0,
+            "text": "The user will see you like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 242.0,
+            "end": 244.0,
+            "text": "Train image is written like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 244.0,
+            "end": 246.0,
+            "text": "I hope you understood."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 246.0,
+            "end": 248.0,
+            "text": "So the image is straight forward."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 248.0,
+            "end": 249.0,
+            "text": "There are two more attributes of this image."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 249.0,
+            "end": 250.0,
+            "text": "Which is very important."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 250.0,
+            "end": 251.0,
+            "text": "One is the width."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 251.0,
+            "end": 252.0,
+            "text": "Which is width in pixels."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 252.0,
+            "end": 254.0,
+            "text": "If I do 23 width is equal to,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 254.0,
+            "end": 255.0,
+            "text": "then you can see."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 255.0,
+            "end": 257.0,
+            "text": "In fact, I will correct the image first."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 257.0,
+            "end": 258.0,
+            "text": "I wrote image 2 by mistake."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 258.0,
+            "end": 259.0,
+            "text": "Image.png."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 259.0,
+            "end": 261.0,
+            "text": "You can see here that I have taken 23 pixels."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 261.0,
+            "end": 262.0,
+            "text": "Which is very small."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 262.0,
+            "end": 264.0,
+            "text": "So I will do 230 pixels."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 264.0,
+            "end": 266.0,
+            "text": "You don't need to write Px in this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 266.0,
+            "end": 267.0,
+            "text": "When we write width in CSS,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 267.0,
+            "end": 270.0,
+            "text": "then we will see that we need to write Px."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 270.0,
+            "end": 271.0,
+            "text": "Or we just write width is equal to"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 271.0,
+            "end": 273.0,
+            "text": "double quotes in the number."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 273.0,
+            "end": 274.0,
+            "text": "As you can see."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 274.0,
+            "end": 276.0,
+            "text": "So if I bring it here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 276.0,
+            "end": 278.0,
+            "text": "then you see that this small image is seen."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 278.0,
+            "end": 280.0,
+            "text": "If I give it height,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 280.0,
+            "end": 281.0,
+            "text": "I mean I give it height too."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 281.0,
+            "end": 283.0,
+            "text": "I said if you keep the height of 230,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 283.0,
+            "end": 285.0,
+            "text": "then its aspect ratio will be reduced."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 285.0,
+            "end": 286.0,
+            "text": "So it will get stretched."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 286.0,
+            "end": 288.0,
+            "text": "Because it has done 230 to its width."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 288.0,
+            "end": 289.0,
+            "text": "And also 230 to its height."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 289.0,
+            "end": 290.0,
+            "text": "As you can see."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 290.0,
+            "end": 292.0,
+            "text": "If you want the height to be 230."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 292.0,
+            "end": 294.0,
+            "text": "And the width to be automatically adjusted,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 294.0,
+            "end": 295.0,
+            "text": "then you can use height attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 295.0,
+            "end": 297.0,
+            "text": "Now remove the width."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 297.0,
+            "end": 298.0,
+            "text": "So the height will be 230 pixels."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 298.0,
+            "end": 301.0,
+            "text": "And the width will be adjusted automatically."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 301.0,
+            "end": 302.0,
+            "text": "Now see."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 302.0,
+            "end": 303.0,
+            "text": "The width has been automatically adjusted."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 303.0,
+            "end": 305.0,
+            "text": "And the height is taken."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 305.0,
+            "end": 306.0,
+            "text": "Now what happens is that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 306.0,
+            "end": 308.0,
+            "text": "through CSS,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 308.0,
+            "end": 309.0,
+            "text": "it can be adjusted to width and height."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 309.0,
+            "end": 310.0,
+            "text": "And in the CSS section,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 310.0,
+            "end": 313.0,
+            "text": "we will see that why this width and height should be set."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 313.0,
+            "end": 316.0,
+            "text": "We should always set one thing from width and height."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 316.0,
+            "end": 318.0,
+            "text": "Such that when our page load is there,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 318.0,
+            "end": 320.0,
+            "text": "then our image inside the page"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 320.0,
+            "end": 322.0,
+            "text": "will not come out completely."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 322.0,
+            "end": 324.0,
+            "text": "I will tell you in the coming videos."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 324.0,
+            "end": 325.0,
+            "text": "But you can understand that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 325.0,
+            "end": 327.0,
+            "text": "these width and height attributes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 327.0,
+            "end": 329.0,
+            "text": "I have told many people that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 329.0,
+            "end": 330.0,
+            "text": "they have heard that they have been deprecated."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 330.0,
+            "end": 331.0,
+            "text": "They should not use it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 331.0,
+            "end": 333.0,
+            "text": "But I say they should use it for this purpose."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 333.0,
+            "end": 335.0,
+            "text": "Why should they do it?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 335.0,
+            "end": 337.0,
+            "text": "I will tell you in the coming videos."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 337.0,
+            "end": 339.0,
+            "text": "Where I will tell you about the core web vitals and SEO."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 339.0,
+            "end": 341.0,
+            "text": "For now, you can understand that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 341.0,
+            "end": 343.0,
+            "text": "width gives the image, height gives the image."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 343.0,
+            "end": 344.0,
+            "text": "If someone puts one of them,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 344.0,
+            "end": 346.0,
+            "text": "then the other one automatically sets."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 346.0,
+            "end": 348.0,
+            "text": "And these values are in pixels."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 348.0,
+            "end": 350.0,
+            "text": "And you don't have to write px or pixel."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 350.0,
+            "end": 352.0,
+            "text": "You just have to write this number."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 352.0,
+            "end": 353.0,
+            "text": "And that's it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 353.0,
+            "end": 355.0,
+            "text": "This is an attribute, height."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 355.0,
+            "end": 357.0,
+            "text": "And it is an SRC attribute, an alt attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 357.0,
+            "end": 359.0,
+            "text": "You can use style attribute in this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 359.0,
+            "end": 361.0,
+            "text": "In fact, you can use style attribute"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 361.0,
+            "end": 363.0,
+            "text": "with almost all the tags."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 363.0,
+            "end": 364.0,
+            "text": "So this was the image."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 364.0,
+            "end": 366.0,
+            "text": "Now we will talk about the tables in HTML."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 366.0,
+            "end": 369.0,
+            "text": "In HTML, table tag is very useful."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 369.0,
+            "end": 371.0,
+            "text": "I will tell you what table tag is."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 371.0,
+            "end": 373.0,
+            "text": "You get to see table from table tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 373.0,
+            "end": 375.0,
+            "text": "Now I will copy this table from here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 375.0,
+            "end": 377.0,
+            "text": "And when I will copy this table from here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 377.0,
+            "end": 379.0,
+            "text": "then you will see that my page will look like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 379.0,
+            "end": 381.0,
+            "text": "So this table of HTML,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 381.0,
+            "end": 383.0,
+            "text": "where is my preview page?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 383.0,
+            "end": 384.0,
+            "text": "Here it is."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 384.0,
+            "end": 386.0,
+            "text": "Look at the name, HarryH100."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 386.0,
+            "end": 388.0,
+            "text": "Now if I put a lot of things here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 388.0,
+            "end": 390.0,
+            "text": "I will put some things here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 390.0,
+            "end": 392.0,
+            "text": "I will put some things here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 392.0,
+            "end": 393.0,
+            "text": "I will put name."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 393.0,
+            "end": 395.0,
+            "text": "And here I will put"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 395.0,
+            "end": 397.0,
+            "text": "designation, Harry designation."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 397.0,
+            "end": 398.0,
+            "text": "I will put programmer."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 398.0,
+            "end": 401.0,
+            "text": "And I want to put more things here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 401.0,
+            "end": 403.0,
+            "text": "I will use Alt Shift bottom arrow."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 403.0,
+            "end": 405.0,
+            "text": "I will use Alt Shift bottom arrow."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 405.0,
+            "end": 407.0,
+            "text": "And here I want to write"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 407.0,
+            "end": 410.0,
+            "text": "favorite language."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 410.0,
+            "end": 412.0,
+            "text": "And I want to write here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 412.0,
+            "end": 414.0,
+            "text": "JavaScript."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 414.0,
+            "end": 416.0,
+            "text": "And now you see here that this table will be like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 416.0,
+            "end": 418.0,
+            "text": "Name, destination, favorite language."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 418.0,
+            "end": 420.0,
+            "text": "So what is this?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 420.0,
+            "end": 422.0,
+            "text": "How does it work?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 422.0,
+            "end": 424.0,
+            "text": "Here we used table tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 424.0,
+            "end": 426.0,
+            "text": "In table tag there is TR tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 426.0,
+            "end": 427.0,
+            "text": "Which is table row."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 427.0,
+            "end": 428.0,
+            "text": "What will come in this row?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 428.0,
+            "end": 430.0,
+            "text": "You will get to see this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 430.0,
+            "end": 432.0,
+            "text": "Now if you want to use it as table heading."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 432.0,
+            "end": 434.0,
+            "text": "You say that this is my table row."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 434.0,
+            "end": 436.0,
+            "text": "That is this row."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 436.0,
+            "end": 438.0,
+            "text": "Name, destination and your favorite language."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 438.0,
+            "end": 440.0,
+            "text": "What will come in this row?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 440.0,
+            "end": 442.0,
+            "text": "And what will come?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 442.0,
+            "end": 444.0,
+            "text": "Here you can see that it will be a heading."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 444.0,
+            "end": 446.0,
+            "text": "So I will use TH."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 446.0,
+            "end": 448.0,
+            "text": "And I will write table heading."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 448.0,
+            "end": 450.0,
+            "text": "And I will write only once."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 450.0,
+            "end": 452.0,
+            "text": "So the first one that will be TR, I will write TH."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 452.0,
+            "end": 454.0,
+            "text": "Now we have put heading."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 454.0,
+            "end": 456.0,
+            "text": "Then we will put data."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 456.0,
+            "end": 458.0,
+            "text": "So we will put TD in table row."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 458.0,
+            "end": 460.0,
+            "text": "Which stands from table data."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 460.0,
+            "end": 462.0,
+            "text": "And here you will put rows in all the TR."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 462.0,
+            "end": 464.0,
+            "text": "Anyway, what will happen?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 464.0,
+            "end": 466.0,
+            "text": "Your rows will be added."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 466.0,
+            "end": 468.0,
+            "text": "So here I will write SAM."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 468.0,
+            "end": 470.0,
+            "text": "And this is also programmer."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 470.0,
+            "end": 472.0,
+            "text": "And this is Java's favorite language."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 472.0,
+            "end": 474.0,
+            "text": "So these rows will be added."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 474.0,
+            "end": 476.0,
+            "text": "We will see from CSS how it can be"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 476.0,
+            "end": 478.0,
+            "text": "given a border."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 478.0,
+            "end": 480.0,
+            "text": "But this is shown as default."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 480.0,
+            "end": 482.0,
+            "text": "And yes, I know this is ugly."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 482.0,
+            "end": 484.0,
+            "text": "But you just understand that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 484.0,
+            "end": 486.0,
+            "text": "table works like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 486.0,
+            "end": 488.0,
+            "text": "Now the rows, span and call span attributes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 488.0,
+            "end": 490.0,
+            "text": "Now you see here that the row span"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 490.0,
+            "end": 492.0,
+            "text": "means how many rows your TD will span."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 492.0,
+            "end": 494.0,
+            "text": "For example,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 494.0,
+            "end": 496.0,
+            "text": "Let us say I write"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 496.0,
+            "end": 498.0,
+            "text": "I want that SAM and programmer."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 498.0,
+            "end": 500.0,
+            "text": "Earlier we were taking one Excel."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 500.0,
+            "end": 502.0,
+            "text": "SAM was taking one Excel programmer."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 502.0,
+            "end": 504.0,
+            "text": "So I want to write in two cells."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 504.0,
+            "end": 506.0,
+            "text": "So I want that I don't want to write in program."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 506.0,
+            "end": 508.0,
+            "text": "I just want to write SAM."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 508.0,
+            "end": 510.0,
+            "text": "And I want to write here that call span is equal to 2."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 510.0,
+            "end": 512.0,
+            "text": "So call span is equal to 2 means"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 512.0,
+            "end": 514.0,
+            "text": "that SAM will now take"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 514.0,
+            "end": 516.0,
+            "text": "place of two columns."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 516.0,
+            "end": 518.0,
+            "text": "What does it mean? It means that it will take place of two columns."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 518.0,
+            "end": 520.0,
+            "text": "That is, SAM will look like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 520.0,
+            "end": 522.0,
+            "text": "I will show you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 522.0,
+            "end": 524.0,
+            "text": "So it took place of this column."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 524.0,
+            "end": 526.0,
+            "text": "So call span means"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 526.0,
+            "end": 528.0,
+            "text": "how many columns will be rounded."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 528.0,
+            "end": 530.0,
+            "text": "By default, one column will be rounded."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 530.0,
+            "end": 532.0,
+            "text": "And one cell will be rounded."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 532.0,
+            "end": 534.0,
+            "text": "To demonstrate this, I will explain it to you with Excel."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 534.0,
+            "end": 536.0,
+            "text": "In Excel, you can understand that this is a table."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 536.0,
+            "end": 538.0,
+            "text": "MRE HTML. Sometimes I want"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 538.0,
+            "end": 540.0,
+            "text": "to span two columns of one data."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 540.0,
+            "end": 542.0,
+            "text": "So here we use merge cell."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 542.0,
+            "end": 544.0,
+            "text": "And here I write SAM."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 544.0,
+            "end": 546.0,
+            "text": "In HTML, this is done."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 546.0,
+            "end": 548.0,
+            "text": "We use call span. Sometimes we want"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 548.0,
+            "end": 550.0,
+            "text": "to merge vertically."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 550.0,
+            "end": 552.0,
+            "text": "I want to merge these two cells."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 552.0,
+            "end": 554.0,
+            "text": "We use the row span there."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 554.0,
+            "end": 556.0,
+            "text": "And who will we use the row span with?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 556.0,
+            "end": 558.0,
+            "text": "We will use the row span with"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 558.0,
+            "end": 560.0,
+            "text": "TD."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 560.0,
+            "end": 562.0,
+            "text": "We will use call span with TD."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 562.0,
+            "end": 564.0,
+            "text": "We will use the row span."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 564.0,
+            "end": 566.0,
+            "text": "So we will span two rows like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 566.0,
+            "end": 568.0,
+            "text": "I hope you understood this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 568.0,
+            "end": 570.0,
+            "text": "When we will make the projects"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 570.0,
+            "end": 572.0,
+            "text": "with HTML, you will understand it better."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 572.0,
+            "end": 574.0,
+            "text": "But I will show you the row span quickly."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 574.0,
+            "end": 576.0,
+            "text": "So if I write"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 576.0,
+            "end": 578.0,
+            "text": "row span is equal to 2 and then I write"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 578.0,
+            "end": 580.0,
+            "text": "another TR here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 580.0,
+            "end": 582.0,
+            "text": "You will see that this table is showing this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 582.0,
+            "end": 584.0,
+            "text": "To explain it better, I will"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 584.0,
+            "end": 586.0,
+            "text": "put a CSS style here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 586.0,
+            "end": 588.0,
+            "text": "I will add a style sheet."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 588.0,
+            "end": 590.0,
+            "text": "And I will name this style sheet as"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 590.0,
+            "end": 592.0,
+            "text": "style.css."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 592.0,
+            "end": 594.0,
+            "text": "You don't need to understand CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 594.0,
+            "end": 596.0,
+            "text": "I will tell you already."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 596.0,
+            "end": 598.0,
+            "text": "I will write in TD"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 598.0,
+            "end": 600.0,
+            "text": "2px solid black."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 600.0,
+            "end": 602.0,
+            "text": "I will tell you how it works."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 602.0,
+            "end": 604.0,
+            "text": "But for now, you can understand that I have"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 604.0,
+            "end": 606.0,
+            "text": "put this. To explain it to you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 606.0,
+            "end": 608.0,
+            "text": "So I said that this row"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 608.0,
+            "end": 610.0,
+            "text": "will have Harry, programmer and JavaScript."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 610.0,
+            "end": 612.0,
+            "text": "Then I said that the"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 612.0,
+            "end": 614.0,
+            "text": "row span of SAM will be so much."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 614.0,
+            "end": 616.0,
+            "text": "I said that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 616.0,
+            "end": 618.0,
+            "text": "the row span of"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 618.0,
+            "end": 620.0,
+            "text": "Java will be 2."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 620.0,
+            "end": 622.0,
+            "text": "So obviously, Java will take"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 622.0,
+            "end": 624.0,
+            "text": "2 rows."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 624.0,
+            "end": 626.0,
+            "text": "So here you can see that Java"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 626.0,
+            "end": 628.0,
+            "text": "took 2 rows. So when Java took"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 628.0,
+            "end": 630.0,
+            "text": "2 rows, I don't want to write Java in the next one."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 630.0,
+            "end": 632.0,
+            "text": "Because its row is already down."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 632.0,
+            "end": 634.0,
+            "text": "So I won't write Java in the next one."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 634.0,
+            "end": 636.0,
+            "text": "So here I won't write Java."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 636.0,
+            "end": 638.0,
+            "text": "I called it as row span 2."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 638.0,
+            "end": 640.0,
+            "text": "So what happened with this? You can see that this was"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 640.0,
+            "end": 642.0,
+            "text": "Harry, programmer and JavaScript."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 642.0,
+            "end": 644.0,
+            "text": "So I said that the"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 644.0,
+            "end": 646.0,
+            "text": "Sam, the call span of"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 646.0,
+            "end": 648.0,
+            "text": "it will take 2 columns."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 648.0,
+            "end": 650.0,
+            "text": "This Sam will take 2 columns."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 650.0,
+            "end": 652.0,
+            "text": "And Java will take 2 rows."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 652.0,
+            "end": 654.0,
+            "text": "So you can see that it is exactly the same here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 654.0,
+            "end": 656.0,
+            "text": "It took 2 rows and 2 columns."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 656.0,
+            "end": 658.0,
+            "text": "So this way, you can use"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 658.0,
+            "end": 660.0,
+            "text": "the row span and call span in HTML."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 660.0,
+            "end": 662.0,
+            "text": "In HTML table, we can add captions."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 662.0,
+            "end": 664.0,
+            "text": "And to add captions, we can"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 664.0,
+            "end": 666.0,
+            "text": "use the caption tag like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 666.0,
+            "end": 668.0,
+            "text": "So I will show you that in the table,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 668.0,
+            "end": 670.0,
+            "text": "if we use the caption,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 670.0,
+            "end": 672.0,
+            "text": "we can add the"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 672.0,
+            "end": 674.0,
+            "text": "captions in the table."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 674.0,
+            "end": 676.0,
+            "text": "So you can see that the"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 676.0,
+            "end": 678.0,
+            "text": "caption will be added here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 678.0,
+            "end": 680.0,
+            "text": "Now the CSS has also changed the"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 680.0,
+            "end": 682.0,
+            "text": "font size. But for now,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 682.0,
+            "end": 684.0,
+            "text": "the caption is added here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 684.0,
+            "end": 685.0,
+            "text": "You can see the"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 685.0,
+            "end": 686.0,
+            "text": "captions in the table."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 686.0,
+            "end": 688.0,
+            "text": "Along with that, you can also add"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 688.0,
+            "end": 690.0,
+            "text": "header and footer. You can add"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 690.0,
+            "end": 692.0,
+            "text": "t-head and t-foot here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 692.0,
+            "end": 694.0,
+            "text": "For example, if I add"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 694.0,
+            "end": 696.0,
+            "text": "some content in t-head and t-foot,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 696.0,
+            "end": 698.0,
+            "text": "if I add header and"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 698.0,
+            "end": 700.0,
+            "text": "footer, you will get"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 700.0,
+            "end": 702.0,
+            "text": "t-head and t-foot here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 702.0,
+            "end": 704.0,
+            "text": "Now I will tell you about"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 704.0,
+            "end": 706.0,
+            "text": "another tag called br tag,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 706.0,
+            "end": 708.0,
+            "text": "which is called line break."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 708.0,
+            "end": 710.0,
+            "text": "So you can see that it is"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 710.0,
+            "end": 712.0,
+            "text": "down here. So this is the header."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 712.0,
+            "end": 714.0,
+            "text": "And after that, I will add footer"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 714.0,
+            "end": 716.0,
+            "text": "down here. I will not add it here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 716.0,
+            "end": 718.0,
+            "text": "So I will add all the tables here"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 718.0,
+            "end": 720.0,
+            "text": "at the end. So this is my table footer."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 720.0,
+            "end": 722.0,
+            "text": "Now I can change it from CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 722.0,
+            "end": 724.0,
+            "text": "Now here, I can group my header and footer"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 724.0,
+            "end": 726.0,
+            "text": "content from t-head and t-foot."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 726.0,
+            "end": 728.0,
+            "text": "So what will be the header of my table"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 728.0,
+            "end": 730.0,
+            "text": "that I have written here, I can"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 730.0,
+            "end": 732.0,
+            "text": "group it. I can put it in t-head."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 732.0,
+            "end": 734.0,
+            "text": "Along with that, the content"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 734.0,
+            "end": 736.0,
+            "text": "that will be in the table, it will"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 736.0,
+            "end": 738.0,
+            "text": "come into the t-body. So what will come"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 738.0,
+            "end": 740.0,
+            "text": "in the t-body? Something like this, my"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 740.0,
+            "end": 742.0,
+            "text": "table and content will come. As you can see."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 742.0,
+            "end": 744.0,
+            "text": "And after this, if I write t-foot here"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 744.0,
+            "end": 746.0,
+            "text": "and I want to add some"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 746.0,
+            "end": 748.0,
+            "text": "data at the end. So I"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 748.0,
+            "end": 750.0,
+            "text": "will add another t-R. As you can"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 750.0,
+            "end": 752.0,
+            "text": "see, I will write it and document it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 752.0,
+            "end": 754.0,
+            "text": "So it will be a better format."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 754.0,
+            "end": 756.0,
+            "text": "Because I want to add t-R like this"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 756.0,
+            "end": 758.0,
+            "text": "and I want to group it in t-foot."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 758.0,
+            "end": 760.0,
+            "text": "So this is the way to group. I have"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 760.0,
+            "end": 762.0,
+            "text": "put some t-arts in t-foot."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 762.0,
+            "end": 764.0,
+            "text": "I have put my main body"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 764.0,
+            "end": 766.0,
+            "text": "in t-body. And I have put it"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 766.0,
+            "end": 768.0,
+            "text": "in t-head. That is my table header."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 768.0,
+            "end": 770.0,
+            "text": "And obviously nothing will change. I have"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 770.0,
+            "end": 772.0,
+            "text": "just grouped it. Here, see"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 772.0,
+            "end": 774.0,
+            "text": "what I do. I write footer here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 774.0,
+            "end": 776.0,
+            "text": "So that you will know that this is footer."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 776.0,
+            "end": 778.0,
+            "text": "I write foot here. And you can"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 778.0,
+            "end": 780.0,
+            "text": "see that the last row is foot."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 780.0,
+            "end": 782.0,
+            "text": "What is the benefit of doing this? We have"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 782.0,
+            "end": 784.0,
+            "text": "target it from CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 784.0,
+            "end": 786.0,
+            "text": "So you will use this very less."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 786.0,
+            "end": 788.0,
+            "text": "But you can do grouping like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 788.0,
+            "end": 790.0,
+            "text": "Your whole table will have"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 790.0,
+            "end": 792.0,
+            "text": "head content here. And foot content here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 792.0,
+            "end": 794.0,
+            "text": "And body content comes in between"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 794.0,
+            "end": 796.0,
+            "text": "head and foot. But you can write"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 796.0,
+            "end": 798.0,
+            "text": "it here. But ideally head"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 798.0,
+            "end": 800.0,
+            "text": "body and then foot comes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 800.0,
+            "end": 802.0,
+            "text": "I hope you understood."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 802.0,
+            "end": 804.0,
+            "text": "So that's all about HTML tables."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 804.0,
+            "end": 806.0,
+            "text": "You don't need to know more than this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 806.0,
+            "end": 808.0,
+            "text": "And now we will talk about"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 808.0,
+            "end": 810.0,
+            "text": "list. List is very important"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 810.0,
+            "end": 812.0,
+            "text": "in HTML. Because we will use"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 812.0,
+            "end": 814.0,
+            "text": "list a lot. There are three"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 814.0,
+            "end": 816.0,
+            "text": "types of list in HTML. One is"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 816.0,
+            "end": 818.0,
+            "text": "ordered list. One is unordered list."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 818.0,
+            "end": 820.0,
+            "text": "And one is definition list. The most"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 820.0,
+            "end": 822.0,
+            "text": "used unordered and ordered list is"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 822.0,
+            "end": 824.0,
+            "text": "unordered list. Let's see the unordered list."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 824.0,
+            "end": 826.0,
+            "text": "Sometimes we want to have unordered"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 826.0,
+            "end": 828.0,
+            "text": "data. Like I write here UL."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 828.0,
+            "end": 830.0,
+            "text": "So I will write UL here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 830.0,
+            "end": 832.0,
+            "text": "This means unordered list."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 832.0,
+            "end": 834.0,
+            "text": "I can write Li in this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 834.0,
+            "end": 836.0,
+            "text": "And I can write Harry. And then"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 836.0,
+            "end": 838.0,
+            "text": "I can write Rohan. And then"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 838.0,
+            "end": 840.0,
+            "text": "I can write Shubham."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 840.0,
+            "end": 842.0,
+            "text": "So when I"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 842.0,
+            "end": 844.0,
+            "text": "write Harry Rohan Shubham, this UL"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 844.0,
+            "end": 846.0,
+            "text": "will come like this. This is unordered"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 846.0,
+            "end": 848.0,
+            "text": "list. Look Harry Rohan Shubham came here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 848.0,
+            "end": 850.0,
+            "text": "They don't have any order. One, two, three, four"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 850.0,
+            "end": 852.0,
+            "text": "didn't come in this. But if I want"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 852.0,
+            "end": 854.0,
+            "text": "this to be ordered, then I can write"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 854.0,
+            "end": 856.0,
+            "text": "this thing with the help of OL."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 856.0,
+            "end": 858.0,
+            "text": "So if I make its opening, closing tag"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 858.0,
+            "end": 860.0,
+            "text": "OL and keep the rest same, then this"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 860.0,
+            "end": 862.0,
+            "text": "will be ordered list."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 862.0,
+            "end": 864.0,
+            "text": "So here in this, it will be 1, 2, 3."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 864.0,
+            "end": 866.0,
+            "text": "You can do this 1, 2, 3 with ABC."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 866.0,
+            "end": 868.0,
+            "text": "You can do capital ABC. You can do"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 868.0,
+            "end": 870.0,
+            "text": "Roman numbers. You can do it with"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 870.0,
+            "end": 872.0,
+            "text": "CSS. You can see here"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 872.0,
+            "end": 874.0,
+            "text": "UL is"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 874.0,
+            "end": 876.0,
+            "text": "in this image. So this came like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 876.0,
+            "end": 878.0,
+            "text": "In this image, you can see"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 878.0,
+            "end": 880.0,
+            "text": "OL is in this. So this is 1, 2, 3."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 880.0,
+            "end": 882.0,
+            "text": "This is the example of ordered list."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 882.0,
+            "end": 884.0,
+            "text": "And this is the example of definition list."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 884.0,
+            "end": 886.0,
+            "text": "Definition list comes in very few uses."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 886.0,
+            "end": 888.0,
+            "text": "This is a preview of this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 888.0,
+            "end": 890.0,
+            "text": "I have added heading here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 890.0,
+            "end": 892.0,
+            "text": "I have written DL."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 892.0,
+            "end": 894.0,
+            "text": "DL means definition list. After this"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 894.0,
+            "end": 896.0,
+            "text": "DD means office."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 896.0,
+            "end": 898.0,
+            "text": "So here definition term is"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 898.0,
+            "end": 900.0,
+            "text": "term and definition is definition."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 900.0,
+            "end": 902.0,
+            "text": "So this comes like this. And you can change"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 902.0,
+            "end": 904.0,
+            "text": "CSS. It is very few uses."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 904.0,
+            "end": 906.0,
+            "text": "But you should know about this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 906.0,
+            "end": 908.0,
+            "text": "Interviews. You are asking"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 908.0,
+            "end": 910.0,
+            "text": "what is definition list? So this"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 910.0,
+            "end": 912.0,
+            "text": "is the code. It is also"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 912.0,
+            "end": 914.0,
+            "text": "previewed like this. I am also writing"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 914.0,
+            "end": 916.0,
+            "text": "for the sake of time. But try it out."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 916.0,
+            "end": 918.0,
+            "text": "And here we will see the"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 918.0,
+            "end": 920.0,
+            "text": "unordered list. I have told you"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 920.0,
+            "end": 922.0,
+            "text": "in unordered list. It is very simple"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 922.0,
+            "end": 924.0,
+            "text": "to customize it. You can use type attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 924.0,
+            "end": 926.0,
+            "text": "For example, if I"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 926.0,
+            "end": 928.0,
+            "text": "type is equal to square."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 928.0,
+            "end": 930.0,
+            "text": "I will say type is equal to"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 930.0,
+            "end": 932.0,
+            "text": "I will write"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 932.0,
+            "end": 934.0,
+            "text": "square. So in unordered list type is equal"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 934.0,
+            "end": 936.0,
+            "text": "to square."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 936.0,
+            "end": 938.0,
+            "text": "So this is like square."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 938.0,
+            "end": 940.0,
+            "text": "Similarly in unordered list"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 940.0,
+            "end": 942.0,
+            "text": "type can be circled,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 942.0,
+            "end": 944.0,
+            "text": "can be squared, can be disquared."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 944.0,
+            "end": 946.0,
+            "text": "Disc by default."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 946.0,
+            "end": 948.0,
+            "text": "I can square it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 948.0,
+            "end": 950.0,
+            "text": "I can also circle it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 950.0,
+            "end": 952.0,
+            "text": "Along with that, you can"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 952.0,
+            "end": 954.0,
+            "text": "add any list items"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 954.0,
+            "end": 956.0,
+            "text": "in list items."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 956.0,
+            "end": 958.0,
+            "text": "Now let's see the unordered list."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 958.0,
+            "end": 960.0,
+            "text": "In unordered list you will write"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 960.0,
+            "end": 962.0,
+            "text": "Li. So this is like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 962.0,
+            "end": 964.0,
+            "text": "But you can use it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 964.0,
+            "end": 966.0,
+            "text": "When you use type is equal to I"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 966.0,
+            "end": 968.0,
+            "text": "you will get upper case Roman numbers."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 968.0,
+            "end": 970.0,
+            "text": "If you use type is equal to small i, you will get lower case"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 970.0,
+            "end": 972.0,
+            "text": "Roman numbers. Type is equal to 1"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 972.0,
+            "end": 974.0,
+            "text": "is default. You don't need to do this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 974.0,
+            "end": 976.0,
+            "text": "If you use small, you will get"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 976.0,
+            "end": 978.0,
+            "text": "alphabetical and capital."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 978.0,
+            "end": 980.0,
+            "text": "So you will get upper case alphabetical."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 980.0,
+            "end": 982.0,
+            "text": "So let's see this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 982.0,
+            "end": 984.0,
+            "text": "Type is equal to"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 984.0,
+            "end": 986.0,
+            "text": "capital. You can see that VS Code"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 986.0,
+            "end": 988.0,
+            "text": "is giving us examples and suggestions."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 988.0,
+            "end": 990.0,
+            "text": "And it is easy for us to see"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 990.0,
+            "end": 992.0,
+            "text": "the possible values."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 992.0,
+            "end": 994.0,
+            "text": "So VS Code is very useful."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 994.0,
+            "end": 996.0,
+            "text": "And many people are using old editors"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 996.0,
+            "end": 998.0,
+            "text": "who used to use it. If you know"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 998.0,
+            "end": 1000.0,
+            "text": "their correct plugins, you will"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1000.0,
+            "end": 1002.0,
+            "text": "switch to VS Code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1002.0,
+            "end": 1004.0,
+            "text": "You can use VS Code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1004.0,
+            "end": 1006.0,
+            "text": "You can use VS Code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1006.0,
+            "end": 1008.0,
+            "text": "If you want to do this in mobile,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1008.0,
+            "end": 1010.0,
+            "text": "comment in the comment section."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1010.0,
+            "end": 1012.0,
+            "text": "And I would like to give a shout out"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1012.0,
+            "end": 1014.0,
+            "text": "to Replete.com."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1014.0,
+            "end": 1016.0,
+            "text": "Because I use it a lot."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1016.0,
+            "end": 1018.0,
+            "text": "So you can use Replete.com"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1018.0,
+            "end": 1020.0,
+            "text": "in your mobile. If you don't have"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1020.0,
+            "end": 1022.0,
+            "text": "much power and computer, you can use it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1022.0,
+            "end": 1024.0,
+            "text": "You will get templates in that."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1024.0,
+            "end": 1026.0,
+            "text": "We will cover it in the coming videos."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1026.0,
+            "end": 1028.0,
+            "text": "But I will stick to VS Code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1028.0,
+            "end": 1030.0,
+            "text": "I hope you understood here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1030.0,
+            "end": 1032.0,
+            "text": "Now we have completed 5 videos."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1032.0,
+            "end": 1034.0,
+            "text": "In the SIGMA web development series."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1034.0,
+            "end": 1036.0,
+            "text": "Go to the first video and comment"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1036.0,
+            "end": 1038.0,
+            "text": "how you feel about the codes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1038.0,
+            "end": 1040.0,
+            "text": "From 5 stars, I got the stars."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1040.0,
+            "end": 1042.0,
+            "text": "What is the nature review of these codes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1042.0,
+            "end": 1044.0,
+            "text": "You have seen 5 videos according to that."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1044.0,
+            "end": 1046.0,
+            "text": "I know that your order is getting late."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1046.0,
+            "end": 1048.0,
+            "text": "But this is how you do it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1048.0,
+            "end": 1050.0,
+            "text": "People don't comment on YouTube that much."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1050.0,
+            "end": 1052.0,
+            "text": "But I still want you to comment."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1052.0,
+            "end": 1054.0,
+            "text": "Comment below. Tell me how it is going."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1054.0,
+            "end": 1056.0,
+            "text": "Go to the first video and"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1056.0,
+            "end": 1058.0,
+            "text": "write in the comment."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1058.0,
+            "end": 1060.0,
+            "text": "You get a lot of motivation."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1060.0,
+            "end": 1062.0,
+            "text": "This will be our 2-way interaction."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1062.0,
+            "end": 1064.0,
+            "text": "I will keep on writing. I like it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1064.0,
+            "end": 1066.0,
+            "text": "It feels like a 2-way interaction."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1066.0,
+            "end": 1068.0,
+            "text": "I will give the source code in the description."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1068.0,
+            "end": 1070.0,
+            "text": "You can access it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1070.0,
+            "end": 1072.0,
+            "text": "Like the video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1072.0,
+            "end": 1074.0,
+            "text": "Write in the comment."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1074.0,
+            "end": 1076.0,
+            "text": "And thank you so much for watching this video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1076.0,
+            "end": 1078.0,
+            "text": "And I will see you next time."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170152_327",
+            "start": 1092.0,
+            "end": 1100.0,
+            "text": "Subscribe to our channel."
+        }
+    ],
+    "full_text": "In this video, we will see how images are made, lists are made in the HTML and tables are made. So, if you like the video, I know very few people like videos on YouTube. But if you do, thanks to you, I get the motivation to bring free courses like this. So, let's start the 5th video of Sigma Web Development course on the computer screen. Let's roll the intro. So, guys, I have come to the computer screen. First, I want to tell you to bookmark GetUp.com. In fact, bookmark this repository so that you get the whole code. Second thing, click on the playlist and bookmark it. Click on the star and save it here. Now, the first thing I will tell you is about the image. What is the image in HTML? We will make a folder here. In the name of Video 5, click on the new folder and here Video 5. You know, I have already told you that I will open with code with Shift right click. But if you want to see this welcome page again and again, then click on the show welcome page and uncheck the start-up. And you won't get to see this again and again. But what are we doing? We will make index.html, control it, zoom in by mouse wheel, toggle the screencast mode so that you will know which button I am pressing and why I am pressing. Now, I will put the exclamation mark and bring the image abbreviation here. And here I will do the view word wrap. You have to work very hard. You can see that your word wrap is closed. So what will happen here is that the horizontal scroll bar will not come. Now what I will do here is I will write images. First of all, I will write images here. And I will simply bring an image here. Now you can bring images from the internet. I will write here. Let us say we want to bring images. Let us say train key. Okay, train key images. Because we have run a lot of trains in this course. So we will bring train key images. Why will we bring any other image? I will do the same images. And here in the video number 5 folder in the Sigma Web Development course, this is a CMS file. In fact, I will do one thing. So I will cancel it. I will take its snippet. Because this is a CMS extension. I will go to PNG and take it. So I have pressed Windows, Shift and S. It is a shortcut for Snipping tool. If you don't know, then now you will know through Sigma Web Development course. If you press Windows, Shift and S, then your Snipping tool opens in Windows. No one knows anything. Tell me in the comment section. Okay. Now what we will do here? I had done Windows, Shift and S. Then I got into talks. So here you click and save it here. Here the floppy description of the save is here. You click here. And go to downloads. Go to Sigma Web Development course. Save it in video 5. Okay, saved it in image. Now there is an IMG tag in HTML. The way you will put it, SRC and Alt are required attributes. In fact, if you don't write Alt, then it will work. But it is recommended. I will tell you what these attributes are. First, if you write in SRC, image.png. You can see this image here. And I will put it in Alt. Train image. Now if I show it to you, by previewing it in the browser. See how it looks. This is our page and this is the image of the train. What happened by doing this? Alt, what we wrote, where did it go? You can say, I will tell you where it went. The thing we put in Alt, we didn't see it. Suppose for some reason, the server can't see you. Then what will happen? Suppose I wrote image2 wrong. Now image2.png is not here. So what will be the error? I will show you. So here the alt will be displayed. And this kind of error image will be displayed. Which will tell you that you have put the image correctly. You have done something wrong. Here the server's URL is not there. These kind of things are shown. And there is alt. So the user knows what is the purpose of this image. And now if I come back here, you can put the alt in the image like this. What will happen if I don't put it in the alt? If I don't put it in the alt, then the alt text won't come. Nothing will happen. So you won't want that when your server has an error, then you will see the image like this. This is the scenario. The user will see you like this. Train image is written like this. I hope you understood. So the image is straight forward. There are two more attributes of this image. Which is very important. One is the width. Which is width in pixels. If I do 23 width is equal to, then you can see. In fact, I will correct the image first. I wrote image 2 by mistake. Image.png. You can see here that I have taken 23 pixels. Which is very small. So I will do 230 pixels. You don't need to write Px in this. When we write width in CSS, then we will see that we need to write Px. Or we just write width is equal to double quotes in the number. As you can see. So if I bring it here, then you see that this small image is seen. If I give it height, I mean I give it height too. I said if you keep the height of 230, then its aspect ratio will be reduced. So it will get stretched. Because it has done 230 to its width. And also 230 to its height. As you can see. If you want the height to be 230. And the width to be automatically adjusted, then you can use height attribute. Now remove the width. So the height will be 230 pixels. And the width will be adjusted automatically. Now see. The width has been automatically adjusted. And the height is taken. Now what happens is that through CSS, it can be adjusted to width and height. And in the CSS section, we will see that why this width and height should be set. We should always set one thing from width and height. Such that when our page load is there, then our image inside the page will not come out completely. I will tell you in the coming videos. But you can understand that these width and height attributes. I have told many people that they have heard that they have been deprecated. They should not use it. But I say they should use it for this purpose. Why should they do it? I will tell you in the coming videos. Where I will tell you about the core web vitals and SEO. For now, you can understand that width gives the image, height gives the image. If someone puts one of them, then the other one automatically sets. And these values are in pixels. And you don't have to write px or pixel. You just have to write this number. And that's it. This is an attribute, height. And it is an SRC attribute, an alt attribute. You can use style attribute in this. In fact, you can use style attribute with almost all the tags. So this was the image. Now we will talk about the tables in HTML. In HTML, table tag is very useful. I will tell you what table tag is. You get to see table from table tag. Now I will copy this table from here. And when I will copy this table from here, then you will see that my page will look like this. So this table of HTML, where is my preview page? Here it is. Look at the name, HarryH100. Now if I put a lot of things here, I will put some things here. I will put some things here. I will put name. And here I will put designation, Harry designation. I will put programmer. And I want to put more things here. I will use Alt Shift bottom arrow. I will use Alt Shift bottom arrow. And here I want to write favorite language. And I want to write here. JavaScript. And now you see here that this table will be like this. Name, destination, favorite language. So what is this? How does it work? Here we used table tag. In table tag there is TR tag. Which is table row. What will come in this row? You will get to see this. Now if you want to use it as table heading. You say that this is my table row. That is this row. Name, destination and your favorite language. What will come in this row? And what will come? Here you can see that it will be a heading. So I will use TH. And I will write table heading. And I will write only once. So the first one that will be TR, I will write TH. Now we have put heading. Then we will put data. So we will put TD in table row. Which stands from table data. And here you will put rows in all the TR. Anyway, what will happen? Your rows will be added. So here I will write SAM. And this is also programmer. And this is Java's favorite language. So these rows will be added. We will see from CSS how it can be given a border. But this is shown as default. And yes, I know this is ugly. But you just understand that table works like this. Now the rows, span and call span attributes. Now you see here that the row span means how many rows your TD will span. For example, Let us say I write I want that SAM and programmer. Earlier we were taking one Excel. SAM was taking one Excel programmer. So I want to write in two cells. So I want that I don't want to write in program. I just want to write SAM. And I want to write here that call span is equal to 2. So call span is equal to 2 means that SAM will now take place of two columns. What does it mean? It means that it will take place of two columns. That is, SAM will look like this. I will show you. So it took place of this column. So call span means how many columns will be rounded. By default, one column will be rounded. And one cell will be rounded. To demonstrate this, I will explain it to you with Excel. In Excel, you can understand that this is a table. MRE HTML. Sometimes I want to span two columns of one data. So here we use merge cell. And here I write SAM. In HTML, this is done. We use call span. Sometimes we want to merge vertically. I want to merge these two cells. We use the row span there. And who will we use the row span with? We will use the row span with TD. We will use call span with TD. We will use the row span. So we will span two rows like this. I hope you understood this. When we will make the projects with HTML, you will understand it better. But I will show you the row span quickly. So if I write row span is equal to 2 and then I write another TR here. You will see that this table is showing this. To explain it better, I will put a CSS style here. I will add a style sheet. And I will name this style sheet as style.css. You don't need to understand CSS. I will tell you already. I will write in TD 2px solid black. I will tell you how it works. But for now, you can understand that I have put this. To explain it to you. So I said that this row will have Harry, programmer and JavaScript. Then I said that the row span of SAM will be so much. I said that the row span of Java will be 2. So obviously, Java will take 2 rows. So here you can see that Java took 2 rows. So when Java took 2 rows, I don't want to write Java in the next one. Because its row is already down. So I won't write Java in the next one. So here I won't write Java. I called it as row span 2. So what happened with this? You can see that this was Harry, programmer and JavaScript. So I said that the Sam, the call span of it will take 2 columns. This Sam will take 2 columns. And Java will take 2 rows. So you can see that it is exactly the same here. It took 2 rows and 2 columns. So this way, you can use the row span and call span in HTML. In HTML table, we can add captions. And to add captions, we can use the caption tag like this. So I will show you that in the table, if we use the caption, we can add the captions in the table. So you can see that the caption will be added here. Now the CSS has also changed the font size. But for now, the caption is added here. You can see the captions in the table. Along with that, you can also add header and footer. You can add t-head and t-foot here. For example, if I add some content in t-head and t-foot, if I add header and footer, you will get t-head and t-foot here. Now I will tell you about another tag called br tag, which is called line break. So you can see that it is down here. So this is the header. And after that, I will add footer down here. I will not add it here. So I will add all the tables here at the end. So this is my table footer. Now I can change it from CSS. Now here, I can group my header and footer content from t-head and t-foot. So what will be the header of my table that I have written here, I can group it. I can put it in t-head. Along with that, the content that will be in the table, it will come into the t-body. So what will come in the t-body? Something like this, my table and content will come. As you can see. And after this, if I write t-foot here and I want to add some data at the end. So I will add another t-R. As you can see, I will write it and document it. So it will be a better format. Because I want to add t-R like this and I want to group it in t-foot. So this is the way to group. I have put some t-arts in t-foot. I have put my main body in t-body. And I have put it in t-head. That is my table header. And obviously nothing will change. I have just grouped it. Here, see what I do. I write footer here. So that you will know that this is footer. I write foot here. And you can see that the last row is foot. What is the benefit of doing this? We have target it from CSS. So you will use this very less. But you can do grouping like this. Your whole table will have head content here. And foot content here. And body content comes in between head and foot. But you can write it here. But ideally head body and then foot comes. I hope you understood. So that's all about HTML tables. You don't need to know more than this. And now we will talk about list. List is very important in HTML. Because we will use list a lot. There are three types of list in HTML. One is ordered list. One is unordered list. And one is definition list. The most used unordered and ordered list is unordered list. Let's see the unordered list. Sometimes we want to have unordered data. Like I write here UL. So I will write UL here. This means unordered list. I can write Li in this. And I can write Harry. And then I can write Rohan. And then I can write Shubham. So when I write Harry Rohan Shubham, this UL will come like this. This is unordered list. Look Harry Rohan Shubham came here. They don't have any order. One, two, three, four didn't come in this. But if I want this to be ordered, then I can write this thing with the help of OL. So if I make its opening, closing tag OL and keep the rest same, then this will be ordered list. So here in this, it will be 1, 2, 3. You can do this 1, 2, 3 with ABC. You can do capital ABC. You can do Roman numbers. You can do it with CSS. You can see here UL is in this image. So this came like this. In this image, you can see OL is in this. So this is 1, 2, 3. This is the example of ordered list. And this is the example of definition list. Definition list comes in very few uses. This is a preview of this. I have added heading here. I have written DL. DL means definition list. After this DD means office. So here definition term is term and definition is definition. So this comes like this. And you can change CSS. It is very few uses. But you should know about this. Interviews. You are asking what is definition list? So this is the code. It is also previewed like this. I am also writing for the sake of time. But try it out. And here we will see the unordered list. I have told you in unordered list. It is very simple to customize it. You can use type attribute. For example, if I type is equal to square. I will say type is equal to I will write square. So in unordered list type is equal to square. So this is like square. Similarly in unordered list type can be circled, can be squared, can be disquared. Disc by default. I can square it. I can also circle it. Along with that, you can add any list items in list items. Now let's see the unordered list. In unordered list you will write Li. So this is like this. But you can use it. When you use type is equal to I you will get upper case Roman numbers. If you use type is equal to small i, you will get lower case Roman numbers. Type is equal to 1 is default. You don't need to do this. If you use small, you will get alphabetical and capital. So you will get upper case alphabetical. So let's see this. Type is equal to capital. You can see that VS Code is giving us examples and suggestions. And it is easy for us to see the possible values. So VS Code is very useful. And many people are using old editors who used to use it. If you know their correct plugins, you will switch to VS Code. You can use VS Code. You can use VS Code. If you want to do this in mobile, comment in the comment section. And I would like to give a shout out to Replete.com. Because I use it a lot. So you can use Replete.com in your mobile. If you don't have much power and computer, you can use it. You will get templates in that. We will cover it in the coming videos. But I will stick to VS Code. I hope you understood here. Now we have completed 5 videos. In the SIGMA web development series. Go to the first video and comment how you feel about the codes. From 5 stars, I got the stars. What is the nature review of these codes. You have seen 5 videos according to that. I know that your order is getting late. But this is how you do it. People don't comment on YouTube that much. But I still want you to comment. Comment below. Tell me how it is going. Go to the first video and write in the comment. You get a lot of motivation. This will be our 2-way interaction. I will keep on writing. I like it. It feels like a 2-way interaction. I will give the source code in the description. You can access it. Like the video. Write in the comment. And thank you so much for watching this video. And I will see you next time. Subscribe to our channel."
+}

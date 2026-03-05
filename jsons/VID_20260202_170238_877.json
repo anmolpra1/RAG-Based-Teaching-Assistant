@@ -1,0 +1,3043 @@
+{
+    "chunks": [
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 0.0,
+            "end": 5.0,
+            "text": "In this video, we will learn about the forms and what is the input tag in the form."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 5.0,
+            "end": 11.0,
+            "text": "Forms are an important element of websites because you submit data through the form from client to server."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 11.0,
+            "end": 16.0,
+            "text": "These are the forms that you see on the contact pages, on Google forms or inquiry forms."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 16.0,
+            "end": 23.0,
+            "text": "On the flight or railway ticket, you submit all the details through the HTML forms."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 23.0,
+            "end": 28.0,
+            "text": "In the last video, many people liked it. I will request you to like this video with high energy"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 28.0,
+            "end": 31.0,
+            "text": "so that we can maintain the high energy throughout the course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 31.0,
+            "end": 36.0,
+            "text": "So let's go to the computer screen, see the forms, see the input tags and see some best practices."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 36.0,
+            "end": 38.0,
+            "text": "Let's roll the intro."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 47.0,
+            "end": 49.0,
+            "text": "So guys, I have come to the computer screen."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 49.0,
+            "end": 53.0,
+            "text": "And now I am going to quickly make a folder which is called Video6."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 53.0,
+            "end": 58.0,
+            "text": "I will make a video on video 6, I will post it on my channel."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 58.0,
+            "end": 64.0,
+            "text": "And I am going to make index.html and mark the exclamation mark on it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 64.0,
+            "end": 71.0,
+            "text": "I will do the view, wrap, turn on the screen mode and see the forms."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 71.0,
+            "end": 73.0,
+            "text": "Let's learn it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 73.0,
+            "end": 76.0,
+            "text": "So I have set the title of the form here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 76.0,
+            "end": 80.0,
+            "text": "And what happened by setting the title is that the title will be shown on our page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 80.0,
+            "end": 84.0,
+            "text": "Here I want to tell you about a very important setting, the show preview."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 84.0,
+            "end": 89.0,
+            "text": "Now, if you have to click so many times, you can do something."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 89.0,
+            "end": 90.0,
+            "text": "Yes, you can do it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 90.0,
+            "end": 93.0,
+            "text": "You can click on the gear, click on settings."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 93.0,
+            "end": 96.0,
+            "text": "And after clicking on settings, you can simply do it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 96.0,
+            "end": 99.0,
+            "text": "Write here, live preview, live preview."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 99.0,
+            "end": 106.0,
+            "text": "And we can actually set it, such that when we click, what will happen is that it will be opened on the external browser."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 106.0,
+            "end": 111.0,
+            "text": "So now I will close everything, as soon as I click here, it will open on the external browser."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 111.0,
+            "end": 117.0,
+            "text": "And I come to the browser and the play list of Sigma Web Development Coats is on the iXS Star."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 117.0,
+            "end": 119.0,
+            "text": "And here on the bookmark."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 119.0,
+            "end": 123.0,
+            "text": "But now I want to tell you that as soon as we click here, it opens."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 123.0,
+            "end": 125.0,
+            "text": "So if you want, do it like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 125.0,
+            "end": 128.0,
+            "text": "But sometimes you want to prefer side by side view."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 128.0,
+            "end": 132.0,
+            "text": "And when will you want to do that when you are actually using HTML, CSS and working on design."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 132.0,
+            "end": 137.0,
+            "text": "So whenever you are working on design, you will definitely want to see the live preview."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 137.0,
+            "end": 139.0,
+            "text": "Here, which is why this extension was made."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 139.0,
+            "end": 144.0,
+            "text": "And it was made differently from live server, so you will see the preview on every side."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 144.0,
+            "end": 146.0,
+            "text": "Now what will we do here?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 146.0,
+            "end": 147.0,
+            "text": "We will go about forms."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 147.0,
+            "end": 148.0,
+            "text": "What is form?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 148.0,
+            "end": 151.0,
+            "text": "You know the name of the form, it means the form of the railway."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 151.0,
+            "end": 153.0,
+            "text": "We go and fill it and our reservation is done."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 153.0,
+            "end": 158.0,
+            "text": "Along with that, we fill in the form of IEDJ, the form of need, the form of any exam."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 158.0,
+            "end": 161.0,
+            "text": "So that we can reach our data to the one we want."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 161.0,
+            "end": 163.0,
+            "text": "So this is form."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 163.0,
+            "end": 167.0,
+            "text": "The form tag of HTML, as soon as you write the form, you will enter it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 167.0,
+            "end": 169.0,
+            "text": "So the first question will be what is your action form?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 169.0,
+            "end": 170.0,
+            "text": "Get or post?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 170.0,
+            "end": 174.0,
+            "text": "I will tell you a very quick difference between get request and post request."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 174.0,
+            "end": 177.0,
+            "text": "We will see this when we will read it back and forth."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 177.0,
+            "end": 179.0,
+            "text": "Get request is a very simple request."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 179.0,
+            "end": 184.0,
+            "text": "And we send post requests in most of the cases when we have to give a lot of data."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 184.0,
+            "end": 189.0,
+            "text": "Whenever we have to post a form, we will use post request in most of the cases."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 189.0,
+            "end": 192.0,
+            "text": "And get request is a very simple request."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 192.0,
+            "end": 198.0,
+            "text": "We just have to tell the server and hit that set."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 198.0,
+            "end": 201.0,
+            "text": "But if you don't understand it yet, that should be fine."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 201.0,
+            "end": 204.0,
+            "text": "There is no problem because we will do it in detail."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 204.0,
+            "end": 206.0,
+            "text": "So form action is equal to post."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 206.0,
+            "end": 209.0,
+            "text": "Now I can show you some input tags."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 209.0,
+            "end": 211.0,
+            "text": "I will tell you the input tags."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 211.0,
+            "end": 215.0,
+            "text": "What are the elements inside your form?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 215.0,
+            "end": 225.0,
+            "text": "You can add a date, form, name, phone number, age, etc."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 225.0,
+            "end": 227.0,
+            "text": "You can add these things in form."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 227.0,
+            "end": 232.0,
+            "text": "So I want to tell you that you add input tags in form."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 232.0,
+            "end": 235.0,
+            "text": "And a label tag which is used to label that input."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 235.0,
+            "end": 240.0,
+            "text": "So what I will do here is the simplest input tag is type is equal to text."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 240.0,
+            "end": 242.0,
+            "text": "So I will add type is equal to text input here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 242.0,
+            "end": 248.0,
+            "text": "And if I zoom out here, then type is equal to text name is equal to user name."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 248.0,
+            "end": 250.0,
+            "text": "Placeholder enter user name."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 250.0,
+            "end": 252.0,
+            "text": "And this will look like this in actual."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 252.0,
+            "end": 254.0,
+            "text": "You can say enter your user name."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 254.0,
+            "end": 258.0,
+            "text": "And the user name in front of you will have to enter."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 258.0,
+            "end": 259.0,
+            "text": "I will write an h1 here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 259.0,
+            "end": 261.0,
+            "text": "And I will write here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 261.0,
+            "end": 268.0,
+            "text": "So form to apply for TA for Sigma Web Dev TA."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 268.0,
+            "end": 273.0,
+            "text": "Sigma Web Development Codes TA."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 273.0,
+            "end": 277.0,
+            "text": "I mean we are hiring teaching assistants for Sigma Web Development Codes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 277.0,
+            "end": 279.0,
+            "text": "So we can write here something like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 279.0,
+            "end": 281.0,
+            "text": "By the way, I have put subtitles."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 281.0,
+            "end": 283.0,
+            "text": "If you haven't done it, then do access it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 283.0,
+            "end": 286.0,
+            "text": "And along with that, I will show you one more thing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 286.0,
+            "end": 288.0,
+            "text": "These subtitles are quite funny."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 288.0,
+            "end": 291.0,
+            "text": "So write a note here and write your village land."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 291.0,
+            "end": 295.0,
+            "text": "I mean if someone is watching this in English or if someone is watching this in Hindi,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 295.0,
+            "end": 299.0,
+            "text": "they will not know that it is okay to go here and give your village land to me."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 299.0,
+            "end": 300.0,
+            "text": "So you can see this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 300.0,
+            "end": 303.0,
+            "text": "Anyway, you can see here that I have put the h1 here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 303.0,
+            "end": 304.0,
+            "text": "Because this is our main heading."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 304.0,
+            "end": 305.0,
+            "text": "Enter your user name."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 305.0,
+            "end": 306.0,
+            "text": "This is our input tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 306.0,
+            "end": 309.0,
+            "text": "Along with the input tag, we will use the label tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 309.0,
+            "end": 310.0,
+            "text": "Now whose label is this?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 310.0,
+            "end": 312.0,
+            "text": "So form is equal to, I will write its id."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 312.0,
+            "end": 314.0,
+            "text": "I will write its id username."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 315.0,
+            "end": 317.0,
+            "text": "And what will I do in form is equal to?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 317.0,
+            "end": 319.0,
+            "text": "I will put it in form is equal to its id."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 319.0,
+            "end": 321.0,
+            "text": "Now what is id here?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 321.0,
+            "end": 322.0,
+            "text": "I will tell you this later."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 322.0,
+            "end": 325.0,
+            "text": "For now, you just understand that this is a unique identifier of this element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 325.0,
+            "end": 327.0,
+            "text": "To identify this element uniquely,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 327.0,
+            "end": 330.0,
+            "text": "like your basic number cannot be of any other."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 330.0,
+            "end": 332.0,
+            "text": "Similarly, this id username can be found."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 332.0,
+            "end": 333.0,
+            "text": "Now this cannot be found by anyone else."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 333.0,
+            "end": 334.0,
+            "text": "This is id."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 334.0,
+            "end": 335.0,
+            "text": "I will tell you more in detail."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 335.0,
+            "end": 336.0,
+            "text": "But now understand this much."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 336.0,
+            "end": 338.0,
+            "text": "So I have written label for is equal to username."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 338.0,
+            "end": 339.0,
+            "text": "Input is written here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 339.0,
+            "end": 342.0,
+            "text": "And you can see here that the label will come here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 342.0,
+            "end": 343.0,
+            "text": "So I am looking here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 343.0,
+            "end": 345.0,
+            "text": "I have not put anything in the label actually."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 345.0,
+            "end": 348.0,
+            "text": "So I will put enter your username."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 348.0,
+            "end": 350.0,
+            "text": "And you can see here, as soon as I put this,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 350.0,
+            "end": 352.0,
+            "text": "you will get to see enter your username."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 352.0,
+            "end": 354.0,
+            "text": "After that you can enter username here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 354.0,
+            "end": 357.0,
+            "text": "Along with that, you can enter your expertise here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 357.0,
+            "end": 358.0,
+            "text": "You can put anything."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 358.0,
+            "end": 360.0,
+            "text": "Suppose I want to ask here what is your gender."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 360.0,
+            "end": 362.0,
+            "text": "So I can do something like this here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 362.0,
+            "end": 364.0,
+            "text": "And you see enter your gender."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 364.0,
+            "end": 365.0,
+            "text": "And as soon as I did this,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 365.0,
+            "end": 367.0,
+            "text": "I can ask you from male or female."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 367.0,
+            "end": 368.0,
+            "text": "What is it?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 368.0,
+            "end": 369.0,
+            "text": "Now what happens here?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 369.0,
+            "end": 371.0,
+            "text": "Sometimes we wrap it in div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 371.0,
+            "end": 374.0,
+            "text": "Div is our block element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 374.0,
+            "end": 377.0,
+            "text": "And what are the inline and block elements?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 377.0,
+            "end": 379.0,
+            "text": "I have not told you this in this course yet."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 379.0,
+            "end": 381.0,
+            "text": "But I will tell you in the coming videos."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 381.0,
+            "end": 382.0,
+            "text": "So for now you will understand this much."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 382.0,
+            "end": 384.0,
+            "text": "I am putting this in div to give you a new space."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 384.0,
+            "end": 386.0,
+            "text": "So as soon as I put this in div,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 386.0,
+            "end": 387.0,
+            "text": "it will come in new space."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 387.0,
+            "end": 388.0,
+            "text": "Yes, there is also br tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 388.0,
+            "end": 389.0,
+            "text": "There is br tag too."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 389.0,
+            "end": 390.0,
+            "text": "The line breaks like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 390.0,
+            "end": 392.0,
+            "text": "But I don't prefer br tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 392.0,
+            "end": 393.0,
+            "text": "And you will get to know why."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 393.0,
+            "end": 397.0,
+            "text": "Why we don't want to bloat our HTML from br tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 397.0,
+            "end": 399.0,
+            "text": "You will get to know this in the coming videos."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 399.0,
+            "end": 401.0,
+            "text": "Now you see here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 401.0,
+            "end": 402.0,
+            "text": "enter your username,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 402.0,
+            "end": 404.0,
+            "text": "here is male or female."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 404.0,
+            "end": 406.0,
+            "text": "Now here as soon as I am clicking on female,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 406.0,
+            "end": 408.0,
+            "text": "this radio button is selected."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 408.0,
+            "end": 409.0,
+            "text": "I am clicking on male and it is selected."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 409.0,
+            "end": 410.0,
+            "text": "Why is this happening?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 410.0,
+            "end": 411.0,
+            "text": "Because the label of this is"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 411.0,
+            "end": 413.0,
+            "text": "I have done for is equal to female."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 413.0,
+            "end": 414.0,
+            "text": "And here I have put id female."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 414.0,
+            "end": 415.0,
+            "text": "You see."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 415.0,
+            "end": 418.0,
+            "text": "And also you see I have put their names same."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 418.0,
+            "end": 420.0,
+            "text": "Here name is equal to gender."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 420.0,
+            "end": 421.0,
+            "text": "I have put this input tag too."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 421.0,
+            "end": 423.0,
+            "text": "And name is equal to gender."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 423.0,
+            "end": 425.0,
+            "text": "This too put input radio tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 425.0,
+            "end": 427.0,
+            "text": "And as soon as we have written type is equal to radio,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 427.0,
+            "end": 428.0,
+            "text": "this means radio button."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 428.0,
+            "end": 430.0,
+            "text": "And if we have put same name,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 430.0,
+            "end": 432.0,
+            "text": "then only one of these can be selected at a time."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 432.0,
+            "end": 433.0,
+            "text": "If I have selected this,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 433.0,
+            "end": 434.0,
+            "text": "then it will be this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 434.0,
+            "end": 435.0,
+            "text": "If I have selected this,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 435.0,
+            "end": 436.0,
+            "text": "then it will be this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 436.0,
+            "end": 437.0,
+            "text": "Now I will show you one thing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 437.0,
+            "end": 439.0,
+            "text": "If I make the id in the form of label,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 439.0,
+            "end": 440.0,
+            "text": "then it will be wrong."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 440.0,
+            "end": 441.0,
+            "text": "And here also in form id,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 441.0,
+            "end": 443.0,
+            "text": "I don't make the id wrong in the first one."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 443.0,
+            "end": 444.0,
+            "text": "I make the id wrong in the second one."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 444.0,
+            "end": 446.0,
+            "text": "So when I click on the second one,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 446.0,
+            "end": 447.0,
+            "text": "then it will not be selected."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 447.0,
+            "end": 448.0,
+            "text": "I am clicking and not selecting."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 448.0,
+            "end": 450.0,
+            "text": "I am clicking and selecting on male."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 450.0,
+            "end": 451.0,
+            "text": "So to select female,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 451.0,
+            "end": 453.0,
+            "text": "I will have to click on this here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 453.0,
+            "end": 454.0,
+            "text": "You see."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 454.0,
+            "end": 455.0,
+            "text": "So I should do it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 455.0,
+            "end": 456.0,
+            "text": "Always put the id of"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 456.0,
+            "end": 459.0,
+            "text": "the input tag that is equal to 4."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 459.0,
+            "end": 460.0,
+            "text": "So you can see here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 460.0,
+            "end": 461.0,
+            "text": "I have put the label"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 461.0,
+            "end": 462.0,
+            "text": "4 is equal to female."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 462.0,
+            "end": 463.0,
+            "text": "Along with that,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 463.0,
+            "end": 464.0,
+            "text": "we have an input tag,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 464.0,
+            "end": 466.0,
+            "text": "which is type is equal to checkbox."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 466.0,
+            "end": 467.0,
+            "text": "Now see here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 467.0,
+            "end": 469.0,
+            "text": "if I put the input of type is equal to checkbox."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 469.0,
+            "end": 471.0,
+            "text": "I will put this in the div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 471.0,
+            "end": 472.0,
+            "text": "Right click and"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 472.0,
+            "end": 473.0,
+            "text": "I will do the format document."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 473.0,
+            "end": 475.0,
+            "text": "Our document will be very good."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 475.0,
+            "end": 476.0,
+            "text": "That is,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 476.0,
+            "end": 478.0,
+            "text": "the formatting of it will be very good."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 478.0,
+            "end": 479.0,
+            "text": "Now see here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 479.0,
+            "end": 481.0,
+            "text": "here subscribe to newsletter."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 481.0,
+            "end": 482.0,
+            "text": "Here I can check it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 482.0,
+            "end": 484.0,
+            "text": "And radio button and checkbox"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 484.0,
+            "end": 485.0,
+            "text": "have a difference."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 485.0,
+            "end": 487.0,
+            "text": "You can check the checkbox"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 487.0,
+            "end": 488.0,
+            "text": "of different checkboxes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 488.0,
+            "end": 489.0,
+            "text": "If you want,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 489.0,
+            "end": 490.0,
+            "text": "male or female,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 490.0,
+            "end": 491.0,
+            "text": "or any of the options,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 491.0,
+            "end": 493.0,
+            "text": "you can select it like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 493.0,
+            "end": 495.0,
+            "text": "Then we have text area"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 495.0,
+            "end": 496.0,
+            "text": "and select tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 496.0,
+            "end": 498.0,
+            "text": "And I will show you that too."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 498.0,
+            "end": 500.0,
+            "text": "So text area and select tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 500.0,
+            "end": 501.0,
+            "text": "It works like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 501.0,
+            "end": 503.0,
+            "text": "Like I am copying text area."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 503.0,
+            "end": 504.0,
+            "text": "I will put it here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 504.0,
+            "end": 505.0,
+            "text": "Actually,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 505.0,
+            "end": 506.0,
+            "text": "text area."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 506.0,
+            "end": 508.0,
+            "text": "So text area input type is equal to"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 508.0,
+            "end": 509.0,
+            "text": "text."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 509.0,
+            "end": 510.0,
+            "text": "But in this,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 510.0,
+            "end": 511.0,
+            "text": "rows and column attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 511.0,
+            "end": 512.0,
+            "text": "Which helps you to"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 512.0,
+            "end": 513.0,
+            "text": "reduce the size of the text."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 513.0,
+            "end": 514.0,
+            "text": "Now see here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 514.0,
+            "end": 516.0,
+            "text": "the placeholder I have given"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 516.0,
+            "end": 517.0,
+            "text": "enter your comment here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 517.0,
+            "end": 518.0,
+            "text": "So this is the text"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 518.0,
+            "end": 519.0,
+            "text": "I have given it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 519.0,
+            "end": 520.0,
+            "text": "Ideally,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 520.0,
+            "end": 521.0,
+            "text": "we will keep it empty."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 521.0,
+            "end": 523.0,
+            "text": "Or at least we will not give"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 523.0,
+            "end": 524.0,
+            "text": "a new line on it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 524.0,
+            "end": 525.0,
+            "text": "So I will hide it here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 525.0,
+            "end": 526.0,
+            "text": "Enter your comment here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 526.0,
+            "end": 527.0,
+            "text": "And now it will reach"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 527.0,
+            "end": 528.0,
+            "text": "to the left side."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 528.0,
+            "end": 529.0,
+            "text": "I will show you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 529.0,
+            "end": 530.0,
+            "text": "So it has reached to the left side."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 530.0,
+            "end": 531.0,
+            "text": "Enter your comment here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 531.0,
+            "end": 533.0,
+            "text": "And here any user can"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 533.0,
+            "end": 534.0,
+            "text": "put his comment."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 534.0,
+            "end": 535.0,
+            "text": "Now see,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 535.0,
+            "end": 537.0,
+            "text": "I have put the content of text area."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 537.0,
+            "end": 538.0,
+            "text": "Enter your comment here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 538.0,
+            "end": 539.0,
+            "text": "So ideally,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 539.0,
+            "end": 540.0,
+            "text": "you do not want to do this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 540.0,
+            "end": 541.0,
+            "text": "You want to keep the text area empty."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 541.0,
+            "end": 543.0,
+            "text": "And you want to put a label."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 543.0,
+            "end": 544.0,
+            "text": "And you can say"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 544.0,
+            "end": 546.0,
+            "text": "label for is equal to"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 546.0,
+            "end": 547.0,
+            "text": "comment."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 547.0,
+            "end": 548.0,
+            "text": "And we will definitely"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 548.0,
+            "end": 549.0,
+            "text": "put id here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 549.0,
+            "end": 550.0,
+            "text": "Whenever we put for,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 550.0,
+            "end": 551.0,
+            "text": "it is in for."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 551.0,
+            "end": 552.0,
+            "text": "The element for which"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 552.0,
+            "end": 553.0,
+            "text": "it is there is its id."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 553.0,
+            "end": 554.0,
+            "text": "Now see here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 554.0,
+            "end": 556.0,
+            "text": "Enter your comment here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 556.0,
+            "end": 557.0,
+            "text": "If I write here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 557.0,
+            "end": 559.0,
+            "text": "So what will happen?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 559.0,
+            "end": 560.0,
+            "text": "Enter your comment."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 560.0,
+            "end": 561.0,
+            "text": "So I will write enter your comment."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 561.0,
+            "end": 562.0,
+            "text": "Enter your comment here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 562.0,
+            "end": 563.0,
+            "text": "Now you will say,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 563.0,
+            "end": 564.0,
+            "text": "this is not style D."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 564.0,
+            "end": 565.0,
+            "text": "This is not style D."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 565.0,
+            "end": 566.0,
+            "text": "This is not style D."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 566.0,
+            "end": 567.0,
+            "text": "Because we will"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 567.0,
+            "end": 569.0,
+            "text": "style it later with CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 569.0,
+            "end": 570.0,
+            "text": "Now for this,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 570.0,
+            "end": 571.0,
+            "text": "I will just put br tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 571.0,
+            "end": 572.0,
+            "text": "But I don't recommend br tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 572.0,
+            "end": 574.0,
+            "text": "I am telling you again."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 574.0,
+            "end": 576.0,
+            "text": "I do not recommend br tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 576.0,
+            "end": 578.0,
+            "text": "Because br tags are difficult."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 578.0,
+            "end": 579.0,
+            "text": "By the way,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 579.0,
+            "end": 580.0,
+            "text": "you should know br tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 580.0,
+            "end": 581.0,
+            "text": "Line break tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 581.0,
+            "end": 582.0,
+            "text": "Line break is something like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 582.0,
+            "end": 583.0,
+            "text": "Now you are doing everything"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 583.0,
+            "end": 584.0,
+            "text": "you think."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 584.0,
+            "end": 585.0,
+            "text": "What is the problem in br tag?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 585.0,
+            "end": 586.0,
+            "text": "But I will tell you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 586.0,
+            "end": 588.0,
+            "text": "Br tag is something that I don't recommend."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 588.0,
+            "end": 589.0,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 589.0,
+            "end": 590.0,
+            "text": "I don't have to use it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 590.0,
+            "end": 592.0,
+            "text": "But I don't recommend using it all the time."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 592.0,
+            "end": 593.0,
+            "text": "What happens is,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 593.0,
+            "end": 594.0,
+            "text": "it is the easiest thing for people."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 594.0,
+            "end": 596.0,
+            "text": "Put br tag and add new spaces."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 596.0,
+            "end": 598.0,
+            "text": "I am very opposed to this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 598.0,
+            "end": 599.0,
+            "text": "So I will copy it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 599.0,
+            "end": 601.0,
+            "text": "I will show you the select tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 601.0,
+            "end": 602.0,
+            "text": "Something like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 602.0,
+            "end": 603.0,
+            "text": "And you see here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 603.0,
+            "end": 605.0,
+            "text": "As soon as I put select tag here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 605.0,
+            "end": 606.0,
+            "text": "I put it in div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 606.0,
+            "end": 608.0,
+            "text": "So what happens in select?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 608.0,
+            "end": 609.0,
+            "text": "You get some options."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 609.0,
+            "end": 611.0,
+            "text": "The syntax of select is something like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 611.0,
+            "end": 612.0,
+            "text": "Make apple."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 612.0,
+            "end": 614.0,
+            "text": "And you can use one of the three"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 614.0,
+            "end": 615.0,
+            "text": "of cherry."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 615.0,
+            "end": 616.0,
+            "text": "Now you see here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 616.0,
+            "end": 617.0,
+            "text": "Anyone of the three can use one."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 617.0,
+            "end": 618.0,
+            "text": "And what I did here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 618.0,
+            "end": 619.0,
+            "text": "Value is equal to apple."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 619.0,
+            "end": 620.0,
+            "text": "First I made select tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 620.0,
+            "end": 622.0,
+            "text": "Name is equal to fruits."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 622.0,
+            "end": 624.0,
+            "text": "Then option value is equal to apple."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 624.0,
+            "end": 626.0,
+            "text": "Option value is equal to banana."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 626.0,
+            "end": 627.0,
+            "text": "Option value is equal to cherry."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 627.0,
+            "end": 629.0,
+            "text": "When we pass the form data."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 629.0,
+            "end": 631.0,
+            "text": "I will tell you in the JavaScript part."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 631.0,
+            "end": 633.0,
+            "text": "How to send this data to the server."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 633.0,
+            "end": 635.0,
+            "text": "So there are many things about form."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 635.0,
+            "end": 636.0,
+            "text": "Which are remaining."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 636.0,
+            "end": 637.0,
+            "text": "I will tell you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 637.0,
+            "end": 638.0,
+            "text": "So stay tuned for that."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 638.0,
+            "end": 639.0,
+            "text": "This was about forms."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 639.0,
+            "end": 641.0,
+            "text": "I had to tell you all the forms."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 641.0,
+            "end": 642.0,
+            "text": "In this video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 642.0,
+            "end": 643.0,
+            "text": "And along with that."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 643.0,
+            "end": 645.0,
+            "text": "I have told you all the select tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 645.0,
+            "end": 647.0,
+            "text": "I have told you all the forms."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 647.0,
+            "end": 648.0,
+            "text": "The other attributes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 648.0,
+            "end": 649.0,
+            "text": "I have told you the action."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 649.0,
+            "end": 651.0,
+            "text": "You can submit the form from any page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 651.0,
+            "end": 653.0,
+            "text": "Where will you handle the form."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 653.0,
+            "end": 654.0,
+            "text": "So that is the deal."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 654.0,
+            "end": 656.0,
+            "text": "Then the method is get request or post request."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 656.0,
+            "end": 658.0,
+            "text": "I will tell you in the next video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 658.0,
+            "end": 660.0,
+            "text": "But I have told you in the rough way."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 660.0,
+            "end": 662.0,
+            "text": "Get request is a very simple request."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 662.0,
+            "end": 665.0,
+            "text": "Post request is used when you have to send big data."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 665.0,
+            "end": 667.0,
+            "text": "Because the limit of get request is."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 667.0,
+            "end": 669.0,
+            "text": "You can send a lot of data in post request."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 669.0,
+            "end": 671.0,
+            "text": "We don't send passwords in get request."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 671.0,
+            "end": 673.0,
+            "text": "We send it along with the post request."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 673.0,
+            "end": 674.0,
+            "text": "Now here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 674.0,
+            "end": 676.0,
+            "text": "I have told you the method."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 676.0,
+            "end": 678.0,
+            "text": "Name is equal to user name."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 678.0,
+            "end": 680.0,
+            "text": "We will call it as mark."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 680.0,
+            "end": 682.0,
+            "text": "So we will call it as mark."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 682.0,
+            "end": 684.0,
+            "text": "Name is equal to user name."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 684.0,
+            "end": 686.0,
+            "text": "We mark it as name."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 686.0,
+            "end": 688.0,
+            "text": "So the server will know."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 688.0,
+            "end": 690.0,
+            "text": "What is the corresponding value of key."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 690.0,
+            "end": 692.0,
+            "text": "So the key value will go according to the name."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 692.0,
+            "end": 694.0,
+            "text": "Its name and value will go."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 694.0,
+            "end": 695.0,
+            "text": "We will see this also."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 695.0,
+            "end": 697.0,
+            "text": "When we do server side processing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 697.0,
+            "end": 699.0,
+            "text": "What is the meaning of placeholder."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 699.0,
+            "end": 700.0,
+            "text": "What will be written in it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 700.0,
+            "end": 702.0,
+            "text": "Like here entry and user name is placeholder."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 702.0,
+            "end": 703.0,
+            "text": "I will click on this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 703.0,
+            "end": 705.0,
+            "text": "So this entry and user name is not written in it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 705.0,
+            "end": 706.0,
+            "text": "I will write anything."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 706.0,
+            "end": 707.0,
+            "text": "Look this came."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 707.0,
+            "end": 709.0,
+            "text": "But entry and user name is just telling me."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 709.0,
+            "end": 711.0,
+            "text": "I have to put user name in it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 711.0,
+            "end": 713.0,
+            "text": "Then what is required."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 713.0,
+            "end": 715.0,
+            "text": "You have to require it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 715.0,
+            "end": 717.0,
+            "text": "You have to put value in it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 717.0,
+            "end": 719.0,
+            "text": "Otherwise your form will not submit."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 719.0,
+            "end": 720.0,
+            "text": "We will use this a lot."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 720.0,
+            "end": 722.0,
+            "text": "Then we have auto focus."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 722.0,
+            "end": 724.0,
+            "text": "What does auto focus do."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 724.0,
+            "end": 726.0,
+            "text": "Auto focus automatically focuses the cursor."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 726.0,
+            "end": 728.0,
+            "text": "So I will show you the magic of auto focus."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 728.0,
+            "end": 731.0,
+            "text": "So if you have written input tag in the auto focus."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 731.0,
+            "end": 734.0,
+            "text": "So the user name and user name is auto focus."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 734.0,
+            "end": 735.0,
+            "text": "I will reload it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 735.0,
+            "end": 737.0,
+            "text": "So you see I will type it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 737.0,
+            "end": 739.0,
+            "text": "So automatically it will be focused."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 739.0,
+            "end": 743.0,
+            "text": "So auto focus is the type you will type whenever you type."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 743.0,
+            "end": 746.0,
+            "text": "I hope you understand the things."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 746.0,
+            "end": 747.0,
+            "text": "Now validation attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 747.0,
+            "end": 749.0,
+            "text": "I have told you the requirement here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 749.0,
+            "end": 752.0,
+            "text": "You can give a pattern in which you can give a regular expression pattern."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 752.0,
+            "end": 754.0,
+            "text": "Now you do not get confused."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 754.0,
+            "end": 755.0,
+            "text": "You do not say what is this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 755.0,
+            "end": 757.0,
+            "text": "You do not get regular expression."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 757.0,
+            "end": 758.0,
+            "text": "So I am sitting here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 758.0,
+            "end": 760.0,
+            "text": "I will teach you all things."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 760.0,
+            "end": 763.0,
+            "text": "You will understand that we will accept a particular pattern."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 763.0,
+            "end": 765.0,
+            "text": "If we put the pattern equal to this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 765.0,
+            "end": 767.0,
+            "text": "You cannot put other than this pattern."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 767.0,
+            "end": 771.0,
+            "text": "So you should know this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 771.0,
+            "end": 774.0,
+            "text": "So I hope you are enjoying this video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 774.0,
+            "end": 777.0,
+            "text": "And also write a sigma wach op in the comment section."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 777.0,
+            "end": 780.0,
+            "text": "And in the first video, please review this course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 780.0,
+            "end": 782.0,
+            "text": "Because many people still ask me."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 782.0,
+            "end": 784.0,
+            "text": "Should I do this course or not."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 784.0,
+            "end": 786.0,
+            "text": "If it is free course, people do not value it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 786.0,
+            "end": 787.0,
+            "text": "They say this course is free."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 787.0,
+            "end": 789.0,
+            "text": "So we should watch it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 789.0,
+            "end": 790.0,
+            "text": "Or take a paid course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 790.0,
+            "end": 793.0,
+            "text": "And I would like to give a note for those who have told me."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 793.0,
+            "end": 795.0,
+            "text": "We took a paid course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 795.0,
+            "end": 796.0,
+            "text": "What should we do now?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 796.0,
+            "end": 800.0,
+            "text": "Take money or join the sigma wach."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 800.0,
+            "end": 801.0,
+            "text": "Join the sigma wach."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 801.0,
+            "end": 803.0,
+            "text": "Cut your losses and join the sigma wach."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 803.0,
+            "end": 806.0,
+            "text": "Because look what quality of this course is."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 806.0,
+            "end": 808.0,
+            "text": "I do not think you need to tell me."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 808.0,
+            "end": 810.0,
+            "text": "So you do this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 810.0,
+            "end": 812.0,
+            "text": "You will get everything here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 812.0,
+            "end": 813.0,
+            "text": "I am telling you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 813.0,
+            "end": 814.0,
+            "text": "Free means you will understand."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 814.0,
+            "end": 816.0,
+            "text": "In this course, you were going to sell 10,000 rupees."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 816.0,
+            "end": 818.0,
+            "text": "Yes that was the amount we fixed."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 818.0,
+            "end": 821.0,
+            "text": "I was going to sell 10,000 rupees for this course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 821.0,
+            "end": 823.0,
+            "text": "And I think there is nothing wrong in selling any course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 823.0,
+            "end": 825.0,
+            "text": "Even if you are selling, there is nothing wrong in selling any course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 825.0,
+            "end": 829.0,
+            "text": "But the thing is, if you buy a second course and you still feel that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 829.0,
+            "end": 831.0,
+            "text": "sigma wach is a very good course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 831.0,
+            "end": 833.0,
+            "text": "You should join."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 833.0,
+            "end": 834.0,
+            "text": "Cut your losses and join."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 834.0,
+            "end": 836.0,
+            "text": "Because if you make your career once,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 836.0,
+            "end": 838.0,
+            "text": "you will not find anything like this in the future."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 838.0,
+            "end": 840.0,
+            "text": "If you look back in the coming time,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 840.0,
+            "end": 843.0,
+            "text": "you will also say that we took a paid course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 843.0,
+            "end": 844.0,
+            "text": "We took a pre-course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 844.0,
+            "end": 845.0,
+            "text": "Which we understood."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 845.0,
+            "end": 847.0,
+            "text": "And if you become a career,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 847.0,
+            "end": 849.0,
+            "text": "then this will not matter in the future."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 849.0,
+            "end": 851.0,
+            "text": "So do what is right for you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 851.0,
+            "end": 853.0,
+            "text": "And do what you understand."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 853.0,
+            "end": 855.0,
+            "text": "I hope you understand things."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 855.0,
+            "end": 856.0,
+            "text": "So like the video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 856.0,
+            "end": 857.0,
+            "text": "Access the playlist."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 857.0,
+            "end": 859.0,
+            "text": "Subscribe to the channel."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 859.0,
+            "end": 861.0,
+            "text": "And write down in the comments section,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 861.0,
+            "end": 862.0,
+            "text": "sigma batch OP."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 862.0,
+            "end": 864.0,
+            "text": "Name your village and your land."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 864.0,
+            "end": 866.0,
+            "text": "That's all for now."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 866.0,
+            "end": 868.0,
+            "text": "Thank you so much for watching this video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 868.0,
+            "end": 871.0,
+            "text": "And I will see you next time."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170238_877",
+            "start": 881.0,
+            "end": 882.0,
+            "text": "."
+        }
+    ],
+    "full_text": "In this video, we will learn about the forms and what is the input tag in the form. Forms are an important element of websites because you submit data through the form from client to server. These are the forms that you see on the contact pages, on Google forms or inquiry forms. On the flight or railway ticket, you submit all the details through the HTML forms. In the last video, many people liked it. I will request you to like this video with high energy so that we can maintain the high energy throughout the course. So let's go to the computer screen, see the forms, see the input tags and see some best practices. Let's roll the intro. So guys, I have come to the computer screen. And now I am going to quickly make a folder which is called Video6. I will make a video on video 6, I will post it on my channel. And I am going to make index.html and mark the exclamation mark on it. I will do the view, wrap, turn on the screen mode and see the forms. Let's learn it. So I have set the title of the form here. And what happened by setting the title is that the title will be shown on our page. Here I want to tell you about a very important setting, the show preview. Now, if you have to click so many times, you can do something. Yes, you can do it. You can click on the gear, click on settings. And after clicking on settings, you can simply do it. Write here, live preview, live preview. And we can actually set it, such that when we click, what will happen is that it will be opened on the external browser. So now I will close everything, as soon as I click here, it will open on the external browser. And I come to the browser and the play list of Sigma Web Development Coats is on the iXS Star. And here on the bookmark. But now I want to tell you that as soon as we click here, it opens. So if you want, do it like this. But sometimes you want to prefer side by side view. And when will you want to do that when you are actually using HTML, CSS and working on design. So whenever you are working on design, you will definitely want to see the live preview. Here, which is why this extension was made. And it was made differently from live server, so you will see the preview on every side. Now what will we do here? We will go about forms. What is form? You know the name of the form, it means the form of the railway. We go and fill it and our reservation is done. Along with that, we fill in the form of IEDJ, the form of need, the form of any exam. So that we can reach our data to the one we want. So this is form. The form tag of HTML, as soon as you write the form, you will enter it. So the first question will be what is your action form? Get or post? I will tell you a very quick difference between get request and post request. We will see this when we will read it back and forth. Get request is a very simple request. And we send post requests in most of the cases when we have to give a lot of data. Whenever we have to post a form, we will use post request in most of the cases. And get request is a very simple request. We just have to tell the server and hit that set. But if you don't understand it yet, that should be fine. There is no problem because we will do it in detail. So form action is equal to post. Now I can show you some input tags. I will tell you the input tags. What are the elements inside your form? You can add a date, form, name, phone number, age, etc. You can add these things in form. So I want to tell you that you add input tags in form. And a label tag which is used to label that input. So what I will do here is the simplest input tag is type is equal to text. So I will add type is equal to text input here. And if I zoom out here, then type is equal to text name is equal to user name. Placeholder enter user name. And this will look like this in actual. You can say enter your user name. And the user name in front of you will have to enter. I will write an h1 here. And I will write here. So form to apply for TA for Sigma Web Dev TA. Sigma Web Development Codes TA. I mean we are hiring teaching assistants for Sigma Web Development Codes. So we can write here something like this. By the way, I have put subtitles. If you haven't done it, then do access it. And along with that, I will show you one more thing. These subtitles are quite funny. So write a note here and write your village land. I mean if someone is watching this in English or if someone is watching this in Hindi, they will not know that it is okay to go here and give your village land to me. So you can see this. Anyway, you can see here that I have put the h1 here. Because this is our main heading. Enter your user name. This is our input tag. Along with the input tag, we will use the label tag. Now whose label is this? So form is equal to, I will write its id. I will write its id username. And what will I do in form is equal to? I will put it in form is equal to its id. Now what is id here? I will tell you this later. For now, you just understand that this is a unique identifier of this element. To identify this element uniquely, like your basic number cannot be of any other. Similarly, this id username can be found. Now this cannot be found by anyone else. This is id. I will tell you more in detail. But now understand this much. So I have written label for is equal to username. Input is written here. And you can see here that the label will come here. So I am looking here. I have not put anything in the label actually. So I will put enter your username. And you can see here, as soon as I put this, you will get to see enter your username. After that you can enter username here. Along with that, you can enter your expertise here. You can put anything. Suppose I want to ask here what is your gender. So I can do something like this here. And you see enter your gender. And as soon as I did this, I can ask you from male or female. What is it? Now what happens here? Sometimes we wrap it in div. Div is our block element. And what are the inline and block elements? I have not told you this in this course yet. But I will tell you in the coming videos. So for now you will understand this much. I am putting this in div to give you a new space. So as soon as I put this in div, it will come in new space. Yes, there is also br tag. There is br tag too. The line breaks like this. But I don't prefer br tag. And you will get to know why. Why we don't want to bloat our HTML from br tag. You will get to know this in the coming videos. Now you see here, enter your username, here is male or female. Now here as soon as I am clicking on female, this radio button is selected. I am clicking on male and it is selected. Why is this happening? Because the label of this is I have done for is equal to female. And here I have put id female. You see. And also you see I have put their names same. Here name is equal to gender. I have put this input tag too. And name is equal to gender. This too put input radio tag. And as soon as we have written type is equal to radio, this means radio button. And if we have put same name, then only one of these can be selected at a time. If I have selected this, then it will be this. If I have selected this, then it will be this. Now I will show you one thing. If I make the id in the form of label, then it will be wrong. And here also in form id, I don't make the id wrong in the first one. I make the id wrong in the second one. So when I click on the second one, then it will not be selected. I am clicking and not selecting. I am clicking and selecting on male. So to select female, I will have to click on this here. You see. So I should do it. Always put the id of the input tag that is equal to 4. So you can see here, I have put the label 4 is equal to female. Along with that, we have an input tag, which is type is equal to checkbox. Now see here, if I put the input of type is equal to checkbox. I will put this in the div. Right click and I will do the format document. Our document will be very good. That is, the formatting of it will be very good. Now see here, here subscribe to newsletter. Here I can check it. And radio button and checkbox have a difference. You can check the checkbox of different checkboxes. If you want, male or female, or any of the options, you can select it like this. Then we have text area and select tag. And I will show you that too. So text area and select tag. It works like this. Like I am copying text area. I will put it here. Actually, text area. So text area input type is equal to text. But in this, rows and column attribute. Which helps you to reduce the size of the text. Now see here, the placeholder I have given enter your comment here. So this is the text I have given it. Ideally, we will keep it empty. Or at least we will not give a new line on it. So I will hide it here. Enter your comment here. And now it will reach to the left side. I will show you. So it has reached to the left side. Enter your comment here. And here any user can put his comment. Now see, I have put the content of text area. Enter your comment here. So ideally, you do not want to do this. You want to keep the text area empty. And you want to put a label. And you can say label for is equal to comment. And we will definitely put id here. Whenever we put for, it is in for. The element for which it is there is its id. Now see here. Enter your comment here. If I write here. So what will happen? Enter your comment. So I will write enter your comment. Enter your comment here. Now you will say, this is not style D. This is not style D. This is not style D. Because we will style it later with CSS. Now for this, I will just put br tag. But I don't recommend br tag. I am telling you again. I do not recommend br tag. Because br tags are difficult. By the way, you should know br tag. Line break tag. Line break is something like this. Now you are doing everything you think. What is the problem in br tag? But I will tell you. Br tag is something that I don't recommend. Okay. I don't have to use it. But I don't recommend using it all the time. What happens is, it is the easiest thing for people. Put br tag and add new spaces. I am very opposed to this. So I will copy it. I will show you the select tag. Something like this. And you see here. As soon as I put select tag here. I put it in div. So what happens in select? You get some options. The syntax of select is something like this. Make apple. And you can use one of the three of cherry. Now you see here. Anyone of the three can use one. And what I did here. Value is equal to apple. First I made select tag. Name is equal to fruits. Then option value is equal to apple. Option value is equal to banana. Option value is equal to cherry. When we pass the form data. I will tell you in the JavaScript part. How to send this data to the server. So there are many things about form. Which are remaining. I will tell you. So stay tuned for that. This was about forms. I had to tell you all the forms. In this video. And along with that. I have told you all the select tag. I have told you all the forms. The other attributes. I have told you the action. You can submit the form from any page. Where will you handle the form. So that is the deal. Then the method is get request or post request. I will tell you in the next video. But I have told you in the rough way. Get request is a very simple request. Post request is used when you have to send big data. Because the limit of get request is. You can send a lot of data in post request. We don't send passwords in get request. We send it along with the post request. Now here. I have told you the method. Name is equal to user name. We will call it as mark. So we will call it as mark. Name is equal to user name. We mark it as name. So the server will know. What is the corresponding value of key. So the key value will go according to the name. Its name and value will go. We will see this also. When we do server side processing. What is the meaning of placeholder. What will be written in it. Like here entry and user name is placeholder. I will click on this. So this entry and user name is not written in it. I will write anything. Look this came. But entry and user name is just telling me. I have to put user name in it. Then what is required. You have to require it. You have to put value in it. Otherwise your form will not submit. We will use this a lot. Then we have auto focus. What does auto focus do. Auto focus automatically focuses the cursor. So I will show you the magic of auto focus. So if you have written input tag in the auto focus. So the user name and user name is auto focus. I will reload it. So you see I will type it. So automatically it will be focused. So auto focus is the type you will type whenever you type. I hope you understand the things. Now validation attribute. I have told you the requirement here. You can give a pattern in which you can give a regular expression pattern. Now you do not get confused. You do not say what is this. You do not get regular expression. So I am sitting here. I will teach you all things. You will understand that we will accept a particular pattern. If we put the pattern equal to this. You cannot put other than this pattern. So you should know this. So I hope you are enjoying this video. And also write a sigma wach op in the comment section. And in the first video, please review this course. Because many people still ask me. Should I do this course or not. If it is free course, people do not value it. They say this course is free. So we should watch it. Or take a paid course. And I would like to give a note for those who have told me. We took a paid course. What should we do now? Take money or join the sigma wach. Join the sigma wach. Cut your losses and join the sigma wach. Because look what quality of this course is. I do not think you need to tell me. So you do this. You will get everything here. I am telling you. Free means you will understand. In this course, you were going to sell 10,000 rupees. Yes that was the amount we fixed. I was going to sell 10,000 rupees for this course. And I think there is nothing wrong in selling any course. Even if you are selling, there is nothing wrong in selling any course. But the thing is, if you buy a second course and you still feel that sigma wach is a very good course. You should join. Cut your losses and join. Because if you make your career once, you will not find anything like this in the future. If you look back in the coming time, you will also say that we took a paid course. We took a pre-course. Which we understood. And if you become a career, then this will not matter in the future. So do what is right for you. And do what you understand. I hope you understand things. So like the video. Access the playlist. Subscribe to the channel. And write down in the comments section, sigma batch OP. Name your village and your land. That's all for now. Thank you so much for watching this video. And I will see you next time. ."
+}

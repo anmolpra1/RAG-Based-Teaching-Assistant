@@ -1,0 +1,1937 @@
+{
+    "chunks": [
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 0.0,
+            "end": 3.7600000000000002,
+            "text": "Learning the concept of Inline and Block Elements in HTML is very important."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 3.7600000000000002,
+            "end": 6.6000000000000005,
+            "text": "Inline elements are those which are required to take the width of the screen."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 6.6000000000000005,
+            "end": 9.92,
+            "text": "And Block Elements are those which take the entire width of the screen."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 9.92,
+            "end": 13.36,
+            "text": "It is also called Display Property which can be set through CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 13.36,
+            "end": 16.76,
+            "text": "If you are enjoying this video so far then do like this video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 16.76,
+            "end": 20.080000000000002,
+            "text": "So let's go to the computer screen and look closely at Inline and Block Elements."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 20.080000000000002,
+            "end": 23.28,
+            "text": "Through some very good examples, let's roll the intro."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 31.0,
+            "end": 35.0,
+            "text": "So guys, it's time to look at Inline and Block Elements."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 35.0,
+            "end": 39.0,
+            "text": "If you haven't accessed the playlist and haven't accessed the code then do both."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 39.0,
+            "end": 45.0,
+            "text": "Because as the videos are being made, the code and video are being added in the playlist."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 45.0,
+            "end": 50.0,
+            "text": "Now I will quickly make a folder called Video 8."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 50.0,
+            "end": 53.0,
+            "text": "So I have already added 7 videos here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 53.0,
+            "end": 57.0,
+            "text": "I will make a video 8 and open it in the VS Code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 57.0,
+            "end": 65.0,
+            "text": "After opening it, I will tell you about the index and block elements."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 65.0,
+            "end": 68.0,
+            "text": "I have entered the exclamation mark and I could type this too."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 68.0,
+            "end": 74.0,
+            "text": "But I will not do it because when I type this, I will write inline and block elements."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 74.0,
+            "end": 76.0,
+            "text": "I have told you a little about this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 76.0,
+            "end": 79.0,
+            "text": "But I will add more details to it now."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 79.0,
+            "end": 82.0,
+            "text": "What are the Inline elements and why I want to use them."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 82.0,
+            "end": 84.0,
+            "text": "So look at Inline Elements."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 84.0,
+            "end": 87.0,
+            "text": "They are only the amount of width that is required."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 87.0,
+            "end": 89.0,
+            "text": "Do block elements not take as much width as required?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 89.0,
+            "end": 91.0,
+            "text": "No, they say we need the entire width."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 91.0,
+            "end": 92.0,
+            "text": "They say it's our entire width."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 92.0,
+            "end": 94.0,
+            "text": "Some people just sit with the flag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 94.0,
+            "end": 96.0,
+            "text": "They are just like them."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 96.0,
+            "end": 98.0,
+            "text": "I will tell you what the difference is."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 98.0,
+            "end": 102.0,
+            "text": "To explain this difference, I will cheat a little."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 102.0,
+            "end": 104.0,
+            "text": "The cheating is that I will add CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 104.0,
+            "end": 105.0,
+            "text": "You might not be able to read CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 105.0,
+            "end": 106.0,
+            "text": "Why are you adding CSS?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 106.0,
+            "end": 110.0,
+            "text": "I am adding CSS only as much as it is required."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 110.0,
+            "end": 115.0,
+            "text": "I will write P as the entry bar."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 115.0,
+            "end": 119.0,
+            "text": "I will write here, let us say, I am a para."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 119.0,
+            "end": 123.0,
+            "text": "I will say P as background color."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 123.0,
+            "end": 125.0,
+            "text": "Let us say blue."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 125.0,
+            "end": 128.0,
+            "text": "I will give you a good color choice."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 128.0,
+            "end": 132.0,
+            "text": "You can see here that I have given a color to para graph."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 132.0,
+            "end": 134.0,
+            "text": "Along with that, I will add anchor tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 134.0,
+            "end": 137.0,
+            "text": "HFS will be equal to gold.com."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 137.0,
+            "end": 139.0,
+            "text": "I will have to use HTPS from the form letter."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 139.0,
+            "end": 141.0,
+            "text": "HTPS is equal to gold.com."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 141.0,
+            "end": 143.0,
+            "text": "That is why it will be equal to gold.com."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 143.0,
+            "end": 145.0,
+            "text": "I will write here Google."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 145.0,
+            "end": 149.0,
+            "text": "And the anchor tag, I will give background color."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 149.0,
+            "end": 151.0,
+            "text": "I will give background color red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 151.0,
+            "end": 153.0,
+            "text": "But I will not do red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 153.0,
+            "end": 157.0,
+            "text": "I can choose any color in the spectrum."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 157.0,
+            "end": 158.0,
+            "text": "How did you like the Ninja tagging?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 158.0,
+            "end": 159.0,
+            "text": "Let me know in the comment section below."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 159.0,
+            "end": 161.0,
+            "text": "If you already knew about Ninja tagging,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 161.0,
+            "end": 162.0,
+            "text": "then comment."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 162.0,
+            "end": 164.0,
+            "text": "I will already go to sleep."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 164.0,
+            "end": 169.0,
+            "text": "You can see here, I have given the background color to anchor tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 169.0,
+            "end": 173.0,
+            "text": "I have changed it to red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 173.0,
+            "end": 175.0,
+            "text": "I have done it towards red orange."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 175.0,
+            "end": 177.0,
+            "text": "And I have done it to blue."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 177.0,
+            "end": 179.0,
+            "text": "Now you can see the difference."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 179.0,
+            "end": 181.0,
+            "text": "I will click here and as soon as I click here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 181.0,
+            "end": 184.0,
+            "text": "you can see that the background color is the same as the width."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 184.0,
+            "end": 187.0,
+            "text": "But it is the same as the element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 187.0,
+            "end": 188.0,
+            "text": "Why did this happen?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 188.0,
+            "end": 191.0,
+            "text": "It happened because this is a paragraph block element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 191.0,
+            "end": 193.0,
+            "text": "And our anchor tag is inline element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 193.0,
+            "end": 196.0,
+            "text": "Inline elements only take as much as they want."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 196.0,
+            "end": 198.0,
+            "text": "Block elements take the entire width."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 198.0,
+            "end": 200.0,
+            "text": "And the next content comes below them."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 200.0,
+            "end": 203.0,
+            "text": "When the entire width comes, then the next content will come below them."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 203.0,
+            "end": 205.0,
+            "text": "Along with that, if I talk about div,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 205.0,
+            "end": 206.0,
+            "text": "what is that?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 206.0,
+            "end": 208.0,
+            "text": "A block element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 208.0,
+            "end": 210.0,
+            "text": "I am a block element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 210.0,
+            "end": 213.0,
+            "text": "And span is that which is exactly like div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 213.0,
+            "end": 215.0,
+            "text": "But that is an inline element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 215.0,
+            "end": 218.0,
+            "text": "I am span and I am inline."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 218.0,
+            "end": 220.0,
+            "text": "And after that, if I put an anchor tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 220.0,
+            "end": 223.0,
+            "text": "And write yes, he is inline."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 223.0,
+            "end": 225.0,
+            "text": "So you can see here, what happened?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 225.0,
+            "end": 227.0,
+            "text": "I will show you the code by zoom out."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 227.0,
+            "end": 229.0,
+            "text": "So if I write it in the new line too."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 229.0,
+            "end": 231.0,
+            "text": "By the way, I will tell you how many spaces I give here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 231.0,
+            "end": 233.0,
+            "text": "This will not be added in my content."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 233.0,
+            "end": 236.0,
+            "text": "Because HTML is more than one space."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 236.0,
+            "end": 237.0,
+            "text": "It does not include it anyway."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 237.0,
+            "end": 239.0,
+            "text": "If you want to give spaces,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 239.0,
+            "end": 241.0,
+            "text": "you can write here M% and NBSP."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 241.0,
+            "end": 243.0,
+            "text": "I will tell you about that."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 243.0,
+            "end": 246.0,
+            "text": "But now I want to show you how it works."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 246.0,
+            "end": 247.0,
+            "text": "So see what happened?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 247.0,
+            "end": 249.0,
+            "text": "I wrote here, hey, I am a paragraph."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 249.0,
+            "end": 250.0,
+            "text": "What is a paragraph?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 250.0,
+            "end": 251.0,
+            "text": "A block element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 251.0,
+            "end": 252.0,
+            "text": "So I took the whole width."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 252.0,
+            "end": 253.0,
+            "text": "The next content will come down."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 253.0,
+            "end": 255.0,
+            "text": "I wrote this as href is equal to this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 255.0,
+            "end": 257.0,
+            "text": "So I took as much width as it is necessary."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 257.0,
+            "end": 259.0,
+            "text": "And took as much width as it is necessary."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 259.0,
+            "end": 262.0,
+            "text": "But the next content was saying that I want the whole width."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 262.0,
+            "end": 263.0,
+            "text": "So it will not come here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 263.0,
+            "end": 264.0,
+            "text": "It will come in the next line."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 264.0,
+            "end": 266.0,
+            "text": "Because it says that I want the whole width."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 266.0,
+            "end": 267.0,
+            "text": "So it will come in the next line."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 267.0,
+            "end": 268.0,
+            "text": "It cannot come in this line."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 268.0,
+            "end": 269.0,
+            "text": "Because how will it come in this line?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 269.0,
+            "end": 270.0,
+            "text": "How will it take the whole width?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 270.0,
+            "end": 271.0,
+            "text": "Google is also taking it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 271.0,
+            "end": 272.0,
+            "text": "So it will take the whole width."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 272.0,
+            "end": 274.0,
+            "text": "If I give it a background color."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 274.0,
+            "end": 276.0,
+            "text": "Then it will be shown in the whole width."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 276.0,
+            "end": 278.0,
+            "text": "I do this. I give it a yellow color."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 278.0,
+            "end": 282.0,
+            "text": "And I give it a yellow background color."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 282.0,
+            "end": 285.0,
+            "text": "And you see here, this yellow took the whole width."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 285.0,
+            "end": 290.0,
+            "text": "Along with that, I can keep the span and anchor tag in one line."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 290.0,
+            "end": 292.0,
+            "text": "Because this is an inline element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 292.0,
+            "end": 294.0,
+            "text": "So the only width is given with the inline element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 294.0,
+            "end": 298.0,
+            "text": "And in its own width, it gives the opportunity to come in other elements."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 298.0,
+            "end": 302.0,
+            "text": "Like you have seen here that this span also gave the opportunity to come in anchor tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 302.0,
+            "end": 305.0,
+            "text": "Now will the anchor tag always be inline?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 305.0,
+            "end": 307.0,
+            "text": "Will the paragraph tag always be blocked?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 307.0,
+            "end": 308.0,
+            "text": "This thing will always be."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 308.0,
+            "end": 310.0,
+            "text": "The answer is no. You can change it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 310.0,
+            "end": 315.0,
+            "text": "You can set a particular element of the display property of the CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 315.0,
+            "end": 317.0,
+            "text": "And if you set the display property."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 317.0,
+            "end": 320.0,
+            "text": "So it is not necessary that the inline will be blocked."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 320.0,
+            "end": 322.0,
+            "text": "The inline element and block element will be blocked."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 322.0,
+            "end": 324.0,
+            "text": "It can be inline."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 324.0,
+            "end": 325.0,
+            "text": "We will see this in the CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 325.0,
+            "end": 327.0,
+            "text": "Now I would like to pinpoint one thing quickly."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 327.0,
+            "end": 329.0,
+            "text": "The video of Forms was video 7."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 329.0,
+            "end": 332.0,
+            "text": "But I have put it in the folder called video 6."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 332.0,
+            "end": 334.0,
+            "text": "So I will do video 7."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 334.0,
+            "end": 336.0,
+            "text": "And now it is video 8."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 336.0,
+            "end": 337.0,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 337.0,
+            "end": 339.0,
+            "text": "What we are doing now is video 8."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 339.0,
+            "end": 341.0,
+            "text": "And nothing is in video 7."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 341.0,
+            "end": 343.0,
+            "text": "So I will quickly structure it here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 343.0,
+            "end": 345.0,
+            "text": "Don't take the tension of it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 345.0,
+            "end": 347.0,
+            "text": "I hope you are getting a lot of learnings."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 347.0,
+            "end": 349.0,
+            "text": "A lot of people have pointed this thing out in the comments."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 349.0,
+            "end": 350.0,
+            "text": "I will fix it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 350.0,
+            "end": 352.0,
+            "text": "But I think that doesn't affect us in any way."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 352.0,
+            "end": 354.0,
+            "text": "Because you understand."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 354.0,
+            "end": 356.0,
+            "text": "And the folder you will get now."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 356.0,
+            "end": 357.0,
+            "text": "The source code of the notes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 357.0,
+            "end": 359.0,
+            "text": "You will get it absolutely right."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 359.0,
+            "end": 361.0,
+            "text": "Along with that, go to codewithary.com"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 361.0,
+            "end": 363.0,
+            "text": "and download the notes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 363.0,
+            "end": 365.0,
+            "text": "And that will be a complementary source for you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 365.0,
+            "end": 367.0,
+            "text": "I am explaining everything here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 367.0,
+            "end": 369.0,
+            "text": "So don't worry about it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 369.0,
+            "end": 371.0,
+            "text": "So this is our line and block elements."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 371.0,
+            "end": 373.0,
+            "text": "Now which elements are in line."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 373.0,
+            "end": 375.0,
+            "text": "Which blocks are in line."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 375.0,
+            "end": 377.0,
+            "text": "How do you know that div is a block and span is in line."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 377.0,
+            "end": 379.0,
+            "text": "So this comes with practice."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 379.0,
+            "end": 382.0,
+            "text": "But I have made a list of line and block elements for you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 382.0,
+            "end": 384.0,
+            "text": "Here is the list of block elements."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 384.0,
+            "end": 388.0,
+            "text": "In which I have written the most commonly used elements."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 388.0,
+            "end": 390.0,
+            "text": "Like div is used the most."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 390.0,
+            "end": 391.0,
+            "text": "Then it is a paragraph."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 391.0,
+            "end": 393.0,
+            "text": "And if you come to the end, you will get such elements."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 393.0,
+            "end": 395.0,
+            "text": "You may not know them."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 395.0,
+            "end": 397.0,
+            "text": "But you will know it later."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 397.0,
+            "end": 399.0,
+            "text": "And tell all the elements."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 399.0,
+            "end": 401.0,
+            "text": "If it is not possible for me."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 401.0,
+            "end": 403.0,
+            "text": "So you have to do some self-learning."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 403.0,
+            "end": 405.0,
+            "text": "Definitely there are many such elements."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 405.0,
+            "end": 407.0,
+            "text": "Which will come in very few use."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 407.0,
+            "end": 409.0,
+            "text": "But the most commonly used ones will be shown to you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 409.0,
+            "end": 411.0,
+            "text": "Then I have made a list of all the line elements."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 411.0,
+            "end": 413.0,
+            "text": "So you have to refer this comprehensive list."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 413.0,
+            "end": 417.0,
+            "text": "Here I have made a file in the name of comprehensive list.txt."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 417.0,
+            "end": 419.0,
+            "text": "So you have to refer this file."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 419.0,
+            "end": 422.0,
+            "text": "Along with that, you don't have any fault in the code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 422.0,
+            "end": 424.0,
+            "text": "You don't have to have any fault in the code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 424.0,
+            "end": 426.0,
+            "text": "I was telling you that there are no parts in the code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 426.0,
+            "end": 428.0,
+            "text": "In fact, if you do the right click and do the format document."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 428.0,
+            "end": 430.0,
+            "text": "Then your document will be formatted."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 430.0,
+            "end": 432.0,
+            "text": "Write the code well."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 432.0,
+            "end": 434.0,
+            "text": "Write the code well."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 434.0,
+            "end": 436.0,
+            "text": "When your grandson opens your laptop and sees it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 436.0,
+            "end": 438.0,
+            "text": "And if they get a code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 438.0,
+            "end": 440.0,
+            "text": "They will say that grandpa used to write a good code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 440.0,
+            "end": 442.0,
+            "text": "They will not say that grandpa used to put such a space."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 442.0,
+            "end": 444.0,
+            "text": "Then grandpa used to do this and that."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 444.0,
+            "end": 448.0,
+            "text": "So you will want that you should be in good words."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 448.0,
+            "end": 450.0,
+            "text": "So take the code well."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 450.0,
+            "end": 454.0,
+            "text": "So that your grandson can hear you very well."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 454.0,
+            "end": 458.0,
+            "text": "Now here I want to give you a quiz through HTML comments."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 458.0,
+            "end": 460.0,
+            "text": "And this quiz is that without using BR tag,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 460.0,
+            "end": 462.0,
+            "text": "write a vertical or aligned form."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 462.0,
+            "end": 464.0,
+            "text": "Asking for name city."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 464.0,
+            "end": 466.0,
+            "text": "And here I have added one more thing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 466.0,
+            "end": 468.0,
+            "text": "I will show you. I will turn on the word wrap."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 468.0,
+            "end": 470.0,
+            "text": "So here look at name city and pin code of a user."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 470.0,
+            "end": 472.0,
+            "text": "So write a form."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 472.0,
+            "end": 474.0,
+            "text": "In the last video, we read about form."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 474.0,
+            "end": 476.0,
+            "text": "You have to write this form."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 476.0,
+            "end": 478.0,
+            "text": "How will you make it?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 478.0,
+            "end": 482.0,
+            "text": "I want everyone to answer this in the comment section."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 482.0,
+            "end": 484.0,
+            "text": "This is our first quiz."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 484.0,
+            "end": 486.0,
+            "text": "So I want you to write two interactions."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 486.0,
+            "end": 488.0,
+            "text": "Do write your code in the comment section."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 488.0,
+            "end": 492.0,
+            "text": "And tell me which element you used."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 492.0,
+            "end": 494.0,
+            "text": "Which element of online element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 494.0,
+            "end": 496.0,
+            "text": "Which element of blog element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 496.0,
+            "end": 498.0,
+            "text": "Which element of blog."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 498.0,
+            "end": 500.0,
+            "text": "You can tell me in the comment section."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 500.0,
+            "end": 502.0,
+            "text": "In the upcoming videos, we will also see that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 502.0,
+            "end": 504.0,
+            "text": "using CSS, you can set inline flex,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 504.0,
+            "end": 506.0,
+            "text": "inline block, such a display property."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 506.0,
+            "end": 508.0,
+            "text": "And what difference does it make."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 508.0,
+            "end": 510.0,
+            "text": "So we will see all these in the upcoming videos."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 510.0,
+            "end": 512.0,
+            "text": "I want to tell you that if you are following this course,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 512.0,
+            "end": 514.0,
+            "text": "you will be a great web developer."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 514.0,
+            "end": 516.0,
+            "text": "And don't think that this video is long."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 516.0,
+            "end": 518.0,
+            "text": "And our achievement is going on for a long time."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 518.0,
+            "end": 520.0,
+            "text": "I want to be beginner friendly with the course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 520.0,
+            "end": 522.0,
+            "text": "Whatever I am making,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 522.0,
+            "end": 524.0,
+            "text": "and along with that, I want to tell you that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 524.0,
+            "end": 526.0,
+            "text": "people will tell you that you are doing this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 526.0,
+            "end": 528.0,
+            "text": "We are doing fun, you are studying."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 528.0,
+            "end": 530.0,
+            "text": "You are doing this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 530.0,
+            "end": 532.0,
+            "text": "Do you know what you will never say to people."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 532.0,
+            "end": 534.0,
+            "text": "That you are blessed."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 534.0,
+            "end": 536.0,
+            "text": "You are blessed."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 536.0,
+            "end": 538.0,
+            "text": "No one will tell you that you got"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 538.0,
+            "end": 540.0,
+            "text": "a course on Sigma web development."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 540.0,
+            "end": 542.0,
+            "text": "You are living at a time in which you have"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 542.0,
+            "end": 544.0,
+            "text": "a comprehensive course in Hindi and Hindi."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 544.0,
+            "end": 546.0,
+            "text": "No one will tell you that you are blessed."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 546.0,
+            "end": 548.0,
+            "text": "People will tell you that I am going to watch a movie."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 548.0,
+            "end": 550.0,
+            "text": "I am going to watch this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 550.0,
+            "end": 552.0,
+            "text": "You are studying. What is this?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 552.0,
+            "end": 554.0,
+            "text": "You are boring."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 554.0,
+            "end": 556.0,
+            "text": "People will tell you that you are blessed"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 556.0,
+            "end": 558.0,
+            "text": "to find this course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 558.0,
+            "end": 560.0,
+            "text": "You are blessed to watch."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 560.0,
+            "end": 562.0,
+            "text": "You are blessed to not be distracted."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 562.0,
+            "end": 564.0,
+            "text": "You will realize that you are blessed."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 564.0,
+            "end": 566.0,
+            "text": "I myself say that I am blessed."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 566.0,
+            "end": 568.0,
+            "text": "I studied at the time of I.T.J."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 568.0,
+            "end": 570.0,
+            "text": "I took out I.T.J."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 570.0,
+            "end": 572.0,
+            "text": "I changed everything."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 572.0,
+            "end": 574.0,
+            "text": "No one will tell you that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 574.0,
+            "end": 576.0,
+            "text": "it is worth the sacrifice that you are doing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 576.0,
+            "end": 578.0,
+            "text": "I am telling you that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 578.0,
+            "end": 580.0,
+            "text": "the success you get in life,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 580.0,
+            "end": 582.0,
+            "text": "they have sacrificed."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 582.0,
+            "end": 584.0,
+            "text": "No one will take any name."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 584.0,
+            "end": 586.0,
+            "text": "They have sacrificed a lot."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 586.0,
+            "end": 588.0,
+            "text": "People will never tell you that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 588.0,
+            "end": 590.0,
+            "text": "this sacrifice is worth it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 590.0,
+            "end": 592.0,
+            "text": "You are going to die."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 592.0,
+            "end": 594.0,
+            "text": "Don't think that you are missing out."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 594.0,
+            "end": 596.0,
+            "text": "I should have got this advice."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 596.0,
+            "end": 598.0,
+            "text": "I didn't get this note for 4-5 rupees."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 598.0,
+            "end": 600.0,
+            "text": "But it is okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 600.0,
+            "end": 602.0,
+            "text": "I will add a color in the span."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 602.0,
+            "end": 604.0,
+            "text": "I will write here"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 604.0,
+            "end": 606.0,
+            "text": "I will add a color background."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 606.0,
+            "end": 608.0,
+            "text": "I will add blue violet."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 608.0,
+            "end": 610.0,
+            "text": "I will reduce it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 610.0,
+            "end": 612.0,
+            "text": "I will hover."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 612.0,
+            "end": 614.0,
+            "text": "You will see that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 614.0,
+            "end": 616.0,
+            "text": "it has highlighted this way."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 616.0,
+            "end": 618.0,
+            "text": "That is all for now."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 618.0,
+            "end": 620.0,
+            "text": "I hope you have understood"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 620.0,
+            "end": 622.0,
+            "text": "what is the difference between"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 622.0,
+            "end": 624.0,
+            "text": "the inline of block elements."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 624.0,
+            "end": 626.0,
+            "text": "Like the video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 626.0,
+            "end": 628.0,
+            "text": "Please also access the code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 628.0,
+            "end": 630.0,
+            "text": "Do as I say."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 630.0,
+            "end": 632.0,
+            "text": "Thank you so much for watching this video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 632.0,
+            "end": 634.0,
+            "text": "And I will see you next time."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170242_738",
+            "start": 648.0,
+            "end": 650.0,
+            "text": "Thank you."
+        }
+    ],
+    "full_text": "Learning the concept of Inline and Block Elements in HTML is very important. Inline elements are those which are required to take the width of the screen. And Block Elements are those which take the entire width of the screen. It is also called Display Property which can be set through CSS. If you are enjoying this video so far then do like this video. So let's go to the computer screen and look closely at Inline and Block Elements. Through some very good examples, let's roll the intro. So guys, it's time to look at Inline and Block Elements. If you haven't accessed the playlist and haven't accessed the code then do both. Because as the videos are being made, the code and video are being added in the playlist. Now I will quickly make a folder called Video 8. So I have already added 7 videos here. I will make a video 8 and open it in the VS Code. After opening it, I will tell you about the index and block elements. I have entered the exclamation mark and I could type this too. But I will not do it because when I type this, I will write inline and block elements. I have told you a little about this. But I will add more details to it now. What are the Inline elements and why I want to use them. So look at Inline Elements. They are only the amount of width that is required. Do block elements not take as much width as required? No, they say we need the entire width. They say it's our entire width. Some people just sit with the flag. They are just like them. I will tell you what the difference is. To explain this difference, I will cheat a little. The cheating is that I will add CSS. You might not be able to read CSS. Why are you adding CSS? I am adding CSS only as much as it is required. I will write P as the entry bar. I will write here, let us say, I am a para. I will say P as background color. Let us say blue. I will give you a good color choice. You can see here that I have given a color to para graph. Along with that, I will add anchor tag. HFS will be equal to gold.com. I will have to use HTPS from the form letter. HTPS is equal to gold.com. That is why it will be equal to gold.com. I will write here Google. And the anchor tag, I will give background color. I will give background color red. But I will not do red. I can choose any color in the spectrum. How did you like the Ninja tagging? Let me know in the comment section below. If you already knew about Ninja tagging, then comment. I will already go to sleep. You can see here, I have given the background color to anchor tag. I have changed it to red. I have done it towards red orange. And I have done it to blue. Now you can see the difference. I will click here and as soon as I click here, you can see that the background color is the same as the width. But it is the same as the element. Why did this happen? It happened because this is a paragraph block element. And our anchor tag is inline element. Inline elements only take as much as they want. Block elements take the entire width. And the next content comes below them. When the entire width comes, then the next content will come below them. Along with that, if I talk about div, what is that? A block element. I am a block element. And span is that which is exactly like div. But that is an inline element. I am span and I am inline. And after that, if I put an anchor tag. And write yes, he is inline. So you can see here, what happened? I will show you the code by zoom out. So if I write it in the new line too. By the way, I will tell you how many spaces I give here. This will not be added in my content. Because HTML is more than one space. It does not include it anyway. If you want to give spaces, you can write here M% and NBSP. I will tell you about that. But now I want to show you how it works. So see what happened? I wrote here, hey, I am a paragraph. What is a paragraph? A block element. So I took the whole width. The next content will come down. I wrote this as href is equal to this. So I took as much width as it is necessary. And took as much width as it is necessary. But the next content was saying that I want the whole width. So it will not come here. It will come in the next line. Because it says that I want the whole width. So it will come in the next line. It cannot come in this line. Because how will it come in this line? How will it take the whole width? Google is also taking it. So it will take the whole width. If I give it a background color. Then it will be shown in the whole width. I do this. I give it a yellow color. And I give it a yellow background color. And you see here, this yellow took the whole width. Along with that, I can keep the span and anchor tag in one line. Because this is an inline element. So the only width is given with the inline element. And in its own width, it gives the opportunity to come in other elements. Like you have seen here that this span also gave the opportunity to come in anchor tag. Now will the anchor tag always be inline? Will the paragraph tag always be blocked? This thing will always be. The answer is no. You can change it. You can set a particular element of the display property of the CSS. And if you set the display property. So it is not necessary that the inline will be blocked. The inline element and block element will be blocked. It can be inline. We will see this in the CSS. Now I would like to pinpoint one thing quickly. The video of Forms was video 7. But I have put it in the folder called video 6. So I will do video 7. And now it is video 8. Okay. What we are doing now is video 8. And nothing is in video 7. So I will quickly structure it here. Don't take the tension of it. I hope you are getting a lot of learnings. A lot of people have pointed this thing out in the comments. I will fix it. But I think that doesn't affect us in any way. Because you understand. And the folder you will get now. The source code of the notes. You will get it absolutely right. Along with that, go to codewithary.com and download the notes. And that will be a complementary source for you. I am explaining everything here. So don't worry about it. So this is our line and block elements. Now which elements are in line. Which blocks are in line. How do you know that div is a block and span is in line. So this comes with practice. But I have made a list of line and block elements for you. Here is the list of block elements. In which I have written the most commonly used elements. Like div is used the most. Then it is a paragraph. And if you come to the end, you will get such elements. You may not know them. But you will know it later. And tell all the elements. If it is not possible for me. So you have to do some self-learning. Definitely there are many such elements. Which will come in very few use. But the most commonly used ones will be shown to you. Then I have made a list of all the line elements. So you have to refer this comprehensive list. Here I have made a file in the name of comprehensive list.txt. So you have to refer this file. Along with that, you don't have any fault in the code. You don't have to have any fault in the code. I was telling you that there are no parts in the code. In fact, if you do the right click and do the format document. Then your document will be formatted. Write the code well. Write the code well. When your grandson opens your laptop and sees it. And if they get a code. They will say that grandpa used to write a good code. They will not say that grandpa used to put such a space. Then grandpa used to do this and that. So you will want that you should be in good words. So take the code well. So that your grandson can hear you very well. Now here I want to give you a quiz through HTML comments. And this quiz is that without using BR tag, write a vertical or aligned form. Asking for name city. And here I have added one more thing. I will show you. I will turn on the word wrap. So here look at name city and pin code of a user. So write a form. In the last video, we read about form. You have to write this form. How will you make it? I want everyone to answer this in the comment section. This is our first quiz. So I want you to write two interactions. Do write your code in the comment section. And tell me which element you used. Which element of online element. Which element of blog element. Which element of blog. You can tell me in the comment section. In the upcoming videos, we will also see that using CSS, you can set inline flex, inline block, such a display property. And what difference does it make. So we will see all these in the upcoming videos. I want to tell you that if you are following this course, you will be a great web developer. And don't think that this video is long. And our achievement is going on for a long time. I want to be beginner friendly with the course. Whatever I am making, and along with that, I want to tell you that people will tell you that you are doing this. We are doing fun, you are studying. You are doing this. Do you know what you will never say to people. That you are blessed. You are blessed. No one will tell you that you got a course on Sigma web development. You are living at a time in which you have a comprehensive course in Hindi and Hindi. No one will tell you that you are blessed. People will tell you that I am going to watch a movie. I am going to watch this. You are studying. What is this? You are boring. People will tell you that you are blessed to find this course. You are blessed to watch. You are blessed to not be distracted. You will realize that you are blessed. I myself say that I am blessed. I studied at the time of I.T.J. I took out I.T.J. I changed everything. No one will tell you that it is worth the sacrifice that you are doing. I am telling you that the success you get in life, they have sacrificed. No one will take any name. They have sacrificed a lot. People will never tell you that this sacrifice is worth it. You are going to die. Don't think that you are missing out. I should have got this advice. I didn't get this note for 4-5 rupees. But it is okay. I will add a color in the span. I will write here I will add a color background. I will add blue violet. I will reduce it. I will hover. You will see that it has highlighted this way. That is all for now. I hope you have understood what is the difference between the inline of block elements. Like the video. Please also access the code. Do as I say. Thank you so much for watching this video. And I will see you next time. Thank you."
+}

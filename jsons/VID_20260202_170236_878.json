@@ -1,0 +1,2105 @@
+{
+    "chunks": [
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 0.0,
+            "end": 5.12,
+            "text": "In today's video, we will learn about Core Web Vitals and why Core Web Vitals are necessary."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 5.12,
+            "end": 7.92,
+            "text": "Like this video and keep high energy."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 7.92,
+            "end": 16.080000000000002,
+            "text": "The thing is that your website should be in your iPhone, iPad, Android, Surface Pro 4 devices."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 16.080000000000002,
+            "end": 20.12,
+            "text": "Because we have to give good experience to all users through our website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 20.12,
+            "end": 24.8,
+            "text": "In this video, we will also learn about Chrome's hidden tool which is called Lighthouse."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 24.8,
+            "end": 28.44,
+            "text": "How can you use it to enhance your website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 28.44,
+            "end": 31.240000000000002,
+            "text": "In the comment section, write down Sigma Batch OP."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 31.240000000000002,
+            "end": 34.120000000000005,
+            "text": "Let's go to the computer screen and let's roll the intro."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 43.120000000000005,
+            "end": 45.040000000000006,
+            "text": "So guys, I have come to my computer screen."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 45.040000000000006,
+            "end": 48.28,
+            "text": "And I will make a new folder which is called Video 6."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 49.08,
+            "end": 50.2,
+            "text": "Video 6."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 50.2,
+            "end": 54.68000000000001,
+            "text": "And in Video 6, I will click on VS Code as always."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 54.68,
+            "end": 59.0,
+            "text": "And today, I am going to tell you about SEO."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 59.0,
+            "end": 60.92,
+            "text": "First of all, I want to tell you what SEO is."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 60.92,
+            "end": 63.12,
+            "text": "SEO stands for Search Engine Optimization."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 63.12,
+            "end": 66.2,
+            "text": "You can see any website and it has SEO."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 66.2,
+            "end": 67.76,
+            "text": "Let's take an example of Amazon.in."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 67.76,
+            "end": 73.48,
+            "text": "I opened Amazon.in and I wanted to download this website as soon as possible."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 73.48,
+            "end": 76.48,
+            "text": "So that they can get their products in the search."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 76.48,
+            "end": 77.6,
+            "text": "Google is a search engine."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 77.6,
+            "end": 81.16,
+            "text": "Google's responsibility is to show good pages to users."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 81.24,
+            "end": 84.72,
+            "text": "So Google will only show those pages which will be fast."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 84.72,
+            "end": 87.96,
+            "text": "They present good information and along with that,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 87.96,
+            "end": 91.36,
+            "text": "there are some things which are good for users."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 91.36,
+            "end": 92.96,
+            "text": "For example, there are two pages from the editor."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 92.96,
+            "end": 95.47999999999999,
+            "text": "One page has told about Dogfood."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 95.47999999999999,
+            "end": 97.92,
+            "text": "The other page has also told about Dogfood."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 97.92,
+            "end": 101.47999999999999,
+            "text": "But among these two, page 2 is very fast and loads well."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 101.47999999999999,
+            "end": 103.0,
+            "text": "So Google will give more preference to it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 103.0,
+            "end": 108.0,
+            "text": "Along with that, there are core web vitals which Google considers to rank two pages."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 108.0,
+            "end": 109.52,
+            "text": "First of all, there is content."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 109.52,
+            "end": 110.75999999999999,
+            "text": "Content is the most important."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 110.75999999999999,
+            "end": 115.67999999999999,
+            "text": "If your content is good, then you can rank your website without the core web vitals."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 115.67999999999999,
+            "end": 119.67999999999999,
+            "text": "But if you are competing with a page with the same content,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 119.67999999999999,
+            "end": 121.67999999999999,
+            "text": "which has presented almost similar quality content,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 121.67999999999999,
+            "end": 124.11999999999999,
+            "text": "then your core web vitals will be seen."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 124.11999999999999,
+            "end": 128.07999999999998,
+            "text": "If your core web vitals are good, then you will be given preference."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 128.07999999999998,
+            "end": 131.16,
+            "text": "So the first thing that comes in core web vitals is your CLS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 131.16,
+            "end": 134.56,
+            "text": "You watch this video here which I have run on the web.dev website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 134.56,
+            "end": 138.64,
+            "text": "You will see that someone comes to your website and orders to cancel it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 138.76,
+            "end": 142.23999999999998,
+            "text": "So the mistake that he has made, the top part of the page has been visible."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 142.23999999999998,
+            "end": 143.76,
+            "text": "And he shifted the layout."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 143.76,
+            "end": 145.0,
+            "text": "And the order has been completed."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 145.0,
+            "end": 146.55999999999997,
+            "text": "But the user wanted that the order was not completed."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 146.55999999999997,
+            "end": 147.83999999999997,
+            "text": "So he wanted to click on it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 147.83999999999997,
+            "end": 149.95999999999998,
+            "text": "In this way, the user experience is very bad."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 149.95999999999998,
+            "end": 152.23999999999998,
+            "text": "And as you saw in this video, this shouldn't happen."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 152.23999999999998,
+            "end": 153.95999999999998,
+            "text": "So our CLS should be at least less."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 153.95999999999998,
+            "end": 155.51999999999998,
+            "text": "Now what is the definition of CLS?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 155.51999999999998,
+            "end": 159.72,
+            "text": "Cumulative layout shift means how much the page is shifting while loading."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 159.72,
+            "end": 163.48,
+            "text": "Suppose you have loaded the page and you get to see this first."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 163.48,
+            "end": 167.35999999999999,
+            "text": "This was above and after that, when this part of the load has been shifted,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 168.28,
+            "end": 169.48000000000002,
+            "text": "the layout should not shift."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 169.48000000000002,
+            "end": 172.32000000000002,
+            "text": "If you put vit and ride in images, then the layout should not shift."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 172.32000000000002,
+            "end": 175.20000000000002,
+            "text": "The next metric that we are going to talk about is LCP."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 175.20000000000002,
+            "end": 177.52,
+            "text": "And LCP stands for largest contextual paint."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 177.52,
+            "end": 181.36,
+            "text": "This means that if the user is viewing a page, then the biggest element is there."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 181.36,
+            "end": 185.20000000000002,
+            "text": "For example, the biggest part of this image is loading in how long?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 185.20000000000002,
+            "end": 186.60000000000002,
+            "text": "Meaning the entire page will be loaded."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 186.60000000000002,
+            "end": 191.28000000000003,
+            "text": "But the biggest element that is most important is loading in how long?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 191.28000000000003,
+            "end": 195.4,
+            "text": "The meaning of web.dev and Google should have a good LCP score of 2.5 seconds."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 195.44,
+            "end": 198.56,
+            "text": "Meaning the biggest element should be loaded in 2.5 seconds."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 198.56,
+            "end": 203.08,
+            "text": "After this comes the third metric, FID, which stands for First Input Delay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 203.08,
+            "end": 207.28,
+            "text": "First input delay means that if any user clicks on an input element,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 207.28,
+            "end": 210.16,
+            "text": "like on the button or any type of input given on a page,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 210.16,
+            "end": 211.96,
+            "text": "then how long does that input process take?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 211.96,
+            "end": 215.84,
+            "text": "For example, if you click on a button, then the button click browser processes in how long?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 215.84,
+            "end": 221.72,
+            "text": "And the meaning of Google and web.dev should start processing at least 100 milliseconds."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 221.72,
+            "end": 224.44,
+            "text": "So these were the three core web vitals, which are very important."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 224.48,
+            "end": 227.92,
+            "text": "I will tell you about the information that these core web vitals are updated."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 227.92,
+            "end": 230.56,
+            "text": "But these three are very important and you should know."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 230.56,
+            "end": 234.12,
+            "text": "Now I will show you what the Lighthouse report is and why it is generated."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 234.12,
+            "end": 237.07999999999998,
+            "text": "And how these three core web vitals will be evaluated."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 237.07999999999998,
+            "end": 241.4,
+            "text": "So I will tell you here, if you guys inspect it right click,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 241.4,
+            "end": 246.12,
+            "text": "and if you are coming to the right side, then you can click here and drag it down."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 246.12,
+            "end": 249.8,
+            "text": "You can drag it down again and drag it down again."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 249.8,
+            "end": 253.44,
+            "text": "I prefer to drag it down because it is my habit to see it from the beginning."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 253.44,
+            "end": 256.24,
+            "text": "Now here you can see the option of Lighthouse."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 256.24,
+            "end": 262.28,
+            "text": "Lighthouse basically generates a report and tells you what can be improved in your HTML page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 262.28,
+            "end": 267.96,
+            "text": "For example, if I want to see in mobile that how mobile users see my website,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 267.96,
+            "end": 272.32,
+            "text": "then I will click on mobile or I will click on desktop, I will close this tab."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 272.32,
+            "end": 275.04,
+            "text": "I will click on mobile and here I will click on analyze page load."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 275.04,
+            "end": 277.28,
+            "text": "So this will generate a report for me for Lighthouse."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 277.28,
+            "end": 279.28,
+            "text": "You can see here that a report has been generated."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 279.28,
+            "end": 284.15999999999997,
+            "text": "Performance, accessibility, best practices, SEO and PWA are all shown here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 284.15999999999997,
+            "end": 287.32,
+            "text": "Now you can see here that some things are showing in red,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 287.32,
+            "end": 289.47999999999996,
+            "text": "that is the scope of improvement in the page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 289.47999999999996,
+            "end": 292.28,
+            "text": "Now here you can see that you can properly size your images."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 292.28,
+            "end": 295.23999999999995,
+            "text": "2.7 seconds fast your website can be loaded."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 295.23999999999995,
+            "end": 299.0,
+            "text": "So all these suggestions are given to you by Lighthouse."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 299.0,
+            "end": 304.44,
+            "text": "And if you incorporate these suggestions, then your website will be loaded very well"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 304.44,
+            "end": 306.11999999999995,
+            "text": "and the user will have a good experience."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 306.12,
+            "end": 309.56,
+            "text": "Now you can see here that image elements do not have explicit width and height."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 309.56,
+            "end": 313.0,
+            "text": "So you should give width and height, the width and height attribute of image"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 313.0,
+            "end": 318.44,
+            "text": "which we had read in the last video should be used so that it is reserved in your browser."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 318.44,
+            "end": 322.04,
+            "text": "When we set width and height in HTML, then space in the browser is reserved."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 322.04,
+            "end": 324.4,
+            "text": "Otherwise, if we do not set height and width,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 324.4,
+            "end": 328.52,
+            "text": "then what will happen that the browser will not know how much space we have to reserve."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 328.52,
+            "end": 332.6,
+            "text": "And the longer the CSS load, the lower the page will shift."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 332.6,
+            "end": 335.0,
+            "text": "So we do not want our page to shift during loading time."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 335.08,
+            "end": 338.68,
+            "text": "If our page starts shifting, then if we click here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 338.68,
+            "end": 341.24,
+            "text": "then when it shifts from the wrong side, then it can be done below."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 341.24,
+            "end": 342.56,
+            "text": "We click here and sit."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 342.56,
+            "end": 345.28,
+            "text": "Suppose there was an image here, I click here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 345.28,
+            "end": 350.16,
+            "text": "And the time I clicked here, this image was loaded and all these buttons were shifted below."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 350.16,
+            "end": 353.0,
+            "text": "And instead of clicking here by mistake, I will click on the image."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 353.0,
+            "end": 354.92,
+            "text": "This is called cumulative layout shift."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 354.92,
+            "end": 358.0,
+            "text": "So this kind of shift is not preferred at all."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 358.0,
+            "end": 359.6,
+            "text": "Google does not prefer at all."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 359.6,
+            "end": 360.64,
+            "text": "And this should be at least."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 360.64,
+            "end": 363.16,
+            "text": "You can see that the space is quite small, cumulative layout shift."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 363.16,
+            "end": 365.32000000000005,
+            "text": "So we have to keep the cumulative layout shift at least."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 365.32000000000005,
+            "end": 367.64000000000004,
+            "text": "So that our user can get a very good experience."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 367.64000000000004,
+            "end": 369.72,
+            "text": "So here we get a lot more suggestions."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 369.72,
+            "end": 371.32000000000005,
+            "text": "And this is for our mobile."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 371.32000000000005,
+            "end": 373.04,
+            "text": "Now we can generate desktop reports."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 373.04,
+            "end": 374.64000000000004,
+            "text": "And the desktop report will be generated."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 374.64000000000004,
+            "end": 377.92,
+            "text": "So as you can see, it has generated a report."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 377.92,
+            "end": 379.32000000000005,
+            "text": "92 marks in performance."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 379.32000000000005,
+            "end": 381.32000000000005,
+            "text": "There are 82 marks in accessibility."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 381.32000000000005,
+            "end": 382.36,
+            "text": "75 in best practices."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 382.36,
+            "end": 383.40000000000003,
+            "text": "75 in SEO."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 383.40000000000003,
+            "end": 386.44000000000005,
+            "text": "Now here you can see that all the good things are told here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 386.44000000000005,
+            "end": 388.84000000000003,
+            "text": "And all the scope of improvements, Lighthouse tells you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 388.84000000000003,
+            "end": 391.92,
+            "text": "So this is a hidden tool that we should all use."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 391.92,
+            "end": 394.88,
+            "text": "Now I want to tell you about the meta tags and meta description."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 394.88,
+            "end": 396.96000000000004,
+            "text": "So what I will do here is I will make a new file."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 396.96000000000004,
+            "end": 398.8,
+            "text": "I will name it index.html."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 398.8,
+            "end": 403.88,
+            "text": "And after making one HTML file, the first SEO element I want to tell you is title."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 403.88,
+            "end": 407.40000000000003,
+            "text": "Your title reflects your page content."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 407.40000000000003,
+            "end": 409.20000000000005,
+            "text": "So this is a very good SEO practice."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 409.20000000000005,
+            "end": 411.64,
+            "text": "Whenever your page hinge is being made, you make the title like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 411.64,
+            "end": 413.44,
+            "text": "That it reflects your page content."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 413.44,
+            "end": 415.48,
+            "text": "Because if you want your website on Google,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 415.48,
+            "end": 417.08000000000004,
+            "text": "then that title will be given according to the title."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 417.08000000000004,
+            "end": 420.76,
+            "text": "From the Google index, you can write code with Harry."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 420.84,
+            "end": 421.32,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 421.32,
+            "end": 422.4,
+            "text": "And you write like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 422.4,
+            "end": 424.2,
+            "text": "So this is the title of the page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 424.2,
+            "end": 426.76,
+            "text": "And this is the title of the page, which is put by YouTube."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 426.76,
+            "end": 428.88,
+            "text": "This is the title of the page, which is put by Instagram."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 428.88,
+            "end": 431.03999999999996,
+            "text": "This is the title of the page, which is put by GitHub."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 431.03999999999996,
+            "end": 437.44,
+            "text": "So if you put the title on the page and the title reflects your page content truly,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 437.44,
+            "end": 440.59999999999997,
+            "text": "then your website will rank very well."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 440.59999999999997,
+            "end": 442.08,
+            "text": "Now here I will put the content."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 442.08,
+            "end": 445.03999999999996,
+            "text": "And I will put an H1 and write Harry here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 445.03999999999996,
+            "end": 448.32,
+            "text": "And after that I will write a paragraph here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 448.4,
+            "end": 450.88,
+            "text": "And here I will write Lorem45."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 450.88,
+            "end": 452.48,
+            "text": "Now why did I write Lorem45?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 452.48,
+            "end": 453.92,
+            "text": "I will write the view word."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 453.92,
+            "end": 454.92,
+            "text": "Why did I write 45?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 454.92,
+            "end": 455.96,
+            "text": "This is a very good question."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 455.96,
+            "end": 459.15999999999997,
+            "text": "I wrote 45 because I am around Alcio and 4r5."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 459.15999999999997,
+            "end": 460.56,
+            "text": "So I have given 4 or 5."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 460.56,
+            "end": 462.6,
+            "text": "I also write 23 because they are also around."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 462.6,
+            "end": 463.8,
+            "text": "Okay, so there is no other reason."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 463.8,
+            "end": 465.6,
+            "text": "Now I will quickly preview it here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 465.6,
+            "end": 466.8,
+            "text": "I will open it here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 466.8,
+            "end": 467.96,
+            "text": "So look at this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 467.96,
+            "end": 469.08,
+            "text": "Now this document is written."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 469.08,
+            "end": 472.08,
+            "text": "If I leave it like this, then this is a good SEO practice."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 472.08,
+            "end": 474.48,
+            "text": "I will write about Harry here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 474.48,
+            "end": 475.88,
+            "text": "And I will write code with Harry here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 475.88,
+            "end": 476.76,
+            "text": "Which is my website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 476.76,
+            "end": 477.12,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 477.12,
+            "end": 478.44,
+            "text": "And what will happen if I do this?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 478.44,
+            "end": 480.32,
+            "text": "That my title will be reflected here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 480.32,
+            "end": 481.6,
+            "text": "Like you can see."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 481.6,
+            "end": 483.56,
+            "text": "So what will happen if I do this?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 483.56,
+            "end": 487.36,
+            "text": "That my website will increase in the chances of seeing it in Google."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 487.36,
+            "end": 489.88,
+            "text": "After inspecting it, I will also take out its light of the report."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 489.88,
+            "end": 491.6,
+            "text": "And I will see what is the scope of improvement."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 491.6,
+            "end": 493.52,
+            "text": "Right now its light of the report will be very good."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 493.52,
+            "end": 496.16,
+            "text": "Because there is no such thing that I should improve."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 496.16,
+            "end": 498.24,
+            "text": "But when I put images, I will get suggestions."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 498.24,
+            "end": 500.96,
+            "text": "Like put the width, put the height."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 500.96,
+            "end": 503.04,
+            "text": "Along with that, I will tell you one more trick."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 503.04,
+            "end": 507.76000000000005,
+            "text": "So that you can know how your website looks in any mobile."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 507.76000000000005,
+            "end": 509.0,
+            "text": "So you people click here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 509.0,
+            "end": 510.56,
+            "text": "You can see here the computer."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 510.56,
+            "end": 511.40000000000003,
+            "text": "Click on it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 511.40000000000003,
+            "end": 513.76,
+            "text": "And after that, if you choose responsive,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 513.76,
+            "end": 517.84,
+            "text": "then you can see how your website will look in any kind of device."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 517.84,
+            "end": 519.48,
+            "text": "So your website is responsive or not."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 519.48,
+            "end": 521.32,
+            "text": "You can see it here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 521.32,
+            "end": 524.36,
+            "text": "If you want to see in a specific device, like iPhone 12 Pro."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 524.36,
+            "end": 528.44,
+            "text": "Your website iPhone 12 Pro will look something like this in the resolution."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 528.44,
+            "end": 530.72,
+            "text": "Now don't say why it is not 15 or 16."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 530.8000000000001,
+            "end": 533.28,
+            "text": "12 Pro means big iPhone device."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 533.28,
+            "end": 534.36,
+            "text": "Understand it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 534.36,
+            "end": 536.88,
+            "text": "In such a big device, in such a big device,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 536.88,
+            "end": 538.44,
+            "text": "how will your website look?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 538.44,
+            "end": 540.44,
+            "text": "It is simply being told to you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 540.44,
+            "end": 544.5600000000001,
+            "text": "So now you can see here how it will look in Surface Pro 7."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 544.5600000000001,
+            "end": 545.76,
+            "text": "Click here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 545.76,
+            "end": 547.5600000000001,
+            "text": "How it will look in Google phones."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 547.5600000000001,
+            "end": 549.0400000000001,
+            "text": "You can also find out this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 549.0400000000001,
+            "end": 551.84,
+            "text": "And if you want to take a general view,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 551.84,
+            "end": 555.64,
+            "text": "in your website responsive device, in any kind of device,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 555.64,
+            "end": 557.6,
+            "text": "in iPad, how it will look,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 557.6,
+            "end": 561.52,
+            "text": "If you don't have a device here, then you can choose responsive and take out your device's approximate width."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 561.52,
+            "end": 563.0,
+            "text": "You will get all the width devices."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 563.0,
+            "end": 565.0,
+            "text": "Your website should look good."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 565.0,
+            "end": 565.96,
+            "text": "How it will look?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 565.96,
+            "end": 567.6,
+            "text": "I will also tell you in this course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 567.6,
+            "end": 569.84,
+            "text": "Now you click here again, then it will close."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 569.84,
+            "end": 571.6,
+            "text": "The responsive view will close."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 571.6,
+            "end": 574.16,
+            "text": "And as soon as it closes, your website will look like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 574.16,
+            "end": 575.24,
+            "text": "I will close it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 575.24,
+            "end": 576.0400000000001,
+            "text": "I will come back here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 576.0400000000001,
+            "end": 578.0400000000001,
+            "text": "Now I will tell you about meta text."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 578.0400000000001,
+            "end": 580.36,
+            "text": "Here, as soon as I write meta,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 580.36,
+            "end": 581.9200000000001,
+            "text": "look here meta D E S C is coming."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 581.9200000000001,
+            "end": 583.52,
+            "text": "Okay, I will click on meta D E S C."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 583.52,
+            "end": 585.8000000000001,
+            "text": "And here I can give my page description."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 585.8399999999999,
+            "end": 586.7199999999999,
+            "text": "I will give it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 586.7199999999999,
+            "end": 588.4,
+            "text": "This is the page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 588.4,
+            "end": 589.24,
+            "text": "This is the page about."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 589.24,
+            "end": 595.4799999999999,
+            "text": "This is the page which contains description about Harry."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 597.0799999999999,
+            "end": 600.4,
+            "text": "Okay, and here you can write whatever page you want."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 600.4,
+            "end": 602.7199999999999,
+            "text": "As I show you, you write what is SEO."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 602.7199999999999,
+            "end": 603.24,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 604.12,
+            "end": 604.7199999999999,
+            "text": "What is SEO?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 604.7199999999999,
+            "end": 605.1999999999999,
+            "text": "You wrote here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 605.1999999999999,
+            "end": 607.76,
+            "text": "Look here, this page put meta description."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 607.76,
+            "end": 610.0799999999999,
+            "text": "SEO stands for this in simple terms."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 610.0799999999999,
+            "end": 613.0799999999999,
+            "text": "Now it is not necessary that a search engine will pass your meta D E S C."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 613.0799999999999,
+            "end": 613.68,
+            "text": "It will not."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 613.68,
+            "end": 617.12,
+            "text": "If it feels good, it will pass it and keep your meta D E S C here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 617.12,
+            "end": 621.12,
+            "text": "If you have not added meta D E S C, then it can be generated from your content."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 621.12,
+            "end": 623.4399999999999,
+            "text": "So, this search engine is responsible for Bing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 623.4399999999999,
+            "end": 624.9599999999999,
+            "text": "Google will not know what to do here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 624.9599999999999,
+            "end": 628.2399999999999,
+            "text": "But our page should be exactly to the point from our side."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 628.2399999999999,
+            "end": 632.1999999999999,
+            "text": "Especially if we are writing a blog and we want to rank our page organically."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 632.1999999999999,
+            "end": 635.16,
+            "text": "So here you can see that I have put meta D E S C."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 635.16,
+            "end": 637.0799999999999,
+            "text": "Now a meta keyword used to be very popular."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 637.0799999999999,
+            "end": 641.5999999999999,
+            "text": "But now the meta keyword is deprecated."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 641.6,
+            "end": 643.8000000000001,
+            "text": "Meta keyword is not used at all."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 643.8000000000001,
+            "end": 645.52,
+            "text": "Meta keyword looks like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 645.52,
+            "end": 649.72,
+            "text": "But it is believed that meta keywords do not rank in SEO."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 649.72,
+            "end": 651.08,
+            "text": "Because people abuse it a lot."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 651.08,
+            "end": 655.16,
+            "text": "Suppose you have written a page about pets and you have written what is SEO meta keyword."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 655.16,
+            "end": 657.0400000000001,
+            "text": "So, it will not rank in your page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 657.0400000000001,
+            "end": 659.48,
+            "text": "I will correct it if I am wrong with these double quotes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 659.48,
+            "end": 663.4,
+            "text": "If I put meta keyword here, then it is not necessary that a search engine will consider it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 663.4,
+            "end": 666.28,
+            "text": "Some search engines do not believe in meta keywords."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 666.28,
+            "end": 668.08,
+            "text": "They say that we should not see your meta keywords."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 668.08,
+            "end": 668.64,
+            "text": "Don't add them."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 668.68,
+            "end": 670.24,
+            "text": "Meta keywords used to be popular a lot."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 670.24,
+            "end": 671.16,
+            "text": "But it is not popular now."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 671.16,
+            "end": 673.12,
+            "text": "Your page content is now parsed."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 673.12,
+            "end": 674.1999999999999,
+            "text": "And now the time for AI is coming."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 674.1999999999999,
+            "end": 676.88,
+            "text": "So, especially if you understand your content,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 676.88,
+            "end": 678.68,
+            "text": "what is your content value,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 678.68,
+            "end": 680.08,
+            "text": "it will be ranked accordingly."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 680.08,
+            "end": 683.36,
+            "text": "Now, if you want to know exactly about these core web vitals."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 683.36,
+            "end": 685.76,
+            "text": "For example, if I inspect it rightfully,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 685.76,
+            "end": 688.8,
+            "text": "go to the lighthouse and take out a lighthouse report for desktop."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 688.8,
+            "end": 690.48,
+            "text": "Then some core web vitals come."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 690.48,
+            "end": 691.88,
+            "text": "Like LCP comes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 691.88,
+            "end": 693.64,
+            "text": "Then FCP comes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 693.64,
+            "end": 695.08,
+            "text": "First contextual paint."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 695.08,
+            "end": 697.76,
+            "text": "Now you can see that everything is 100."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 697.8,
+            "end": 699.76,
+            "text": "There was no much content in this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 699.76,
+            "end": 701.76,
+            "text": "But you can see here that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 701.76,
+            "end": 705.52,
+            "text": "what you have to do is that pages with web socket cannot enter back forward cache."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 705.52,
+            "end": 708.24,
+            "text": "There is a web socket because we are using extension."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 708.24,
+            "end": 709.72,
+            "text": "Live preview."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 709.72,
+            "end": 710.72,
+            "text": "Otherwise, it is absolutely right."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 710.72,
+            "end": 711.56,
+            "text": "Accessibility is also 100."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 711.56,
+            "end": 712.12,
+            "text": "Everything is 100."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 712.12,
+            "end": 713.0,
+            "text": "It is a very good page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 713.0,
+            "end": 715.36,
+            "text": "PWA is progressive web apps."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 715.36,
+            "end": 716.68,
+            "text": "Which we will not make now."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 716.68,
+            "end": 719.08,
+            "text": "But you can see here that first contextual paint,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 719.08,
+            "end": 720.24,
+            "text": "largest contextual paint,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 720.24,
+            "end": 722.3199999999999,
+            "text": "total blocking time, cumulative layout,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 722.3199999999999,
+            "end": 723.16,
+            "text": "speed index."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 723.16,
+            "end": 724.68,
+            "text": "If you want to know about all these,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 724.68,
+            "end": 727.88,
+            "text": "like what is the first contextual paint that the user is going to see,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 727.88,
+            "end": 729.5999999999999,
+            "text": "how long it has been painted on the browser."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 729.5999999999999,
+            "end": 731.0799999999999,
+            "text": "So if you want to see this,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 731.0799999999999,
+            "end": 733.3199999999999,
+            "text": "you have to go to web.dev."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 733.3199999999999,
+            "end": 735.0799999999999,
+            "text": "Web.dev is a very good website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 735.0799999999999,
+            "end": 736.9599999999999,
+            "text": "It talks about all these things."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 736.9599999999999,
+            "end": 738.8,
+            "text": "And you can see here that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 738.8,
+            "end": 740.3599999999999,
+            "text": "they keep talking about this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 740.3599999999999,
+            "end": 743.1999999999999,
+            "text": "You can learn what these things are about."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 743.1999999999999,
+            "end": 745.8399999999999,
+            "text": "If you want to learn PWA, you can learn PWA."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 745.8399999999999,
+            "end": 749.76,
+            "text": "There is a lot of good content here about these things."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 749.76,
+            "end": 753.8,
+            "text": "But we will focus on making Httml, CSS, JavaScript and websites in this course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 753.8399999999999,
+            "end": 755.76,
+            "text": "This thing should have come according to me."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 755.76,
+            "end": 757.76,
+            "text": "Because of which I told you about it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 757.76,
+            "end": 761.28,
+            "text": "If you have not yet accessed the Sigma web development series,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 761.28,
+            "end": 762.92,
+            "text": "then do access it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 762.92,
+            "end": 765.16,
+            "text": "Access the playlist and bookmark it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 765.16,
+            "end": 767.8399999999999,
+            "text": "Click here and save it here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 767.8399999999999,
+            "end": 769.28,
+            "text": "That's all for now."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 769.28,
+            "end": 771.12,
+            "text": "Thank you so much for watching this video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170236_878",
+            "start": 771.12,
+            "end": 773.3199999999999,
+            "text": "And I will see you next time."
+        }
+    ],
+    "full_text": "In today's video, we will learn about Core Web Vitals and why Core Web Vitals are necessary. Like this video and keep high energy. The thing is that your website should be in your iPhone, iPad, Android, Surface Pro 4 devices. Because we have to give good experience to all users through our website. In this video, we will also learn about Chrome's hidden tool which is called Lighthouse. How can you use it to enhance your website. In the comment section, write down Sigma Batch OP. Let's go to the computer screen and let's roll the intro. So guys, I have come to my computer screen. And I will make a new folder which is called Video 6. Video 6. And in Video 6, I will click on VS Code as always. And today, I am going to tell you about SEO. First of all, I want to tell you what SEO is. SEO stands for Search Engine Optimization. You can see any website and it has SEO. Let's take an example of Amazon.in. I opened Amazon.in and I wanted to download this website as soon as possible. So that they can get their products in the search. Google is a search engine. Google's responsibility is to show good pages to users. So Google will only show those pages which will be fast. They present good information and along with that, there are some things which are good for users. For example, there are two pages from the editor. One page has told about Dogfood. The other page has also told about Dogfood. But among these two, page 2 is very fast and loads well. So Google will give more preference to it. Along with that, there are core web vitals which Google considers to rank two pages. First of all, there is content. Content is the most important. If your content is good, then you can rank your website without the core web vitals. But if you are competing with a page with the same content, which has presented almost similar quality content, then your core web vitals will be seen. If your core web vitals are good, then you will be given preference. So the first thing that comes in core web vitals is your CLS. You watch this video here which I have run on the web.dev website. You will see that someone comes to your website and orders to cancel it. So the mistake that he has made, the top part of the page has been visible. And he shifted the layout. And the order has been completed. But the user wanted that the order was not completed. So he wanted to click on it. In this way, the user experience is very bad. And as you saw in this video, this shouldn't happen. So our CLS should be at least less. Now what is the definition of CLS? Cumulative layout shift means how much the page is shifting while loading. Suppose you have loaded the page and you get to see this first. This was above and after that, when this part of the load has been shifted, the layout should not shift. If you put vit and ride in images, then the layout should not shift. The next metric that we are going to talk about is LCP. And LCP stands for largest contextual paint. This means that if the user is viewing a page, then the biggest element is there. For example, the biggest part of this image is loading in how long? Meaning the entire page will be loaded. But the biggest element that is most important is loading in how long? The meaning of web.dev and Google should have a good LCP score of 2.5 seconds. Meaning the biggest element should be loaded in 2.5 seconds. After this comes the third metric, FID, which stands for First Input Delay. First input delay means that if any user clicks on an input element, like on the button or any type of input given on a page, then how long does that input process take? For example, if you click on a button, then the button click browser processes in how long? And the meaning of Google and web.dev should start processing at least 100 milliseconds. So these were the three core web vitals, which are very important. I will tell you about the information that these core web vitals are updated. But these three are very important and you should know. Now I will show you what the Lighthouse report is and why it is generated. And how these three core web vitals will be evaluated. So I will tell you here, if you guys inspect it right click, and if you are coming to the right side, then you can click here and drag it down. You can drag it down again and drag it down again. I prefer to drag it down because it is my habit to see it from the beginning. Now here you can see the option of Lighthouse. Lighthouse basically generates a report and tells you what can be improved in your HTML page. For example, if I want to see in mobile that how mobile users see my website, then I will click on mobile or I will click on desktop, I will close this tab. I will click on mobile and here I will click on analyze page load. So this will generate a report for me for Lighthouse. You can see here that a report has been generated. Performance, accessibility, best practices, SEO and PWA are all shown here. Now you can see here that some things are showing in red, that is the scope of improvement in the page. Now here you can see that you can properly size your images. 2.7 seconds fast your website can be loaded. So all these suggestions are given to you by Lighthouse. And if you incorporate these suggestions, then your website will be loaded very well and the user will have a good experience. Now you can see here that image elements do not have explicit width and height. So you should give width and height, the width and height attribute of image which we had read in the last video should be used so that it is reserved in your browser. When we set width and height in HTML, then space in the browser is reserved. Otherwise, if we do not set height and width, then what will happen that the browser will not know how much space we have to reserve. And the longer the CSS load, the lower the page will shift. So we do not want our page to shift during loading time. If our page starts shifting, then if we click here, then when it shifts from the wrong side, then it can be done below. We click here and sit. Suppose there was an image here, I click here. And the time I clicked here, this image was loaded and all these buttons were shifted below. And instead of clicking here by mistake, I will click on the image. This is called cumulative layout shift. So this kind of shift is not preferred at all. Google does not prefer at all. And this should be at least. You can see that the space is quite small, cumulative layout shift. So we have to keep the cumulative layout shift at least. So that our user can get a very good experience. So here we get a lot more suggestions. And this is for our mobile. Now we can generate desktop reports. And the desktop report will be generated. So as you can see, it has generated a report. 92 marks in performance. There are 82 marks in accessibility. 75 in best practices. 75 in SEO. Now here you can see that all the good things are told here. And all the scope of improvements, Lighthouse tells you. So this is a hidden tool that we should all use. Now I want to tell you about the meta tags and meta description. So what I will do here is I will make a new file. I will name it index.html. And after making one HTML file, the first SEO element I want to tell you is title. Your title reflects your page content. So this is a very good SEO practice. Whenever your page hinge is being made, you make the title like this. That it reflects your page content. Because if you want your website on Google, then that title will be given according to the title. From the Google index, you can write code with Harry. Okay. And you write like this. So this is the title of the page. And this is the title of the page, which is put by YouTube. This is the title of the page, which is put by Instagram. This is the title of the page, which is put by GitHub. So if you put the title on the page and the title reflects your page content truly, then your website will rank very well. Now here I will put the content. And I will put an H1 and write Harry here. And after that I will write a paragraph here. And here I will write Lorem45. Now why did I write Lorem45? I will write the view word. Why did I write 45? This is a very good question. I wrote 45 because I am around Alcio and 4r5. So I have given 4 or 5. I also write 23 because they are also around. Okay, so there is no other reason. Now I will quickly preview it here. I will open it here. So look at this. Now this document is written. If I leave it like this, then this is a good SEO practice. I will write about Harry here. And I will write code with Harry here. Which is my website. Okay. And what will happen if I do this? That my title will be reflected here. Like you can see. So what will happen if I do this? That my website will increase in the chances of seeing it in Google. After inspecting it, I will also take out its light of the report. And I will see what is the scope of improvement. Right now its light of the report will be very good. Because there is no such thing that I should improve. But when I put images, I will get suggestions. Like put the width, put the height. Along with that, I will tell you one more trick. So that you can know how your website looks in any mobile. So you people click here. You can see here the computer. Click on it. And after that, if you choose responsive, then you can see how your website will look in any kind of device. So your website is responsive or not. You can see it here. If you want to see in a specific device, like iPhone 12 Pro. Your website iPhone 12 Pro will look something like this in the resolution. Now don't say why it is not 15 or 16. 12 Pro means big iPhone device. Understand it. In such a big device, in such a big device, how will your website look? It is simply being told to you. So now you can see here how it will look in Surface Pro 7. Click here. How it will look in Google phones. You can also find out this. And if you want to take a general view, in your website responsive device, in any kind of device, in iPad, how it will look, If you don't have a device here, then you can choose responsive and take out your device's approximate width. You will get all the width devices. Your website should look good. How it will look? I will also tell you in this course. Now you click here again, then it will close. The responsive view will close. And as soon as it closes, your website will look like this. I will close it. I will come back here. Now I will tell you about meta text. Here, as soon as I write meta, look here meta D E S C is coming. Okay, I will click on meta D E S C. And here I can give my page description. I will give it. This is the page. This is the page about. This is the page which contains description about Harry. Okay, and here you can write whatever page you want. As I show you, you write what is SEO. Okay. What is SEO? You wrote here. Look here, this page put meta description. SEO stands for this in simple terms. Now it is not necessary that a search engine will pass your meta D E S C. It will not. If it feels good, it will pass it and keep your meta D E S C here. If you have not added meta D E S C, then it can be generated from your content. So, this search engine is responsible for Bing. Google will not know what to do here. But our page should be exactly to the point from our side. Especially if we are writing a blog and we want to rank our page organically. So here you can see that I have put meta D E S C. Now a meta keyword used to be very popular. But now the meta keyword is deprecated. Meta keyword is not used at all. Meta keyword looks like this. But it is believed that meta keywords do not rank in SEO. Because people abuse it a lot. Suppose you have written a page about pets and you have written what is SEO meta keyword. So, it will not rank in your page. I will correct it if I am wrong with these double quotes. If I put meta keyword here, then it is not necessary that a search engine will consider it. Some search engines do not believe in meta keywords. They say that we should not see your meta keywords. Don't add them. Meta keywords used to be popular a lot. But it is not popular now. Your page content is now parsed. And now the time for AI is coming. So, especially if you understand your content, what is your content value, it will be ranked accordingly. Now, if you want to know exactly about these core web vitals. For example, if I inspect it rightfully, go to the lighthouse and take out a lighthouse report for desktop. Then some core web vitals come. Like LCP comes. Then FCP comes. First contextual paint. Now you can see that everything is 100. There was no much content in this. But you can see here that what you have to do is that pages with web socket cannot enter back forward cache. There is a web socket because we are using extension. Live preview. Otherwise, it is absolutely right. Accessibility is also 100. Everything is 100. It is a very good page. PWA is progressive web apps. Which we will not make now. But you can see here that first contextual paint, largest contextual paint, total blocking time, cumulative layout, speed index. If you want to know about all these, like what is the first contextual paint that the user is going to see, how long it has been painted on the browser. So if you want to see this, you have to go to web.dev. Web.dev is a very good website. It talks about all these things. And you can see here that they keep talking about this. You can learn what these things are about. If you want to learn PWA, you can learn PWA. There is a lot of good content here about these things. But we will focus on making Httml, CSS, JavaScript and websites in this course. This thing should have come according to me. Because of which I told you about it. If you have not yet accessed the Sigma web development series, then do access it. Access the playlist and bookmark it. Click here and save it here. That's all for now. Thank you so much for watching this video. And I will see you next time."
+}

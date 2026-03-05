@@ -1,0 +1,2658 @@
+{
+    "chunks": [
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 0.0,
+            "end": 3.0,
+            "text": "Guys, we talked about Selectors in CSS and we said that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 3.0,
+            "end": 8.700000000000001,
+            "text": "Selectors are used to select any element which is going to be applied on it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 8.700000000000001,
+            "end": 14.3,
+            "text": "Now how can we apply style on elements and how can we select those elements?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 14.3,
+            "end": 20.0,
+            "text": "For example, Element with an ID, Element with a class, we can target the element by its name."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 20.0,
+            "end": 25.8,
+            "text": "And we can also decide that if a particular type of element is applied in a particular type of element,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 25.8,
+            "end": 27.2,
+            "text": "then it is applied."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 27.2,
+            "end": 32.4,
+            "text": "I will explain the rules of applying this styling in this video and I will explain the Selectors."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 32.4,
+            "end": 36.0,
+            "text": "It's fun to write a Sigma patch in the comment section."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 36.0,
+            "end": 38.9,
+            "text": "We have to maintain the high energy throughout the course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 38.9,
+            "end": 40.3,
+            "text": "I want to give you a heads up."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 40.3,
+            "end": 44.0,
+            "text": "This video is a very important video of CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 44.0,
+            "end": 45.6,
+            "text": "So increase your excitement."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 45.6,
+            "end": 47.0,
+            "text": "Let's go in the computer screen."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 47.0,
+            "end": 48.5,
+            "text": "Let's roll the intro."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 48.5,
+            "end": 58.9,
+            "text": "I have already matched the computer screen."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 58.9,
+            "end": 62.7,
+            "text": "The first thing I am going to do is to make a video of 17."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 62.7,
+            "end": 67.5,
+            "text": "And I will say that video 17 is one of the most important videos."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 67.5,
+            "end": 72.7,
+            "text": "Because if you understand how to selectors work, then your work will be very easy."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 72.7,
+            "end": 78.1,
+            "text": "So I will make a video 17 from the name index.html here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 78.3,
+            "end": 82.89999999999999,
+            "text": "And I am going to use the internal CSS style sheet."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 82.89999999999999,
+            "end": 86.69999999999999,
+            "text": "So that you can see how I am doing it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 86.69999999999999,
+            "end": 88.89999999999999,
+            "text": "And here I will do a lot of things."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 88.89999999999999,
+            "end": 93.89999999999999,
+            "text": "I will turn on the word wrap, turn on the screencast mode so that you can know whatever button I press."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 93.89999999999999,
+            "end": 97.3,
+            "text": "And I will write CSS Selectors here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 97.3,
+            "end": 98.89999999999999,
+            "text": "And I will make a div here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 98.89999999999999,
+            "end": 100.89999999999999,
+            "text": "And I made a div here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 100.89999999999999,
+            "end": 102.89999999999999,
+            "text": "I am a div here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 102.89999999999999,
+            "end": 107.1,
+            "text": "Guys, if you haven't accessed yet, do check out the Sigma Web Development playlist."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 107.1,
+            "end": 109.1,
+            "text": "And the source code is getting updated."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 109.1,
+            "end": 112.1,
+            "text": "So you should not be tensed about that."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 112.1,
+            "end": 115.5,
+            "text": "Now what I am going to do here is a very simple work."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 115.5,
+            "end": 116.89999999999999,
+            "text": "I will preview it first."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 116.89999999999999,
+            "end": 119.89999999999999,
+            "text": "And I want to red the background of this div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 119.89999999999999,
+            "end": 123.3,
+            "text": "Now why do you want to red the background of this div?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 123.3,
+            "end": 125.3,
+            "text": "Because I want to take the space of the div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 125.3,
+            "end": 127.3,
+            "text": "That's why I want to red it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 127.3,
+            "end": 129.29999999999998,
+            "text": "So I want to red it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 129.29999999999998,
+            "end": 132.29999999999998,
+            "text": "So I will give the background of this div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 132.29999999999998,
+            "end": 135.29999999999998,
+            "text": "So I will tell the div to tag a style tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 135.5,
+            "end": 139.5,
+            "text": "I will tell the background of the div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 139.5,
+            "end": 141.5,
+            "text": "I will tell the background color of the div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 141.5,
+            "end": 142.5,
+            "text": "Red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 142.5,
+            "end": 144.5,
+            "text": "Now this is our property."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 144.5,
+            "end": 145.5,
+            "text": "This is the value."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 145.5,
+            "end": 148.5,
+            "text": "I will tell you about other properties and values."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 148.5,
+            "end": 150.5,
+            "text": "But for now you can understand that this is the property."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 150.5,
+            "end": 151.5,
+            "text": "And this is the value."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 151.5,
+            "end": 154.5,
+            "text": "So what I did here is Element Selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 154.5,
+            "end": 157.5,
+            "text": "So I will write Element Selector here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 157.5,
+            "end": 159.5,
+            "text": "And I will comment on this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 159.5,
+            "end": 161.5,
+            "text": "The comments in CSS are written like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 161.5,
+            "end": 163.5,
+            "text": "Here is forward slash star."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 163.7,
+            "end": 165.7,
+            "text": "And here is star forward slash."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 165.7,
+            "end": 167.7,
+            "text": "The comments in CSS are written like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 167.7,
+            "end": 169.7,
+            "text": "So I wrote CSS as Element Selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 169.7,
+            "end": 171.7,
+            "text": "Here you can see the background is red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 171.7,
+            "end": 173.7,
+            "text": "This was our Element Selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 173.7,
+            "end": 175.7,
+            "text": "This was the basic Selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 175.7,
+            "end": 177.7,
+            "text": "Now Element Selector, which I made here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 177.7,
+            "end": 179.7,
+            "text": "is called Drop X."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 179.7,
+            "end": 181.7,
+            "text": "Drop X is that I add another div here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 181.7,
+            "end": 183.7,
+            "text": "So what will happen?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 183.7,
+            "end": 185.7,
+            "text": "This div's background will also be red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 185.7,
+            "end": 187.7,
+            "text": "And it is possible that you want"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 187.7,
+            "end": 189.7,
+            "text": "to red the background of this div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 189.7,
+            "end": 191.7,
+            "text": "So if you don't want"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 191.89999999999998,
+            "end": 193.89999999999998,
+            "text": "to red the background of this div,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 193.89999999999998,
+            "end": 195.89999999999998,
+            "text": "then what will you do?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 195.89999999999998,
+            "end": 197.89999999999998,
+            "text": "Definitely you will use"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 197.89999999999998,
+            "end": 199.89999999999998,
+            "text": "any other type of Selector here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 199.89999999999998,
+            "end": 201.89999999999998,
+            "text": "And you will want to use any specific Selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 201.89999999999998,
+            "end": 203.89999999999998,
+            "text": "So I can say that do one thing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 203.89999999999998,
+            "end": 205.89999999999998,
+            "text": "Where the class is red, just red the div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 205.89999999999998,
+            "end": 207.89999999999998,
+            "text": "So I have red the class here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 207.89999999999998,
+            "end": 209.89999999999998,
+            "text": "Now because the class is red here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 209.89999999999998,
+            "end": 211.89999999999998,
+            "text": "you will get to see"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 211.89999999999998,
+            "end": 213.89999999999998,
+            "text": "what will you see here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 213.89999999999998,
+            "end": 215.89999999999998,
+            "text": "I will write dot red here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 215.89999999999998,
+            "end": 217.89999999999998,
+            "text": "And after that,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 217.89999999999998,
+            "end": 219.89999999999998,
+            "text": "if I red the background color,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 220.1,
+            "end": 222.1,
+            "text": "I will red it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 222.1,
+            "end": 224.1,
+            "text": "I will comment on this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 224.1,
+            "end": 226.1,
+            "text": "I don't want the div to be red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 226.1,
+            "end": 228.1,
+            "text": "So I will show you here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 228.1,
+            "end": 230.1,
+            "text": "This div will be red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 230.1,
+            "end": 232.1,
+            "text": "So here I used"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 232.1,
+            "end": 234.1,
+            "text": "Class Selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 234.1,
+            "end": 236.1,
+            "text": "So this is our Class Selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 236.1,
+            "end": 238.1,
+            "text": "I will write here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 238.1,
+            "end": 240.1,
+            "text": "Class Selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 240.1,
+            "end": 242.1,
+            "text": "And the next Selector I am going to tell you is"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 242.1,
+            "end": 244.1,
+            "text": "ID Selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 244.1,
+            "end": 246.1,
+            "text": "And you must have guessed it as soon as you heard the ID Selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 246.1,
+            "end": 248.1,
+            "text": "Let us say that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 248.29999999999998,
+            "end": 250.29999999999998,
+            "text": "this is a red ID."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 250.29999999999998,
+            "end": 252.29999999999998,
+            "text": "Or let us do one thing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 252.29999999999998,
+            "end": 254.29999999999998,
+            "text": "Let us make an ID with the name green."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 254.29999999999998,
+            "end": 256.3,
+            "text": "If I write background color green."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 256.3,
+            "end": 258.3,
+            "text": "Wherever I will give the ID green,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 258.3,
+            "end": 260.3,
+            "text": "it will be green."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 260.3,
+            "end": 262.3,
+            "text": "Here you can see that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 262.3,
+            "end": 264.3,
+            "text": "I am another div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 264.3,
+            "end": 266.3,
+            "text": "This is not a color."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 266.3,
+            "end": 268.3,
+            "text": "But as soon as I give it ID green,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 268.3,
+            "end": 270.3,
+            "text": "I will write here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 270.3,
+            "end": 272.3,
+            "text": "I will give this ID."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 272.3,
+            "end": 274.3,
+            "text": "And you can see that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 274.3,
+            "end": 276.3,
+            "text": "in the ID of green,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 276.5,
+            "end": 278.5,
+            "text": "background color will be green."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 278.5,
+            "end": 280.5,
+            "text": "So this is our ID Selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 280.5,
+            "end": 282.5,
+            "text": "It was very simple."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 282.5,
+            "end": 284.5,
+            "text": "Let us simplify things."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 284.5,
+            "end": 286.5,
+            "text": "Now let me tell you what is Child Selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 286.5,
+            "end": 288.5,
+            "text": "And the source code"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 288.5,
+            "end": 290.5,
+            "text": "will do the same thing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 290.5,
+            "end": 292.5,
+            "text": "So what is Child Selector?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 292.5,
+            "end": 294.5,
+            "text": "If I want"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 294.5,
+            "end": 296.5,
+            "text": "a paragraph in a div"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 296.5,
+            "end": 298.5,
+            "text": "to be blue."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 298.5,
+            "end": 300.5,
+            "text": "So I say that the paragraph"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 300.5,
+            "end": 302.5,
+            "text": "of the div will be blue."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 302.5,
+            "end": 304.5,
+            "text": "And what will be the background color?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 304.7,
+            "end": 306.7,
+            "text": "If I want a background color,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 306.7,
+            "end": 308.7,
+            "text": "it will be brown."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 308.7,
+            "end": 310.7,
+            "text": "If I put a paragraph in any div"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 310.7,
+            "end": 312.7,
+            "text": "I am a"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 312.7,
+            "end": 314.7,
+            "text": "paragraph inside div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 314.7,
+            "end": 316.7,
+            "text": "So what will happen?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 316.7,
+            "end": 318.7,
+            "text": "This selector will be lagoon."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 318.7,
+            "end": 320.7,
+            "text": "Because this is a child of div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 320.7,
+            "end": 322.7,
+            "text": "This paragraph is a child of div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 322.7,
+            "end": 324.7,
+            "text": "And I said that if"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 324.7,
+            "end": 326.7,
+            "text": "any paragraph of div is child"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 326.7,
+            "end": 328.7,
+            "text": "then what will happen?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 328.7,
+            "end": 330.7,
+            "text": "So its background will be brown."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 330.7,
+            "end": 332.7,
+            "text": "And it will be blue."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 332.9,
+            "end": 334.9,
+            "text": "It is as simple as that."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 334.9,
+            "end": 336.9,
+            "text": "Now let me show you something."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 336.9,
+            "end": 338.9,
+            "text": "If I wrap this in a div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 338.9,
+            "end": 340.9,
+            "text": "I will not do div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 340.9,
+            "end": 342.9,
+            "text": "I will put it in"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 342.9,
+            "end": 344.9,
+            "text": "the main or any other element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 344.9,
+            "end": 346.9,
+            "text": "I will use"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 346.9,
+            "end": 348.9,
+            "text": "the article tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 348.9,
+            "end": 350.9,
+            "text": "So this is not a paragraph in div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 350.9,
+            "end": 352.9,
+            "text": "This is not a paragraph in div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 352.9,
+            "end": 354.9,
+            "text": "This is not a paragraph in div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 354.9,
+            "end": 356.9,
+            "text": "I will show you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 356.9,
+            "end": 358.9,
+            "text": "This is not a paragraph in div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 358.9,
+            "end": 360.9,
+            "text": "Because this selector means"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 360.9,
+            "end": 362.9,
+            "text": "it was directly in div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 362.9,
+            "end": 364.9,
+            "text": "It was directly in child."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 364.9,
+            "end": 366.9,
+            "text": "Then what will happen?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 366.9,
+            "end": 368.9,
+            "text": "This selector will be applied or not."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 368.9,
+            "end": 370.9,
+            "text": "This is not a direct child."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 370.9,
+            "end": 372.9,
+            "text": "This is an article in div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 372.9,
+            "end": 374.9,
+            "text": "Then it is not a direct child of div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 374.9,
+            "end": 376.9,
+            "text": "But if I want"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 376.9,
+            "end": 378.9,
+            "text": "that if a paragraph is"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 378.9,
+            "end": 380.9,
+            "text": "a descendant of div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 380.9,
+            "end": 382.9,
+            "text": "Then this property will be lagoon."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 382.9,
+            "end": 384.9,
+            "text": "Then what will I do?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 384.9,
+            "end": 386.9,
+            "text": "I have another way."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 386.9,
+            "end": 388.9,
+            "text": "I will show you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 388.9,
+            "end": 390.9,
+            "text": "I will use"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 390.9,
+            "end": 392.9,
+            "text": "the descendant selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 392.9,
+            "end": 394.9,
+            "text": "What is the descendant selector?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 394.9,
+            "end": 396.9,
+            "text": "We simply write"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 396.9,
+            "end": 398.9,
+            "text": "this way."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 398.9,
+            "end": 400.9,
+            "text": "I will write div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 400.9,
+            "end": 402.9,
+            "text": "Then I will write a space and then write p."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 402.9,
+            "end": 404.9,
+            "text": "I am saying that it should be in div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 404.9,
+            "end": 406.9,
+            "text": "No matter who it is."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 406.9,
+            "end": 408.9,
+            "text": "Whether it is in div, article,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 408.9,
+            "end": 410.9,
+            "text": "main, footer."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 410.9,
+            "end": 412.9,
+            "text": "It should be in div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 412.9,
+            "end": 414.9,
+            "text": "It should be in any form."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 414.9,
+            "end": 416.9,
+            "text": "That means it should be descendant of div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 416.9,
+            "end": 418.9,
+            "text": "It will be lagoon again."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 418.9,
+            "end": 420.9,
+            "text": "But when I talk about child selector,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 420.9,
+            "end": 422.9,
+            "text": "then it should be a child selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 422.9,
+            "end": 424.9,
+            "text": "I hope you are making sense of all this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 424.9,
+            "end": 426.9,
+            "text": "Now there is one more universal selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 426.9,
+            "end": 428.9,
+            "text": "It means"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 428.9,
+            "end": 430.9,
+            "text": "all the elements"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 430.9,
+            "end": 432.9,
+            "text": "I want to give margin to 0"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 432.9,
+            "end": 434.9,
+            "text": "and padding to 0."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 434.9,
+            "end": 436.9,
+            "text": "I will write p0."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 436.9,
+            "end": 438.9,
+            "text": "I can write padding 0 like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 438.9,
+            "end": 440.9,
+            "text": "It means all the elements"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 440.9,
+            "end": 442.9,
+            "text": "have no margin."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 442.9,
+            "end": 444.9,
+            "text": "First margin and padding"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 444.9,
+            "end": 446.9,
+            "text": "I was giving the default"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 446.9,
+            "end": 448.9,
+            "text": "but now margin and padding are over."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 448.9,
+            "end": 450.9,
+            "text": "As you have seen."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 450.9,
+            "end": 452.9,
+            "text": "I hope you have understood."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 452.9,
+            "end": 454.9,
+            "text": "There are many other selectors."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 454.9,
+            "end": 456.9,
+            "text": "But these are the most used selectors."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 456.9,
+            "end": 458.9,
+            "text": "I will tell you more about"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 458.9,
+            "end": 460.9,
+            "text": "the upcoming selectors."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 460.9,
+            "end": 462.9,
+            "text": "But these are the ones we will develop our web."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 462.9,
+            "end": 464.9,
+            "text": "I don't want to confuse you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 464.9,
+            "end": 466.9,
+            "text": "You won't be able to learn"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 466.9,
+            "end": 468.9,
+            "text": "from the main selectors."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 468.9,
+            "end": 470.9,
+            "text": "So I want you to be aware of this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 470.9,
+            "end": 472.9,
+            "text": "This is the most important."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 472.9,
+            "end": 474.9,
+            "text": "It is 95%"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 474.9,
+            "end": 476.9,
+            "text": "99% of the websites are made."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 476.9,
+            "end": 478.9,
+            "text": "So let's focus on these."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 478.9,
+            "end": 480.9,
+            "text": "I hope you have understood."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 480.9,
+            "end": 482.9,
+            "text": "You understood it very well."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 482.9,
+            "end": 484.9,
+            "text": "There is one more selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 484.9,
+            "end": 486.9,
+            "text": "I will tell you more."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 486.9,
+            "end": 488.9,
+            "text": "It is called Seudo Selectors."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 488.9,
+            "end": 490.9,
+            "text": "I am a Seudo selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 490.9,
+            "end": 492.9,
+            "text": "I want to know what is the link."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 492.9,
+            "end": 494.9,
+            "text": "I will write"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 494.9,
+            "end": 496.9,
+            "text": "universal selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 496.9,
+            "end": 498.9,
+            "text": "universal selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 498.9,
+            "end": 500.9,
+            "text": "universal selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 500.9,
+            "end": 502.9,
+            "text": "universal selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 502.9,
+            "end": 504.9,
+            "text": "What is happening?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 504.9,
+            "end": 506.9,
+            "text": "Why is the comment not working?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 506.9,
+            "end": 508.9,
+            "text": "I will write"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 508.9,
+            "end": 510.9,
+            "text": "PCudo"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 510.9,
+            "end": 512.9,
+            "text": "PCudo"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 512.9,
+            "end": 514.9,
+            "text": "Yes, I know."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 514.9,
+            "end": 516.9,
+            "text": "I will write in the comment."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 516.9,
+            "end": 518.9,
+            "text": "PCudo is not a Seudo."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 518.9,
+            "end": 520.9,
+            "text": "It is not Pneumonia."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 520.9,
+            "end": 522.9,
+            "text": "It is Psilent."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 522.9,
+            "end": 524.9,
+            "text": "So why did you write silent?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 524.9,
+            "end": 526.9,
+            "text": "Please let me know in the comment section."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 526.9,
+            "end": 528.9,
+            "text": "When it was silent, you should have left it like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 528.9,
+            "end": 530.9,
+            "text": "I will share the knowledge with you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 530.9,
+            "end": 532.9,
+            "text": "I have a link."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 532.9,
+            "end": 534.9,
+            "text": "I have a link."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 534.9,
+            "end": 536.9,
+            "text": "I will write"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 536.9,
+            "end": 538.9,
+            "text": "Https"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 538.9,
+            "end": 540.9,
+            "text": "www.google.com"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 540.9,
+            "end": 542.9,
+            "text": "I will write"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 542.9,
+            "end": 544.9,
+            "text": "go to google"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 544.9,
+            "end": 546.9,
+            "text": "Go to google"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 546.9,
+            "end": 548.9,
+            "text": "Go to google"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 548.9,
+            "end": 550.9,
+            "text": "Go to google"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 550.9,
+            "end": 552.9,
+            "text": "Go to google"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 552.9,
+            "end": 554.9,
+            "text": "Go to google"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 554.9,
+            "end": 556.9,
+            "text": "I want the color"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 556.9,
+            "end": 558.9,
+            "text": "I will not write white."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 558.9,
+            "end": 560.9,
+            "text": "I will write yellow."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 560.9,
+            "end": 562.9,
+            "text": "As soon as I visit it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 562.9,
+            "end": 564.9,
+            "text": "I want to know"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 564.9,
+            "end": 566.9,
+            "text": "what is A visitate?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 566.9,
+            "end": 568.9,
+            "text": "A visitate"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 568.9,
+            "end": 570.9,
+            "text": "What is the color of it?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 570.9,
+            "end": 572.9,
+            "text": "It will be yellow."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 572.9,
+            "end": 574.9,
+            "text": "I will yellow the color."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 574.9,
+            "end": 576.9,
+            "text": "Will it be yellow?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 576.9,
+            "end": 578.9,
+            "text": "Yes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 578.9,
+            "end": 580.9,
+            "text": "If I want to see the color of the anchor tags after visiting it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 580.9,
+            "end": 582.9,
+            "text": "I can use the pseudo selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 582.9,
+            "end": 584.9,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 584.9,
+            "end": 586.9,
+            "text": "You can see the color change."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 586.9,
+            "end": 588.9,
+            "text": "If you do a link"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 588.9,
+            "end": 590.9,
+            "text": "that is the link"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 590.9,
+            "end": 592.9,
+            "text": "which is not visited"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 592.9,
+            "end": 594.9,
+            "text": "and you want the color green"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 594.9,
+            "end": 596.9,
+            "text": "I will put any link."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 596.9,
+            "end": 598.9,
+            "text": "What will be the color of it?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 598.9,
+            "end": 600.9,
+            "text": "I will go to facebook"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 600.9,
+            "end": 602.9,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 602.9,
+            "end": 604.9,
+            "text": "I will do google's g"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 604.9,
+            "end": 606.9,
+            "text": "capital"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 606.9,
+            "end": 608.9,
+            "text": "Will it be green?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 608.9,
+            "end": 610.9,
+            "text": "No."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 610.9,
+            "end": 612.9,
+            "text": "I have already visited facebook."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 612.9,
+            "end": 614.9,
+            "text": "I will have to write facebook."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 614.9,
+            "end": 616.9,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 616.9,
+            "end": 618.9,
+            "text": "I will write facebook."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 618.9,
+            "end": 620.9,
+            "text": "I will do facebook2."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 620.9,
+            "end": 622.9,
+            "text": "I have not visited facebook2.com"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 622.9,
+            "end": 624.9,
+            "text": "I have visited facebook.com"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 624.9,
+            "end": 626.9,
+            "text": "If you remember"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 626.9,
+            "end": 628.9,
+            "text": "I am showing it in the initial few lectures."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 628.9,
+            "end": 630.9,
+            "text": "I will tell you about two other selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 630.9,
+            "end": 632.9,
+            "text": "Link related."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 632.9,
+            "end": 634.9,
+            "text": "A active."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 634.9,
+            "end": 636.9,
+            "text": "If you type the pseudo selector"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 636.9,
+            "end": 638.9,
+            "text": "you can see the image in the suggestion."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 638.9,
+            "end": 640.9,
+            "text": "If I want the background color"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 640.9,
+            "end": 642.9,
+            "text": "to be red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 642.9,
+            "end": 644.9,
+            "text": "If I click on the link"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 644.9,
+            "end": 646.9,
+            "text": "then the background color will be red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 646.9,
+            "end": 648.9,
+            "text": "So active means"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 648.9,
+            "end": 650.9,
+            "text": "when you click on it"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 650.9,
+            "end": 652.9,
+            "text": "then the background color will be red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 652.9,
+            "end": 654.9,
+            "text": "I know that you don't want to use this idea."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 654.9,
+            "end": 656.9,
+            "text": "But that is just an example."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 656.9,
+            "end": 658.9,
+            "text": "To show you how it works"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 658.9,
+            "end": 660.9,
+            "text": "the easiest thing for me is"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 660.9,
+            "end": 662.9,
+            "text": "to red the background color."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 662.9,
+            "end": 664.9,
+            "text": "Because you will know it directly."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 664.9,
+            "end": 666.9,
+            "text": "Apart from the anchor tag"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 666.9,
+            "end": 668.9,
+            "text": "we have some pseudo selectors."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 668.9,
+            "end": 670.9,
+            "text": "The answer is yes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 670.9,
+            "end": 672.9,
+            "text": "One is hover."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 672.9,
+            "end": 674.9,
+            "text": "If I want"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 674.9,
+            "end": 676.9,
+            "text": "to hover on the anchor tag"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 676.9,
+            "end": 678.9,
+            "text": "and I want"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 678.9,
+            "end": 680.9,
+            "text": "the background color to be red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 680.9,
+            "end": 682.9,
+            "text": "The background color to be yellow."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 682.9,
+            "end": 684.9,
+            "text": "If I hover"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 684.9,
+            "end": 686.9,
+            "text": "you can see"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 686.9,
+            "end": 688.9,
+            "text": "the background color to be yellow."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 688.9,
+            "end": 690.9,
+            "text": "As I am hovering"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 690.9,
+            "end": 692.9,
+            "text": "I have written A hover and the background color to be yellow."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 692.9,
+            "end": 694.9,
+            "text": "So these were some pseudo selectors."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 694.9,
+            "end": 696.9,
+            "text": "I will tell you one more pseudo selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 696.9,
+            "end": 698.9,
+            "text": "If I want"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 698.9,
+            "end": 700.9,
+            "text": "I have a div"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 700.9,
+            "end": 702.9,
+            "text": "whose class"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 702.9,
+            "end": 704.9,
+            "text": "is selector"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 704.9,
+            "end": 706.9,
+            "text": "and I am a selector"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 706.9,
+            "end": 708.9,
+            "text": "I will write it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 708.9,
+            "end": 710.9,
+            "text": "I will name it one."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 710.9,
+            "end": 712.9,
+            "text": "So I will tell you about"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 712.9,
+            "end": 714.9,
+            "text": "the first child pseudo selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 714.9,
+            "end": 716.9,
+            "text": "Because it will be a little tricky."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 716.9,
+            "end": 718.9,
+            "text": "And this is the pseudo selector."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 718.9,
+            "end": 720.9,
+            "text": "So this pseudo selector"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 720.9,
+            "end": 722.9,
+            "text": "is the first child."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 722.9,
+            "end": 724.9,
+            "text": "If I write P"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 724.9,
+            "end": 726.9,
+            "text": "I will write the background color to be yellow."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 726.9,
+            "end": 728.9,
+            "text": "This means that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 728.9,
+            "end": 730.9,
+            "text": "wherever P is the first child"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 730.9,
+            "end": 732.9,
+            "text": "the background color will be yellow."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 732.9,
+            "end": 734.9,
+            "text": "As you can see in this case"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 734.9,
+            "end": 736.9,
+            "text": "I have put a main tag here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 736.9,
+            "end": 738.9,
+            "text": "And here it is written P."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 738.9,
+            "end": 740.9,
+            "text": "I am first and P. I am second."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 740.9,
+            "end": 742.9,
+            "text": "So here you can see"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 742.9,
+            "end": 744.9,
+            "text": "where the main child P is"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 744.9,
+            "end": 746.9,
+            "text": "which is P"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 746.9,
+            "end": 748.9,
+            "text": "is the parent child."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 748.9,
+            "end": 750.9,
+            "text": "So this class will be applied."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 750.9,
+            "end": 752.9,
+            "text": "So here"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 752.9,
+            "end": 754.9,
+            "text": "I will tell you again"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 754.9,
+            "end": 756.9,
+            "text": "that these things are very less used"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 756.9,
+            "end": 758.9,
+            "text": "when you develop web."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 758.9,
+            "end": 760.9,
+            "text": "So you have to"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 760.9,
+            "end": 762.9,
+            "text": "do more research about"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 762.9,
+            "end": 764.9,
+            "text": "such pseudo classes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 764.9,
+            "end": 766.9,
+            "text": "What I will do in description is"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 766.9,
+            "end": 768.9,
+            "text": "I will put links about"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 768.9,
+            "end": 770.9,
+            "text": "such things."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 770.9,
+            "end": 772.9,
+            "text": "So if you want to see"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 772.9,
+            "end": 774.9,
+            "text": "additional reading material"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 774.9,
+            "end": 776.9,
+            "text": "then you will get the link"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 776.9,
+            "end": 778.9,
+            "text": "in description."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 778.9,
+            "end": 780.9,
+            "text": "If I forget then please remind me"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 780.9,
+            "end": 782.9,
+            "text": "that you can read about such selectors from here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 782.9,
+            "end": 784.9,
+            "text": "But we will go ahead in this course"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 784.9,
+            "end": 786.9,
+            "text": "and we will read about the main things."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 786.9,
+            "end": 788.9,
+            "text": "Because we have to come on very fast projects"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 788.9,
+            "end": 790.9,
+            "text": "and make good real-world apps."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 790.9,
+            "end": 792.9,
+            "text": "And after that we have to do"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 792.9,
+            "end": 794.9,
+            "text": "back-end and database."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 794.9,
+            "end": 796.9,
+            "text": "So we will have to build"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 796.9,
+            "end": 798.9,
+            "text": "the pace here. I hope you are enjoying this course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 798.9,
+            "end": 800.9,
+            "text": "If you have not yet done this bookmark"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 800.9,
+            "end": 802.9,
+            "text": "then click on the bookmark"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 802.9,
+            "end": 804.9,
+            "text": "and save it. So access the playlist"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 804.9,
+            "end": 806.9,
+            "text": "access the GitHub code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 806.9,
+            "end": 808.9,
+            "text": "Like the video. Share."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 808.9,
+            "end": 810.9,
+            "text": "And meet me in the next video"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 810.9,
+            "end": 812.9,
+            "text": "by naming both the villages and villages."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 812.9,
+            "end": 814.9,
+            "text": "Thank you so much guys for watching this video"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 814.9,
+            "end": 816.9,
+            "text": "and I will see you next time."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170311_412",
+            "start": 838.9,
+            "end": 840.9,
+            "text": "Thank you."
+        }
+    ],
+    "full_text": "Guys, we talked about Selectors in CSS and we said that Selectors are used to select any element which is going to be applied on it. Now how can we apply style on elements and how can we select those elements? For example, Element with an ID, Element with a class, we can target the element by its name. And we can also decide that if a particular type of element is applied in a particular type of element, then it is applied. I will explain the rules of applying this styling in this video and I will explain the Selectors. It's fun to write a Sigma patch in the comment section. We have to maintain the high energy throughout the course. I want to give you a heads up. This video is a very important video of CSS. So increase your excitement. Let's go in the computer screen. Let's roll the intro. I have already matched the computer screen. The first thing I am going to do is to make a video of 17. And I will say that video 17 is one of the most important videos. Because if you understand how to selectors work, then your work will be very easy. So I will make a video 17 from the name index.html here. And I am going to use the internal CSS style sheet. So that you can see how I am doing it. And here I will do a lot of things. I will turn on the word wrap, turn on the screencast mode so that you can know whatever button I press. And I will write CSS Selectors here. And I will make a div here. And I made a div here. I am a div here. Guys, if you haven't accessed yet, do check out the Sigma Web Development playlist. And the source code is getting updated. So you should not be tensed about that. Now what I am going to do here is a very simple work. I will preview it first. And I want to red the background of this div. Now why do you want to red the background of this div? Because I want to take the space of the div. That's why I want to red it. So I want to red it. So I will give the background of this div. So I will tell the div to tag a style tag. I will tell the background of the div. I will tell the background color of the div. Red. Now this is our property. This is the value. I will tell you about other properties and values. But for now you can understand that this is the property. And this is the value. So what I did here is Element Selector. So I will write Element Selector here. And I will comment on this. The comments in CSS are written like this. Here is forward slash star. And here is star forward slash. The comments in CSS are written like this. So I wrote CSS as Element Selector. Here you can see the background is red. This was our Element Selector. This was the basic Selector. Now Element Selector, which I made here, is called Drop X. Drop X is that I add another div here. So what will happen? This div's background will also be red. And it is possible that you want to red the background of this div. So if you don't want to red the background of this div, then what will you do? Definitely you will use any other type of Selector here. And you will want to use any specific Selector. So I can say that do one thing. Where the class is red, just red the div. So I have red the class here. Now because the class is red here, you will get to see what will you see here. I will write dot red here. And after that, if I red the background color, I will red it. I will comment on this. I don't want the div to be red. So I will show you here. This div will be red. So here I used Class Selector. So this is our Class Selector. I will write here. Class Selector. And the next Selector I am going to tell you is ID Selector. And you must have guessed it as soon as you heard the ID Selector. Let us say that this is a red ID. Or let us do one thing. Let us make an ID with the name green. If I write background color green. Wherever I will give the ID green, it will be green. Here you can see that I am another div. This is not a color. But as soon as I give it ID green, I will write here. I will give this ID. And you can see that in the ID of green, background color will be green. So this is our ID Selector. It was very simple. Let us simplify things. Now let me tell you what is Child Selector. And the source code will do the same thing. So what is Child Selector? If I want a paragraph in a div to be blue. So I say that the paragraph of the div will be blue. And what will be the background color? If I want a background color, it will be brown. If I put a paragraph in any div I am a paragraph inside div. So what will happen? This selector will be lagoon. Because this is a child of div. This paragraph is a child of div. And I said that if any paragraph of div is child then what will happen? So its background will be brown. And it will be blue. It is as simple as that. Now let me show you something. If I wrap this in a div. I will not do div. I will put it in the main or any other element. I will use the article tag. So this is not a paragraph in div. This is not a paragraph in div. This is not a paragraph in div. I will show you. This is not a paragraph in div. Because this selector means it was directly in div. It was directly in child. Then what will happen? This selector will be applied or not. This is not a direct child. This is an article in div. Then it is not a direct child of div. But if I want that if a paragraph is a descendant of div. Then this property will be lagoon. Then what will I do? I have another way. I will show you. I will use the descendant selector. What is the descendant selector? We simply write this way. I will write div. Then I will write a space and then write p. I am saying that it should be in div. No matter who it is. Whether it is in div, article, main, footer. It should be in div. It should be in any form. That means it should be descendant of div. It will be lagoon again. But when I talk about child selector, then it should be a child selector. I hope you are making sense of all this. Now there is one more universal selector. It means all the elements I want to give margin to 0 and padding to 0. I will write p0. I can write padding 0 like this. It means all the elements have no margin. First margin and padding I was giving the default but now margin and padding are over. As you have seen. I hope you have understood. There are many other selectors. But these are the most used selectors. I will tell you more about the upcoming selectors. But these are the ones we will develop our web. I don't want to confuse you. You won't be able to learn from the main selectors. So I want you to be aware of this. This is the most important. It is 95% 99% of the websites are made. So let's focus on these. I hope you have understood. You understood it very well. There is one more selector. I will tell you more. It is called Seudo Selectors. I am a Seudo selector. I want to know what is the link. I will write universal selector. universal selector. universal selector. universal selector. What is happening? Why is the comment not working? I will write PCudo PCudo Yes, I know. I will write in the comment. PCudo is not a Seudo. It is not Pneumonia. It is Psilent. So why did you write silent? Please let me know in the comment section. When it was silent, you should have left it like this. I will share the knowledge with you. I have a link. I have a link. I will write Https www.google.com I will write go to google Go to google Go to google Go to google Go to google Go to google I want the color I will not write white. I will write yellow. As soon as I visit it. I want to know what is A visitate? A visitate What is the color of it? It will be yellow. I will yellow the color. Will it be yellow? Yes. If I want to see the color of the anchor tags after visiting it. I can use the pseudo selector. Okay. You can see the color change. If you do a link that is the link which is not visited and you want the color green I will put any link. What will be the color of it? I will go to facebook Okay. I will do google's g capital Will it be green? No. I have already visited facebook. I will have to write facebook. Okay. I will write facebook. I will do facebook2. I have not visited facebook2.com I have visited facebook.com If you remember I am showing it in the initial few lectures. I will tell you about two other selector. Link related. A active. If you type the pseudo selector you can see the image in the suggestion. If I want the background color to be red. If I click on the link then the background color will be red. So active means when you click on it then the background color will be red. I know that you don't want to use this idea. But that is just an example. To show you how it works the easiest thing for me is to red the background color. Because you will know it directly. Apart from the anchor tag we have some pseudo selectors. The answer is yes. One is hover. If I want to hover on the anchor tag and I want the background color to be red. The background color to be yellow. If I hover you can see the background color to be yellow. As I am hovering I have written A hover and the background color to be yellow. So these were some pseudo selectors. I will tell you one more pseudo selector. If I want I have a div whose class is selector and I am a selector I will write it. I will name it one. So I will tell you about the first child pseudo selector. Because it will be a little tricky. And this is the pseudo selector. So this pseudo selector is the first child. If I write P I will write the background color to be yellow. This means that wherever P is the first child the background color will be yellow. As you can see in this case I have put a main tag here. And here it is written P. I am first and P. I am second. So here you can see where the main child P is which is P is the parent child. So this class will be applied. So here I will tell you again that these things are very less used when you develop web. So you have to do more research about such pseudo classes. What I will do in description is I will put links about such things. So if you want to see additional reading material then you will get the link in description. If I forget then please remind me that you can read about such selectors from here. But we will go ahead in this course and we will read about the main things. Because we have to come on very fast projects and make good real-world apps. And after that we have to do back-end and database. So we will have to build the pace here. I hope you are enjoying this course. If you have not yet done this bookmark then click on the bookmark and save it. So access the playlist access the GitHub code. Like the video. Share. And meet me in the next video by naming both the villages and villages. Thank you so much guys for watching this video and I will see you next time. Thank you."
+}

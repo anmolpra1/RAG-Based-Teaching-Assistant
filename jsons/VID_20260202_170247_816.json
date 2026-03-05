@@ -1,0 +1,1713 @@
+{
+    "chunks": [
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 0.0,
+            "end": 3.12,
+            "text": "In this video, I will tell you what are ID and classes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 3.12,
+            "end": 7.36,
+            "text": "The concept of ID and classes is one of the concepts that are confused."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 7.36,
+            "end": 12.32,
+            "text": "In fact, when I was learning HTML in my early days, I was confused in the ID and classes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 12.32,
+            "end": 14.16,
+            "text": "ID means unique identifier."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 14.16,
+            "end": 18.8,
+            "text": "If you give an ID to an element, you will not give it to another element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 18.8,
+            "end": 24.0,
+            "text": "But the meaning of the class is that if you want to give multiple elements to a property,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 24.0,
+            "end": 25.6,
+            "text": "you will give it multiple classes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 25.6,
+            "end": 29.84,
+            "text": "For example, you can give a class called red, a div, and a form."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 29.84,
+            "end": 35.28,
+            "text": "Similarly, you can give an article and header tag of BG red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 35.28,
+            "end": 41.84,
+            "text": "Do like this video because we will go into the computer screen and we will see these things very closely."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 41.84,
+            "end": 43.2,
+            "text": "Let's roll the intro."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 43.2,
+            "end": 54.56,
+            "text": "I am back."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 54.56,
+            "end": 59.2,
+            "text": "If you have not accessed the Sigma Web Development codes, then access the playlist."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 59.2,
+            "end": 61.36,
+            "text": "Click here and save the file."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 61.36,
+            "end": 63.84,
+            "text": "The source code is also uploaded on GitHub."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 63.84,
+            "end": 68.4,
+            "text": "I will come here in the folder and make a folder of video number 9."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 68.4,
+            "end": 70.4,
+            "text": "I will make a folder of video 9."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 70.56,
+            "end": 77.12,
+            "text": "I will write video 9 and after making the folder of video 9, I will shift right click and open with code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 77.12,
+            "end": 79.92,
+            "text": "You can see that this is open in BS code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 79.92,
+            "end": 85.12,
+            "text": "I will write index.html here, I will enter the exclamation mark and along with that,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 85.12,
+            "end": 88.72,
+            "text": "I will tell you what are the ID and classes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 88.72,
+            "end": 91.12,
+            "text": "You will have a basic card or not?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 91.12,
+            "end": 93.12,
+            "text": "If not, you will have some ID."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 93.12,
+            "end": 95.12,
+            "text": "Do not write in the comment that I do not have ID."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 95.84,
+            "end": 101.84,
+            "text": "You have to show ID in some of the cases to prove your identity."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 101.84,
+            "end": 107.04,
+            "text": "Now you have to understand ID and classes in the restaurant."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 107.04,
+            "end": 111.04,
+            "text": "So the ID is your identity."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 111.04,
+            "end": 113.04,
+            "text": "Listen to the story here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 113.04,
+            "end": 117.04,
+            "text": "This is John and this is Harry."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 117.04,
+            "end": 119.04,
+            "text": "They are very good friends."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 119.04,
+            "end": 125.04,
+            "text": "They do not share their lunch and the rest are very good friends."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 125.04,
+            "end": 129.04000000000002,
+            "text": "They do not share their lunch and the rest are friends."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 129.04000000000002,
+            "end": 133.04000000000002,
+            "text": "Now you can see John and Harry."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 133.04000000000002,
+            "end": 135.04000000000002,
+            "text": "They have their own ID."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 135.04000000000002,
+            "end": 141.04000000000002,
+            "text": "This is my ID and John's ID looks like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 141.04000000000002,
+            "end": 145.04000000000002,
+            "text": "This is John's ID and this is my ID."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 145.04000000000002,
+            "end": 147.04000000000002,
+            "text": "Both of us have same ID."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 147.04,
+            "end": 155.04,
+            "text": "If you consider that our friend is my friend, Tania and John's friend is Shruti."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 155.04,
+            "end": 159.04,
+            "text": "So their ID will be different."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 159.04,
+            "end": 163.04,
+            "text": "This is Tania's ID."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 163.04,
+            "end": 167.04,
+            "text": "This ID is different for every person."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 167.04,
+            "end": 169.04,
+            "text": "John and Harry were friends."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 169.04,
+            "end": 171.04,
+            "text": "This is Tania's ID."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 171.04,
+            "end": 173.04,
+            "text": "None of these 4 have the same ID."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 173.04,
+            "end": 181.04,
+            "text": "If you consider that our friend is my friend, Harry and John's friend is Shruti."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 181.04,
+            "end": 187.04,
+            "text": "If you consider that our friend is Shruti, then you will understand that our friend is Tania."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 187.04,
+            "end": 193.04,
+            "text": "If you consider that our friend is Shruti, then you will understand that our friend is Tania."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 193.04,
+            "end": 197.04,
+            "text": "So this ID is unique for both of us."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 197.04,
+            "end": 201.04,
+            "text": "This is Tania, Harry, Shruti and John."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 201.04,
+            "end": 207.04,
+            "text": "This is their ID and this ID is unique for everyone."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 207.04,
+            "end": 213.04,
+            "text": "Both of us have same ID."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 213.04,
+            "end": 219.04,
+            "text": "This class was named as 10th class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 219.04,
+            "end": 227.04,
+            "text": "So let's say that we are in 9th class and Tania is in 9th class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 227.04,
+            "end": 233.04,
+            "text": "So both of us are in 9th class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 233.04,
+            "end": 235.04,
+            "text": "So what is Shruti's class?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 235.04,
+            "end": 237.04,
+            "text": "We can't even know Tania's class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 237.04,
+            "end": 239.04,
+            "text": "We can't know Shruti's class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 239.04,
+            "end": 241.04,
+            "text": "We can't know Harry's class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 241.04,
+            "end": 247.04,
+            "text": "So the meaning of class is that Harry and John are in one class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 247.04,
+            "end": 249.04,
+            "text": "So can one person have multiple classes?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 249.04,
+            "end": 251.04,
+            "text": "One person can have multiple classes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 251.04,
+            "end": 253.04,
+            "text": "For example, we have Harry class in 10th class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 253.04,
+            "end": 257.03999999999996,
+            "text": "And this goes into a tuition where this class is in 10A."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 257.03999999999996,
+            "end": 259.03999999999996,
+            "text": "We have classes in the tuition."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 259.03999999999996,
+            "end": 261.03999999999996,
+            "text": "So more than one class can have."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 261.03999999999996,
+            "end": 263.03999999999996,
+            "text": "One class is 10th class and one class is in 10A class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 263.03999999999996,
+            "end": 269.03999999999996,
+            "text": "And along with that, we have Harry and John's class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 269.03999999999996,
+            "end": 271.03999999999996,
+            "text": "So class doesn't mean that we are in class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 271.03999999999996,
+            "end": 273.03999999999996,
+            "text": "Class means that we are classified in this class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 273.04,
+            "end": 275.04,
+            "text": "So let's say that we are classified in this class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 275.04,
+            "end": 277.04,
+            "text": "Now come here and let's leave John, Harry and Shruti."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 277.04,
+            "end": 279.04,
+            "text": "Okay, let's delete this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 279.04,
+            "end": 281.04,
+            "text": "Let's zoom out and delete it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 281.04,
+            "end": 283.04,
+            "text": "It doesn't mean anything."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 283.04,
+            "end": 285.04,
+            "text": "Now come to index.htm and understand this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 285.04,
+            "end": 287.04,
+            "text": "Suppose I have made a div here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 287.04,
+            "end": 289.04,
+            "text": "And I have given it a class red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 289.04,
+            "end": 293.04,
+            "text": "And I have made a span and I have given it a class red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 293.04,
+            "end": 297.04,
+            "text": "I can give different elements of the classes I have given."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 297.04,
+            "end": 301.04,
+            "text": "But if I want to add an id in any of these elements."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 301.04,
+            "end": 303.04,
+            "text": "I can add any id in the first div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 303.04,
+            "end": 305.04,
+            "text": "So I don't give this id to any other element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 305.04,
+            "end": 307.04,
+            "text": "Because this is the basis of this element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 307.04,
+            "end": 309.04,
+            "text": "If it is the second div, then I can't add it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 309.04,
+            "end": 313.04,
+            "text": "Even then I have to add something else."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 313.04,
+            "end": 315.04,
+            "text": "I have added the second div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 315.04,
+            "end": 317.04,
+            "text": "And I write the second and I write the first."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 317.04,
+            "end": 321.04,
+            "text": "So this id is the concept of other classes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 321.04,
+            "end": 323.04,
+            "text": "I personally don't know."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 323.04,
+            "end": 325.04,
+            "text": "I understood it very late."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 325.04,
+            "end": 327.04,
+            "text": "I learnt it in my early days."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 327.04,
+            "end": 329.04,
+            "text": "I didn't tell anyone that id is uniquely identified."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 329.04,
+            "end": 331.04,
+            "text": "So I have added this element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 331.04,
+            "end": 333.04,
+            "text": "And the class that is there."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 333.04,
+            "end": 335.04,
+            "text": "It can also add multiple classes in one element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 335.04,
+            "end": 337.04,
+            "text": "And it can also add one class in multiple elements."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 337.04,
+            "end": 339.04,
+            "text": "If I have given it a red class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 339.04,
+            "end": 341.04,
+            "text": "I can give it a bg yellow class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 341.04,
+            "end": 343.04,
+            "text": "bg yellow."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 343.04,
+            "end": 345.04,
+            "text": "I can give it a class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 345.04,
+            "end": 347.04,
+            "text": "And if we give a class multiple elements."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 347.04,
+            "end": 349.04,
+            "text": "Then we add space."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 349.04,
+            "end": 353.04,
+            "text": "If I want to add multiple classes in this element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 353.04,
+            "end": 355.04,
+            "text": "Then what I will do?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 355.04,
+            "end": 357.04,
+            "text": "I will write red here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 357.04,
+            "end": 359.04,
+            "text": "So I can give multiple classes in this way."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 359.04,
+            "end": 361.04,
+            "text": "Same element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 361.04,
+            "end": 363.04,
+            "text": "Can I give the same element multiple id?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 363.04,
+            "end": 365.04,
+            "text": "Do you ever listen to someone's 2-a-thar cards?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 365.04,
+            "end": 367.04,
+            "text": "I don't know if anyone made it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 367.04,
+            "end": 369.04,
+            "text": "But it's not ideal."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 369.04,
+            "end": 371.04,
+            "text": "The number of the first person is one."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 371.04,
+            "end": 373.04,
+            "text": "And the number of the first person is different."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 373.04,
+            "end": 375.04,
+            "text": "Different people can't have the same number."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 375.04,
+            "end": 377.04,
+            "text": "Different people can't have multiple."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 377.04,
+            "end": 379.04,
+            "text": "Different people can't have the same number."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 379.04,
+            "end": 381.04,
+            "text": "But the class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 381.04,
+            "end": 383.04,
+            "text": "If I say that you wear a t-shirt."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 383.04,
+            "end": 385.04,
+            "text": "Or you can wear a red t-shirt."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 385.04,
+            "end": 387.04,
+            "text": "You can wear a red t-shirt."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 387.04,
+            "end": 389.04,
+            "text": "If you go on the road."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 389.04,
+            "end": 393.04,
+            "text": "And if you like mango or banana."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 393.04,
+            "end": 395.04,
+            "text": "Or if you like grapes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 395.04,
+            "end": 397.04,
+            "text": "You can choose that."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 397.04,
+            "end": 399.04,
+            "text": "Or grapes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 399.04,
+            "end": 401.04,
+            "text": "Mango class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 401.04,
+            "end": 403.04,
+            "text": "So we can classify in one class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 403.04,
+            "end": 405.04,
+            "text": "And we can give one class to different elements."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 405.04,
+            "end": 407.04,
+            "text": "So I hope you understood this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 407.04,
+            "end": 409.04,
+            "text": "Now I will write CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 409.04,
+            "end": 411.04,
+            "text": "Don't say that you are not studying."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 411.04,
+            "end": 413.04,
+            "text": "What I am writing in CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 413.04,
+            "end": 415.04,
+            "text": "I am writing in an alien language."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 415.04,
+            "end": 417.04,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 417.04,
+            "end": 419.04,
+            "text": "In style.css."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 419.04,
+            "end": 421.04,
+            "text": "But I am trying to make a point."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 421.04,
+            "end": 423.04,
+            "text": "I will click here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 423.04,
+            "end": 425.04,
+            "text": "And here its preview is like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 425.04,
+            "end": 427.04,
+            "text": "I will show you one thing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 427.04,
+            "end": 429.04,
+            "text": "One is class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 429.04,
+            "end": 431.04,
+            "text": "How do we target in CSS?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 431.04,
+            "end": 433.04,
+            "text": "We will use dot."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 433.04,
+            "end": 435.04,
+            "text": "Dot means red class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 435.04,
+            "end": 437.04,
+            "text": "And hash first div means."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 437.04,
+            "end": 439.04,
+            "text": "Hash means ID."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 439.04,
+            "end": 441.04,
+            "text": "Dot means class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 441.04,
+            "end": 443.04,
+            "text": "So first div is background color red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 443.04,
+            "end": 445.04,
+            "text": "And its background color red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 445.04,
+            "end": 447.04,
+            "text": "These are selectors in CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 447.04,
+            "end": 449.04,
+            "text": "And now I don't want to confuse you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 449.04,
+            "end": 451.04,
+            "text": "And I can comment like this in CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 451.04,
+            "end": 453.04,
+            "text": "But we will study all these things."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 453.04,
+            "end": 455.04,
+            "text": "Now what I will do after dot red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 455.04,
+            "end": 457.04,
+            "text": "I will write background color red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 457.04,
+            "end": 459.04,
+            "text": "And also dot BGLO."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 459.04,
+            "end": 461.04,
+            "text": "What will I do?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 461.04,
+            "end": 463.04,
+            "text": "Dot BGLO is my dot."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 463.04,
+            "end": 465.04,
+            "text": "I have to put dot."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 465.04,
+            "end": 467.04,
+            "text": "Dot means class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 467.04,
+            "end": 469.04,
+            "text": "And I will color background color."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 469.04,
+            "end": 471.04,
+            "text": "I will color it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 471.04,
+            "end": 473.04,
+            "text": "I will not color background color."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 473.04,
+            "end": 475.04,
+            "text": "Dot means color is red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 475.04,
+            "end": 477.04,
+            "text": "Its color is red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 477.04,
+            "end": 479.04,
+            "text": "So you can use this way."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 479.04,
+            "end": 481.04,
+            "text": "In ID and classes in CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 481.04,
+            "end": 483.04,
+            "text": "I hope you understood."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 483.04,
+            "end": 485.04,
+            "text": "One thing to note here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 485.04,
+            "end": 487.04,
+            "text": "The ID and classes are attributes of element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 487.04,
+            "end": 489.04,
+            "text": "This is ID attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 489.04,
+            "end": 491.04,
+            "text": "And this is class attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 491.04,
+            "end": 493.04,
+            "text": "So what are the ID classes?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 493.04,
+            "end": 495.04,
+            "text": "Elements or not?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 495.04,
+            "end": 497.04,
+            "text": "Now one more use of ID."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 497.04,
+            "end": 499.04,
+            "text": "I will tell you what is the use of ID."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 499.04,
+            "end": 501.04,
+            "text": "If I take you to Wikipedia"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 501.04,
+            "end": 503.04,
+            "text": "and write coding."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 503.04,
+            "end": 505.04,
+            "text": "I will go to Wikipedia page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 505.04,
+            "end": 507.04,
+            "text": "I will go to some other page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 507.04,
+            "end": 509.04,
+            "text": "When you go to any page on Wikipedia."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 509.04,
+            "end": 511.04,
+            "text": "What you can do?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 511.04,
+            "end": 513.04,
+            "text": "You can take the link of that particular place."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 513.04,
+            "end": 515.04,
+            "text": "I will show you how it works."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 515.04,
+            "end": 517.04,
+            "text": "I go to any other page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 517.04,
+            "end": 519.04,
+            "text": "I scroll down."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 519.04,
+            "end": 521.04,
+            "text": "And I will inspect here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 521.04,
+            "end": 523.04,
+            "text": "I will see its ID."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 523.04,
+            "end": 525.04,
+            "text": "I will copy its ID."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 525.04,
+            "end": 527.04,
+            "text": "And if I put here"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 527.04,
+            "end": 529.04,
+            "text": "Hashtag and this ID."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 529.04,
+            "end": 531.04,
+            "text": "Now I will enter."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 531.04,
+            "end": 533.04,
+            "text": "I will get it here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 533.04,
+            "end": 535.04,
+            "text": "If I put it in incognito."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 535.04,
+            "end": 537.04,
+            "text": "It will scroll me and show that particular ID."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 537.04,
+            "end": 539.04,
+            "text": "You see."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 539.04,
+            "end": 541.04,
+            "text": "It scrolls me."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 541.04,
+            "end": 543.04,
+            "text": "It scrolls me."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 543.04,
+            "end": 545.04,
+            "text": "Because it wants to bring me to this ID."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 545.04,
+            "end": 547.04,
+            "text": "So it works in linking."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 547.04,
+            "end": 549.04,
+            "text": "So keep this in mind."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 549.04,
+            "end": 551.04,
+            "text": "You can generate links."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 551.04,
+            "end": 553.04,
+            "text": "If you write ID in hashtag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 553.04,
+            "end": 555.04,
+            "text": "When you open that link."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 555.04,
+            "end": 557.04,
+            "text": "You will see the same ID."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 557.04,
+            "end": 559.04,
+            "text": "As you can see."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 559.04,
+            "end": 561.04,
+            "text": "As soon as I enter."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 561.04,
+            "end": 563.04,
+            "text": "I might have wronged the ID."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 563.04,
+            "end": 565.04,
+            "text": "But you got the point."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 565.04,
+            "end": 567.04,
+            "text": "29.29"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 567.04,
+            "end": 569.04,
+            "text": "I will enter it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 569.04,
+            "end": 571.04,
+            "text": "I will open incognito."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 571.04,
+            "end": 573.04,
+            "text": "I will scroll it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 573.04,
+            "end": 575.04,
+            "text": "I will open new tab."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 575.04,
+            "end": 577.04,
+            "text": "And"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 577.04,
+            "end": 579.04,
+            "text": "I will scroll it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 579.04,
+            "end": 581.04,
+            "text": "And it will bring me to the same page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 581.04,
+            "end": 583.04,
+            "text": "I hope you have understood the ID and the class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 583.04,
+            "end": 585.04,
+            "text": "From the video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 585.04,
+            "end": 587.04,
+            "text": "The ID is like the basic card."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 587.04,
+            "end": 589.04,
+            "text": "The class means that one person's property."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 589.04,
+            "end": 591.04,
+            "text": "Like he likes red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 591.04,
+            "end": 593.04,
+            "text": "Or he is in which class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 593.04,
+            "end": 595.04,
+            "text": "One element can be given multiple classes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 595.04,
+            "end": 597.04,
+            "text": "One element can be red color."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 597.04,
+            "end": 599.04,
+            "text": "And the other element can be red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 599.04,
+            "end": 601.04,
+            "text": "So red class can be put on multiple elements."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 601.04,
+            "end": 603.04,
+            "text": "You can put red class on fake element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 603.04,
+            "end": 605.04,
+            "text": "And you can put red class in one element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 605.04,
+            "end": 607.04,
+            "text": "You can put BG yellow class."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 607.04,
+            "end": 609.04,
+            "text": "So I hope you understood."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 609.04,
+            "end": 611.04,
+            "text": "So that's all for now."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 611.04,
+            "end": 613.04,
+            "text": "I was reading captions."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 613.04,
+            "end": 615.04,
+            "text": "And I laughed."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 615.04,
+            "end": 617.04,
+            "text": "I told him to name all the villages."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 617.04,
+            "end": 619.04,
+            "text": "And I laughed 5-10 times."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 619.04,
+            "end": 621.04,
+            "text": "I said to name your village."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 621.04,
+            "end": 623.04,
+            "text": "So that's it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 623.04,
+            "end": 625.04,
+            "text": "Access the playlist."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 625.04,
+            "end": 627.04,
+            "text": "Access the GitHub."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 627.04,
+            "end": 629.04,
+            "text": "Like the video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 629.04,
+            "end": 631.04,
+            "text": "Write the hashtag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 631.04,
+            "end": 633.04,
+            "text": "Thank you so much for watching this video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 633.04,
+            "end": 635.04,
+            "text": "And I will see you next time."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170247_816",
+            "start": 639.04,
+            "end": 641.04,
+            "text": "Bye."
+        }
+    ],
+    "full_text": "In this video, I will tell you what are ID and classes. The concept of ID and classes is one of the concepts that are confused. In fact, when I was learning HTML in my early days, I was confused in the ID and classes. ID means unique identifier. If you give an ID to an element, you will not give it to another element. But the meaning of the class is that if you want to give multiple elements to a property, you will give it multiple classes. For example, you can give a class called red, a div, and a form. Similarly, you can give an article and header tag of BG red. Do like this video because we will go into the computer screen and we will see these things very closely. Let's roll the intro. I am back. If you have not accessed the Sigma Web Development codes, then access the playlist. Click here and save the file. The source code is also uploaded on GitHub. I will come here in the folder and make a folder of video number 9. I will make a folder of video 9. I will write video 9 and after making the folder of video 9, I will shift right click and open with code. You can see that this is open in BS code. I will write index.html here, I will enter the exclamation mark and along with that, I will tell you what are the ID and classes. You will have a basic card or not? If not, you will have some ID. Do not write in the comment that I do not have ID. You have to show ID in some of the cases to prove your identity. Now you have to understand ID and classes in the restaurant. So the ID is your identity. Listen to the story here. This is John and this is Harry. They are very good friends. They do not share their lunch and the rest are very good friends. They do not share their lunch and the rest are friends. Now you can see John and Harry. They have their own ID. This is my ID and John's ID looks like this. This is John's ID and this is my ID. Both of us have same ID. If you consider that our friend is my friend, Tania and John's friend is Shruti. So their ID will be different. This is Tania's ID. This ID is different for every person. John and Harry were friends. This is Tania's ID. None of these 4 have the same ID. If you consider that our friend is my friend, Harry and John's friend is Shruti. If you consider that our friend is Shruti, then you will understand that our friend is Tania. If you consider that our friend is Shruti, then you will understand that our friend is Tania. So this ID is unique for both of us. This is Tania, Harry, Shruti and John. This is their ID and this ID is unique for everyone. Both of us have same ID. This class was named as 10th class. So let's say that we are in 9th class and Tania is in 9th class. So both of us are in 9th class. So what is Shruti's class? We can't even know Tania's class. We can't know Shruti's class. We can't know Harry's class. So the meaning of class is that Harry and John are in one class. So can one person have multiple classes? One person can have multiple classes. For example, we have Harry class in 10th class. And this goes into a tuition where this class is in 10A. We have classes in the tuition. So more than one class can have. One class is 10th class and one class is in 10A class. And along with that, we have Harry and John's class. So class doesn't mean that we are in class. Class means that we are classified in this class. So let's say that we are classified in this class. Now come here and let's leave John, Harry and Shruti. Okay, let's delete this. Let's zoom out and delete it. It doesn't mean anything. Now come to index.htm and understand this. Suppose I have made a div here. And I have given it a class red. And I have made a span and I have given it a class red. I can give different elements of the classes I have given. But if I want to add an id in any of these elements. I can add any id in the first div. So I don't give this id to any other element. Because this is the basis of this element. If it is the second div, then I can't add it. Even then I have to add something else. I have added the second div. And I write the second and I write the first. So this id is the concept of other classes. I personally don't know. I understood it very late. I learnt it in my early days. I didn't tell anyone that id is uniquely identified. So I have added this element. And the class that is there. It can also add multiple classes in one element. And it can also add one class in multiple elements. If I have given it a red class. I can give it a bg yellow class. bg yellow. I can give it a class. And if we give a class multiple elements. Then we add space. If I want to add multiple classes in this element. Then what I will do? I will write red here. So I can give multiple classes in this way. Same element. Can I give the same element multiple id? Do you ever listen to someone's 2-a-thar cards? I don't know if anyone made it. But it's not ideal. The number of the first person is one. And the number of the first person is different. Different people can't have the same number. Different people can't have multiple. Different people can't have the same number. But the class. If I say that you wear a t-shirt. Or you can wear a red t-shirt. You can wear a red t-shirt. If you go on the road. And if you like mango or banana. Or if you like grapes. You can choose that. Or grapes. Mango class. So we can classify in one class. And we can give one class to different elements. So I hope you understood this. Now I will write CSS. Don't say that you are not studying. What I am writing in CSS. I am writing in an alien language. Okay. In style.css. But I am trying to make a point. I will click here. And here its preview is like this. I will show you one thing. One is class. How do we target in CSS? We will use dot. Dot means red class. And hash first div means. Hash means ID. Dot means class. So first div is background color red. And its background color red. These are selectors in CSS. And now I don't want to confuse you. And I can comment like this in CSS. But we will study all these things. Now what I will do after dot red. I will write background color red. And also dot BGLO. What will I do? Dot BGLO is my dot. I have to put dot. Dot means class. And I will color background color. I will color it. I will not color background color. Dot means color is red. Its color is red. So you can use this way. In ID and classes in CSS. I hope you understood. One thing to note here. The ID and classes are attributes of element. This is ID attribute. And this is class attribute. So what are the ID classes? Elements or not? Now one more use of ID. I will tell you what is the use of ID. If I take you to Wikipedia and write coding. I will go to Wikipedia page. I will go to some other page. When you go to any page on Wikipedia. What you can do? You can take the link of that particular place. I will show you how it works. I go to any other page. I scroll down. And I will inspect here. I will see its ID. I will copy its ID. And if I put here Hashtag and this ID. Now I will enter. I will get it here. If I put it in incognito. It will scroll me and show that particular ID. You see. It scrolls me. It scrolls me. Because it wants to bring me to this ID. So it works in linking. So keep this in mind. You can generate links. If you write ID in hashtag. When you open that link. You will see the same ID. As you can see. As soon as I enter. I might have wronged the ID. But you got the point. 29.29 I will enter it. I will open incognito. I will scroll it. I will open new tab. And I will scroll it. And it will bring me to the same page. I hope you have understood the ID and the class. From the video. The ID is like the basic card. The class means that one person's property. Like he likes red. Or he is in which class. One element can be given multiple classes. One element can be red color. And the other element can be red. So red class can be put on multiple elements. You can put red class on fake element. And you can put red class in one element. You can put BG yellow class. So I hope you understood. So that's all for now. I was reading captions. And I laughed. I told him to name all the villages. And I laughed 5-10 times. I said to name your village. So that's it. Access the playlist. Access the GitHub. Like the video. Write the hashtag. Thank you so much for watching this video. And I will see you next time. Bye."
+}

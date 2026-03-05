@@ -1,0 +1,3918 @@
+{
+    "chunks": [
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 0.0,
+            "end": 3.2,
+            "text": "In this video, I will tell you about the heading and paragraphs,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 3.2,
+            "end": 6.36,
+            "text": "and also about the anchor text."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 6.36,
+            "end": 9.84,
+            "text": "If you have liked this course, then do like this video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 9.84,
+            "end": 12.32,
+            "text": "Your likes will help me in getting free courses."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 12.32,
+            "end": 15.6,
+            "text": "In this video, we will make a small project which will be a bookmark website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 15.6,
+            "end": 20.2,
+            "text": "This bookmark website will help you in getting all your favorite websites in one place."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 20.2,
+            "end": 22.080000000000002,
+            "text": "And you will be able to use it in real life."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 22.080000000000002,
+            "end": 23.44,
+            "text": "So let's start quickly."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 23.44,
+            "end": 25.240000000000002,
+            "text": "Write down in the comments below,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 25.240000000000002,
+            "end": 26.44,
+            "text": "Sigma Batch OP."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 26.44,
+            "end": 27.8,
+            "text": "Let's roll the intro."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 30.0,
+            "end": 40.4,
+            "text": "So guys, as you can see, it has already been matched in the computer screen."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 40.4,
+            "end": 43.76,
+            "text": "And if you haven't accessed the playlist yet, then you can access it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 43.76,
+            "end": 48.04,
+            "text": "One more thing I want to tell you is that if you go to github.com,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 48.04,
+            "end": 52.760000000000005,
+            "text": "you will get the Github repo of Sigma Web Dev course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 52.760000000000005,
+            "end": 57.6,
+            "text": "I have made all the videos in this, and the committee has also made them according to the folder."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 57.6,
+            "end": 58.6,
+            "text": "So you will get it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 58.6,
+            "end": 61.88,
+            "text": "So you have to access it so that you get the source code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 61.88,
+            "end": 64.32000000000001,
+            "text": "I will also put the source code in the description."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 64.32000000000001,
+            "end": 66.08,
+            "text": "So there is no problem."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 66.08,
+            "end": 69.4,
+            "text": "Now we will make a very basic website today."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 69.4,
+            "end": 73.32000000000001,
+            "text": "But it will be very important for us because it will be our first useful website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 73.32000000000001,
+            "end": 74.92,
+            "text": "So I will not take much time."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 74.92,
+            "end": 79.0,
+            "text": "I will make a new folder in this Sigma Web Dev folder."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 79.0,
+            "end": 82.04,
+            "text": "And I will name it video4 because it is our fourth video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 82.04,
+            "end": 83.96000000000001,
+            "text": "So I will make it with the name of video4."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 83.96000000000001,
+            "end": 86.48,
+            "text": "I will click shift right and click open with code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 86.48,
+            "end": 88.48,
+            "text": "So that this folder opens in our VS code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 88.48,
+            "end": 91.48,
+            "text": "After doing this, I will do the same thing that we always do."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 91.48,
+            "end": 98.04,
+            "text": "Index.html, main.css, style.css and also script.js."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 98.04,
+            "end": 99.72,
+            "text": "We usually make these three files."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 99.72,
+            "end": 101.28,
+            "text": "If I write CSS, I will write here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 101.28,
+            "end": 102.80000000000001,
+            "text": "If I write script, I will write here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 102.80000000000001,
+            "end": 107.80000000000001,
+            "text": "But for now, I will just write the exclamation mark here and write something like this in the document."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 107.80000000000001,
+            "end": 109.48,
+            "text": "My bookmarks."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 109.48,
+            "end": 111.60000000000001,
+            "text": "Okay, so we are going to make a bookmark website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 111.60000000000001,
+            "end": 113.4,
+            "text": "I guess I will write the code with the help of this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 113.4,
+            "end": 115.68,
+            "text": "So you will have seen the titles like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 115.68,
+            "end": 117.48,
+            "text": "Now I will write H1 here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 117.48,
+            "end": 118.72000000000001,
+            "text": "Now what happens with H1?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 118.72000000000001,
+            "end": 122.12,
+            "text": "You can put heading from H1 in your web page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 122.12,
+            "end": 123.48,
+            "text": "We have talked about basic structure."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 123.48,
+            "end": 125.56,
+            "text": "We said that this is HTML page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 125.56,
+            "end": 128.16,
+            "text": "HTML lang is equal to en, lang is an attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 128.16,
+            "end": 129.32,
+            "text": "Its value is en."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 129.32,
+            "end": 131.0,
+            "text": "That is, this page's content is in English."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 131.0,
+            "end": 132.84,
+            "text": "This tells this search engine."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 132.84,
+            "end": 135.8,
+            "text": "Or if anyone is sitting with this web page link,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 135.8,
+            "end": 137.4,
+            "text": "he will be able to know that this is in English."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 137.4,
+            "end": 140.20000000000002,
+            "text": "Accordingly, he can parse this web page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 140.20000000000002,
+            "end": 144.12,
+            "text": "The browser will also be able to know that your web page is in English."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 144.16,
+            "end": 149.56,
+            "text": "Now here is the head in which the metadata, title, page, CSS link is included."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 149.56,
+            "end": 151.16,
+            "text": "All these things are information."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 151.16,
+            "end": 152.8,
+            "text": "The main content is in the body."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 152.8,
+            "end": 156.16,
+            "text": "Now there is a tag in the body to put heading in which the name is H1."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 156.16,
+            "end": 158.04,
+            "text": "And I am going to write my bookmarks in it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 158.04,
+            "end": 161.76,
+            "text": "So if I write my bookmarks here, we will write this H1 tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 161.76,
+            "end": 164.36,
+            "text": "And if I want to do it live here,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 164.36,
+            "end": 168.12,
+            "text": "I will click here and then I will open and browse it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 168.12,
+            "end": 170.64000000000001,
+            "text": "So look at this, it shows my bookmarks like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 170.64000000000001,
+            "end": 172.84,
+            "text": "Now why should we always use H1?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 172.88,
+            "end": 174.8,
+            "text": "Why didn't I write my bookmarks directly?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 174.8,
+            "end": 179.16,
+            "text": "Because I am telling the browser that this is my heading and this is my first level heading."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 179.16,
+            "end": 182.96,
+            "text": "Now suppose I want to keep two types of bookmarks in my bookmarks."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 182.96,
+            "end": 185.04,
+            "text": "One is the main bookmarks and one is the secondary bookmarks."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 185.04,
+            "end": 187.56,
+            "text": "So I will use H2, that is, the heading of the second level."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 187.56,
+            "end": 188.56,
+            "text": "So I will write here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 188.56,
+            "end": 191.56,
+            "text": "If you have used Microsoft Word, you will know what H1 and H2 are."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 191.56,
+            "end": 194.84,
+            "text": "But if you don't know, I will tell you that H1 is the heading of your main level."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 194.84,
+            "end": 198.12,
+            "text": "And the heading of the second level is from H2."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 198.12,
+            "end": 201.72,
+            "text": "Suppose I say main bookmarks and secondary bookmarks."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 201.72,
+            "end": 203.2,
+            "text": "Suppose I do something like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 203.2,
+            "end": 209.0,
+            "text": "And here I will press Alt, Shift, Alt, Down Arrow."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 209.0,
+            "end": 211.6,
+            "text": "I will work, I will turn on the screencast mode."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 211.6,
+            "end": 215.4,
+            "text": "So what I did here, Alt, Shift, Down Arrow, this is replicated."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 215.4,
+            "end": 216.84,
+            "text": "This is the shortcut for VS Code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 216.84,
+            "end": 218.72,
+            "text": "I would like to tell you another shortcut for VS Code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 218.72,
+            "end": 223.24,
+            "text": "If you press Alt in your keyboard and wherever you click, it will become a cursor."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 223.24,
+            "end": 226.0,
+            "text": "Suppose I click outside, then there will be only one cursor."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 226.0,
+            "end": 230.2,
+            "text": "But by pressing Alt, if I click somewhere else, then there will be a cursor."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 230.2,
+            "end": 233.35999999999999,
+            "text": "Suppose I want to do all the bookmarks with H3."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 233.35999999999999,
+            "end": 235.35999999999999,
+            "text": "So my bookmarks dash code with H3."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 236.64,
+            "end": 237.64,
+            "text": "I can write something like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 237.64,
+            "end": 238.48,
+            "text": "How did I do this?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 238.48,
+            "end": 240.35999999999999,
+            "text": "I clicked here, then pressed Alt."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 240.35999999999999,
+            "end": 242.44,
+            "text": "And wherever I press Alt, I will click."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 242.44,
+            "end": 244.44,
+            "text": "There I will get multiple cut-sars."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 244.44,
+            "end": 247.6,
+            "text": "Then whatever I type, they will come in multiple cut-sars."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 247.6,
+            "end": 250.88,
+            "text": "Wherever there are cut-sars, whatever I type, they will be visible."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 250.88,
+            "end": 251.79999999999998,
+            "text": "Isn't it fun?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 251.79999999999998,
+            "end": 252.95999999999998,
+            "text": "Like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 252.95999999999998,
+            "end": 255.51999999999998,
+            "text": "So I will remove something like this here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 255.51999999999998,
+            "end": 256.88,
+            "text": "And you will see that it will be updated."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 256.88,
+            "end": 258.24,
+            "text": "So this is my main heading."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 258.24,
+            "end": 259.24,
+            "text": "This is my H2."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 259.28000000000003,
+            "end": 262.44,
+            "text": "Similarly, we have H6 heading with H1, H2."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 262.44,
+            "end": 264.08,
+            "text": "Suppose you gave the main heading."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 264.08,
+            "end": 266.6,
+            "text": "After the main heading, you gave a secondary heading."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 266.6,
+            "end": 269.0,
+            "text": "Then after that, you had to give some heading inside it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 269.0,
+            "end": 269.8,
+            "text": "And so on."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 269.8,
+            "end": 271.48,
+            "text": "You had to give a lot of sub-headings."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 271.48,
+            "end": 273.48,
+            "text": "Then you can give H6 heading."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 273.48,
+            "end": 274.96000000000004,
+            "text": "H6 is more than enough."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 274.96000000000004,
+            "end": 277.48,
+            "text": "In HTML, you have given 6 heading."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 277.48,
+            "end": 279.48,
+            "text": "You will never need H7."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 279.48,
+            "end": 281.48,
+            "text": "If you talk in practical life."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 281.48,
+            "end": 283.88,
+            "text": "And if you read, you can use H6 repeatedly."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 283.88,
+            "end": 285.88,
+            "text": "Because it becomes so small after H1."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 285.88,
+            "end": 288.12,
+            "text": "That H6 will become your very small."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 288.28000000000003,
+            "end": 290.28000000000003,
+            "text": "So you won't need it so much."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 290.28000000000003,
+            "end": 291.28000000000003,
+            "text": "Now what I will do here?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 291.28000000000003,
+            "end": 293.28000000000003,
+            "text": "I will stop Alt Shift down."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 293.28000000000003,
+            "end": 294.72,
+            "text": "I will replicate it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 294.72,
+            "end": 295.76,
+            "text": "And I will click here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 295.76,
+            "end": 296.6,
+            "text": "I will press Alt."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 296.6,
+            "end": 300.28000000000003,
+            "text": "I am telling you all these shortcuts so that your productivity increases."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 300.28000000000003,
+            "end": 302.84000000000003,
+            "text": "Now I have put two cut-sars here and here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 302.84000000000003,
+            "end": 304.84000000000003,
+            "text": "I will press backspace and make it H3."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 304.84000000000003,
+            "end": 305.84000000000003,
+            "text": "Then I will click here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 305.84000000000003,
+            "end": 306.44,
+            "text": "I will press Alt."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 306.44,
+            "end": 307.04,
+            "text": "I will click here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 307.04,
+            "end": 308.04,
+            "text": "I will make it H4."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 308.04,
+            "end": 309.04,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 309.04,
+            "end": 310.28000000000003,
+            "text": "And I will click here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 310.28000000000003,
+            "end": 311.12,
+            "text": "I will click here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 311.12,
+            "end": 312.44,
+            "text": "I will make it H5."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 312.44,
+            "end": 313.12,
+            "text": "Okay."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 313.12,
+            "end": 314.4,
+            "text": "After that, I will click here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 314.4,
+            "end": 315.6,
+            "text": "I will click here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 315.6,
+            "end": 316.8,
+            "text": "I will make it H6 here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 316.8,
+            "end": 318.0,
+            "text": "So it is H6."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 318.2,
+            "end": 318.92,
+            "text": "Now what I will do?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 318.92,
+            "end": 321.32,
+            "text": "I will write here using H1 so that you know."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 321.32,
+            "end": 323.32,
+            "text": "I will write using here at least."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 323.32,
+            "end": 324.32,
+            "text": "I will press space."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 324.32,
+            "end": 326.32,
+            "text": "I will write using and write H."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 326.32,
+            "end": 327.84,
+            "text": "And here I have kept my work."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 327.84,
+            "end": 331.6,
+            "text": "Click here and write 2, 3, 4, 5 and 6."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 331.6,
+            "end": 332.96,
+            "text": "And you see, it looks like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 332.96,
+            "end": 334.96,
+            "text": "So you know that H1 is like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 334.96,
+            "end": 335.68,
+            "text": "H2 is like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 335.68,
+            "end": 336.48,
+            "text": "H3 is so small."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 336.48,
+            "end": 337.32,
+            "text": "H4 is so small."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 337.32,
+            "end": 338.12,
+            "text": "H5 is so small."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 338.12,
+            "end": 339.48,
+            "text": "H6 is so small."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 339.48,
+            "end": 341.08,
+            "text": "And what will happen if it is smaller than H6?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 341.08,
+            "end": 343.08,
+            "text": "This will be over in a while."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 343.08,
+            "end": 344.68,
+            "text": "So H6 is more than enough."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 344.68,
+            "end": 347.68,
+            "text": "So I will show you a practical demonstration."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 347.88,
+            "end": 349.48,
+            "text": "As you know, this is my HTML tutorial."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 349.48,
+            "end": 351.48,
+            "text": "So here I have given the main heading, HTML introduction."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 351.48,
+            "end": 353.28000000000003,
+            "text": "After that, I have given the word as HTML."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 353.28000000000003,
+            "end": 354.88,
+            "text": "Then I have given the features of HTML."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 354.88,
+            "end": 356.56,
+            "text": "I have given this from H1."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 356.56,
+            "end": 357.88,
+            "text": "I have given this from H2."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 357.88,
+            "end": 359.88,
+            "text": "I have given this from H2."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 359.88,
+            "end": 361.08,
+            "text": "So I have given this from H3."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 361.08,
+            "end": 361.96000000000004,
+            "text": "There is also something in it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 361.96000000000004,
+            "end": 365.08,
+            "text": "Like here Y, the term, hypertext and markup language."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 365.08,
+            "end": 366.28000000000003,
+            "text": "This is heading 2."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 366.28000000000003,
+            "end": 368.88,
+            "text": "What is the main heading page of HTML introduction?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 368.88,
+            "end": 370.48,
+            "text": "After that, this is sub-heading."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 370.48,
+            "end": 372.28000000000003,
+            "text": "If I had to give any exercise in it,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 372.28000000000003,
+            "end": 374.68,
+            "text": "then I have used H3 in it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 374.68,
+            "end": 376.68,
+            "text": "Then H2 came back."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 376.68,
+            "end": 377.68,
+            "text": "Because it was in it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 377.68,
+            "end": 382.68,
+            "text": "So H1, H3, H4, H5, H6 are used to build the hierarchy."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 382.68,
+            "end": 384.68,
+            "text": "I hope you all understood."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 384.68,
+            "end": 386.68,
+            "text": "Many people are commenting that you are starting very slowly."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 386.68,
+            "end": 387.68,
+            "text": "So we know."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 387.68,
+            "end": 390.68,
+            "text": "I am making this course as a beginner course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 390.68,
+            "end": 392.68,
+            "text": "When I tell you about HTML,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 392.68,
+            "end": 394.68,
+            "text": "then you will say yes, this is very easy."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 394.68,
+            "end": 396.68,
+            "text": "Then I will tell you a little bit of CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 396.68,
+            "end": 398.68,
+            "text": "Then I will say JavaScript."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 398.68,
+            "end": 401.68,
+            "text": "Then I will say bootstrap."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 401.68,
+            "end": 403.68,
+            "text": "Then you will say yes, this will also be done."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 403.68,
+            "end": 404.68,
+            "text": "There is a little problem."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 404.68,
+            "end": 405.68,
+            "text": "Then I will say react."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 405.68,
+            "end": 406.68,
+            "text": "Then you will say what is happening?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 406.68,
+            "end": 408.68,
+            "text": "Then you will say no."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 408.68,
+            "end": 412.68,
+            "text": "Then you will say I will take the things to the MongoDB MySQL."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 412.68,
+            "end": 416.68,
+            "text": "Then after that, you will say level will go up."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 416.68,
+            "end": 418.68,
+            "text": "I said we will raise the bar like anything."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 418.68,
+            "end": 419.68,
+            "text": "This is what I meant."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 419.68,
+            "end": 422.68,
+            "text": "So when we will do the react, when I will make projects there,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 422.68,
+            "end": 423.68,
+            "text": "when we will do dangerous things,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 423.68,
+            "end": 425.68,
+            "text": "then I will ask for their comments below."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 425.68,
+            "end": 427.68,
+            "text": "Tell me what is the level?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 427.68,
+            "end": 428.68,
+            "text": "So don't talk about the level."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 428.68,
+            "end": 429.68,
+            "text": "The level is going to rise."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 429.68,
+            "end": 430.68,
+            "text": "By doing it very well."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 430.68,
+            "end": 431.68,
+            "text": "So these are our headings."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 431.68,
+            "end": 433.68,
+            "text": "6 headings that I want to keep like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 433.68,
+            "end": 435.68,
+            "text": "Now if we want to write a paragraph,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 435.68,
+            "end": 437.68,
+            "text": "then you can use the P tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 437.68,
+            "end": 438.68,
+            "text": "P will enter."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 438.68,
+            "end": 439.68,
+            "text": "This paragraph will come."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 439.68,
+            "end": 441.68,
+            "text": "Now I will tell you a shortcut trick."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 441.68,
+            "end": 444.68,
+            "text": "If you want to bring a dummy paragraph in the MET through VS Code,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 444.68,
+            "end": 445.68,
+            "text": "then what will you do?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 445.68,
+            "end": 447.68,
+            "text": "You will write here LORAM."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 447.68,
+            "end": 449.68,
+            "text": "Suppose I have written LORAM23."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 449.68,
+            "end": 451.68,
+            "text": "And here you see MET abbreviation has come."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 451.68,
+            "end": 452.68,
+            "text": "This is LORAM23."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 452.68,
+            "end": 453.68,
+            "text": "It will give me 23 words."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 453.68,
+            "end": 454.68,
+            "text": "Something like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 454.68,
+            "end": 456.68,
+            "text": "You can write a word here with a view."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 456.68,
+            "end": 458.68,
+            "text": "So you will not get a horizontal stroll bar."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 458.68,
+            "end": 459.68,
+            "text": "So you can write a view word."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 459.68,
+            "end": 462.68,
+            "text": "Now here you see LORAM, IBSUM, dollar set."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 462.68,
+            "end": 464.68,
+            "text": "Here this is a dummy text."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 464.68,
+            "end": 466.68,
+            "text": "Why do we want dummy text sometimes?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 466.68,
+            "end": 468.68,
+            "text": "Because we are making a template."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 468.68,
+            "end": 471.68,
+            "text": "And we do not have to fill that template with anything."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 471.68,
+            "end": 476.68,
+            "text": "Suppose you are making a website which looks like OYO rooms."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 476.68,
+            "end": 479.68,
+            "text": "Now here OYO become a member."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 479.68,
+            "end": 480.68,
+            "text": "OYO for business."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 480.68,
+            "end": 482.68,
+            "text": "I do not have to write all this here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 482.68,
+            "end": 483.68,
+            "text": "I have written LORAM from here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 483.68,
+            "end": 484.68,
+            "text": "Now I have to write something here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 484.68,
+            "end": 485.68,
+            "text": "So I write LORAM here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 485.68,
+            "end": 486.68,
+            "text": "Suppose I write 7 words."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 486.68,
+            "end": 488.68,
+            "text": "I will enter LORAM 7."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 488.68,
+            "end": 490.68,
+            "text": "Then I will give OYO to those who will write."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 490.68,
+            "end": 494.68,
+            "text": "So you use this to fill the placeholder."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 494.68,
+            "end": 499.68,
+            "text": "My plan is that we will make the clones of popular websites so that you will know how things work."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 499.68,
+            "end": 500.68,
+            "text": "This is also a very popular website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 500.68,
+            "end": 504.68,
+            "text": "You use their services, please tell me in the comment section below."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 504.68,
+            "end": 508.68,
+            "text": "Now we will see other things like here is the paragraph."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 508.68,
+            "end": 510.68,
+            "text": "How to style it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 510.68,
+            "end": 513.6800000000001,
+            "text": "And all these things are done through CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 513.6800000000001,
+            "end": 515.6800000000001,
+            "text": "Now in the paragraph, look here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 515.6800000000001,
+            "end": 517.6800000000001,
+            "text": "When I wrote LORAM23, there are so many text."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 517.6800000000001,
+            "end": 519.6800000000001,
+            "text": "Now I will enter P enter."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 519.68,
+            "end": 521.68,
+            "text": "Suppose I write LORAM10 here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 521.68,
+            "end": 522.68,
+            "text": "Then only 10 words will come."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 522.68,
+            "end": 524.68,
+            "text": "And if I want to write LORAM100,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 524.68,
+            "end": 527.68,
+            "text": "If my page will be filled too much, then I can do that too."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 527.68,
+            "end": 530.68,
+            "text": "So this LORAM value trick is very good."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 530.68,
+            "end": 531.68,
+            "text": "You will enjoy it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 531.68,
+            "end": 533.68,
+            "text": "And whenever we make a clone of popular websites,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 533.68,
+            "end": 535.68,
+            "text": "Suppose I make a clone of Amazon.in."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 535.68,
+            "end": 537.68,
+            "text": "I make a clone of Amazon.in."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 537.68,
+            "end": 539.68,
+            "text": "Suppose I have to write something here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 539.68,
+            "end": 541.68,
+            "text": "Now I do not see much text here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 541.68,
+            "end": 542.68,
+            "text": "Suppose I have to write 3 words here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 542.68,
+            "end": 543.68,
+            "text": "So I will write LORAM3."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 543.68,
+            "end": 545.68,
+            "text": "I will not think about makeup products."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 545.68,
+            "end": 546.68,
+            "text": "I will write LORAM4 here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 546.68,
+            "end": 547.68,
+            "text": "Or I will write LORAM3."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 547.68,
+            "end": 548.68,
+            "text": "Or I will write LORAM2."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 548.68,
+            "end": 549.68,
+            "text": "And when I am ready,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 549.68,
+            "end": 550.68,
+            "text": "And after that,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 550.68,
+            "end": 551.68,
+            "text": "Whatever is there,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 551.68,
+            "end": 552.68,
+            "text": "will come in my database too."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 552.68,
+            "end": 554.68,
+            "text": "And in a very different way,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 554.68,
+            "end": 556.68,
+            "text": "I can bring in my text."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 556.68,
+            "end": 557.68,
+            "text": "Many people asked me"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 557.68,
+            "end": 559.68,
+            "text": "What will be the course job ready?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 559.68,
+            "end": 560.68,
+            "text": "The answer is yes,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 560.68,
+            "end": 562.68,
+            "text": "These course jobs are going to be ready."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 562.68,
+            "end": 563.68,
+            "text": "I will make you people like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 563.68,
+            "end": 565.68,
+            "text": "That you can do"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 565.68,
+            "end": 566.68,
+            "text": "Industry level jobs"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 566.68,
+            "end": 567.68,
+            "text": "by learning this course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 567.68,
+            "end": 570.68,
+            "text": "Now let's talk about attributes in HTML."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 570.68,
+            "end": 572.68,
+            "text": "These attributes are there in HTML."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 572.68,
+            "end": 574.68,
+            "text": "Like I used HTML tag,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 574.68,
+            "end": 576.68,
+            "text": "Lang is equal to l-ang attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 576.68,
+            "end": 578.68,
+            "text": "We didn't use any attribute in the body."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 578.68,
+            "end": 580.68,
+            "text": "We didn't use any attribute in H1."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 580.68,
+            "end": 582.68,
+            "text": "We didn't use any attribute in P."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 582.68,
+            "end": 584.68,
+            "text": "But I can use a style attribute in P."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 584.68,
+            "end": 586.68,
+            "text": "Which is called inline CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 586.68,
+            "end": 588.68,
+            "text": "If I red the background color here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 588.68,
+            "end": 590.68,
+            "text": "Like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 590.68,
+            "end": 592.68,
+            "text": "The background color will be red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 592.68,
+            "end": 594.68,
+            "text": "It is called inline CSS through style attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 594.68,
+            "end": 596.68,
+            "text": "If you add CSS to the style."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 596.68,
+            "end": 598.68,
+            "text": "We had learned to add CSS here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 598.68,
+            "end": 600.68,
+            "text": "But if you add style to it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 600.68,
+            "end": 602.68,
+            "text": "You will get this background red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 602.68,
+            "end": 604.68,
+            "text": "Let me show you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 604.68,
+            "end": 606.68,
+            "text": "I have added this red color to the background."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 606.68,
+            "end": 608.68,
+            "text": "Let me use this color."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 608.68,
+            "end": 610.68,
+            "text": "This color is looking good."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 610.68,
+            "end": 612.68,
+            "text": "I can also add style inline."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 612.68,
+            "end": 614.68,
+            "text": "But when you make an industrial-level website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 614.68,
+            "end": 616.68,
+            "text": "We use inline styles."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 616.68,
+            "end": 618.68,
+            "text": "Because the sustainability decreases."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 618.68,
+            "end": 620.68,
+            "text": "The reusability decreases."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 620.68,
+            "end": 622.68,
+            "text": "We want to shift small bundles on the browser."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 622.68,
+            "end": 624.68,
+            "text": "And our website is more optimized."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 624.68,
+            "end": 626.68,
+            "text": "So we avoid all this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 626.68,
+            "end": 628.68,
+            "text": "But inline CSS has a style tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 628.68,
+            "end": 630.68,
+            "text": "But here style is an attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 630.68,
+            "end": 632.68,
+            "text": "P is a tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 632.68,
+            "end": 634.68,
+            "text": "P tag is an attribute style."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 634.68,
+            "end": 636.68,
+            "text": "Through which we can style this element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 636.68,
+            "end": 638.68,
+            "text": "We will learn more about attributes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 638.68,
+            "end": 640.68,
+            "text": "Attributes basically give an element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 640.68,
+            "end": 642.68,
+            "text": "Enhanced functionality."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 642.68,
+            "end": 644.68,
+            "text": "Like this paragraph."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 644.68,
+            "end": 646.68,
+            "text": "We gave a style."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 646.68,
+            "end": 648.68,
+            "text": "Which was background color tizzle."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 648.68,
+            "end": 650.68,
+            "text": "To give this background color."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 650.68,
+            "end": 652.68,
+            "text": "We used style attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 652.68,
+            "end": 654.68,
+            "text": "Similarly."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 654.68,
+            "end": 656.68,
+            "text": "To give properties."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 656.68,
+            "end": 658.68,
+            "text": "We use an attribute like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 658.68,
+            "end": 660.68,
+            "text": "Attributes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 660.68,
+            "end": 662.68,
+            "text": "We talked about link."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 662.68,
+            "end": 664.68,
+            "text": "Link colon CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 664.68,
+            "end": 666.68,
+            "text": "Relic attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 666.68,
+            "end": 668.68,
+            "text": "So what we can do with this attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 668.68,
+            "end": 670.68,
+            "text": "We can put this CSS style sheet."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 670.68,
+            "end": 672.68,
+            "text": "Like background."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 672.68,
+            "end": 674.68,
+            "text": "Background color."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 674.68,
+            "end": 676.68,
+            "text": "I said body first."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 676.68,
+            "end": 678.68,
+            "text": "What we want in body."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 678.68,
+            "end": 680.68,
+            "text": "Background color."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 680.68,
+            "end": 682.68,
+            "text": "Don't worry about it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 682.68,
+            "end": 684.68,
+            "text": "Because in CSS it will be told."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 684.68,
+            "end": 686.68,
+            "text": "But I am telling you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 686.68,
+            "end": 688.68,
+            "text": "I am doing hot pink."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 688.68,
+            "end": 690.68,
+            "text": "Listen to another functionality."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 690.68,
+            "end": 692.68,
+            "text": "This ninja technique."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 692.68,
+            "end": 694.68,
+            "text": "Over here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 694.68,
+            "end": 696.68,
+            "text": "You can choose any color."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 696.68,
+            "end": 698.68,
+            "text": "Like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 698.68,
+            "end": 700.68,
+            "text": "I will leave it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 700.68,
+            "end": 702.68,
+            "text": "The background color of body."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 702.68,
+            "end": 704.68,
+            "text": "It looks like ninja technique."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 704.68,
+            "end": 706.68,
+            "text": "Write in comment."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 706.68,
+            "end": 708.68,
+            "text": "Now."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 708.68,
+            "end": 710.68,
+            "text": "Index.html."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 710.68,
+            "end": 712.68,
+            "text": "I can remove it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 712.68,
+            "end": 714.68,
+            "text": "If I comment."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 714.68,
+            "end": 716.68,
+            "text": "This style sheet."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 716.68,
+            "end": 718.68,
+            "text": "It was coming from style sheet."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 718.68,
+            "end": 720.68,
+            "text": "This background color."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 720.68,
+            "end": 722.68,
+            "text": "It is very natural."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 722.68,
+            "end": 724.68,
+            "text": "It is very normal."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 724.68,
+            "end": 726.68,
+            "text": "I have made this style."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 726.68,
+            "end": 728.68,
+            "text": "Because of which background color was visible."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 728.68,
+            "end": 730.68,
+            "text": "Now we are going to make a bookmark."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 730.68,
+            "end": 732.68,
+            "text": "A bookmark manager."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 732.68,
+            "end": 734.68,
+            "text": "BookmarkManager.html."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 734.68,
+            "end": 736.68,
+            "text": "I am making it for a different file."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 736.68,
+            "end": 738.68,
+            "text": "Because I have told you different headings."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 738.68,
+            "end": 740.68,
+            "text": "I am going to make a useful bookmark manager."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 740.68,
+            "end": 742.68,
+            "text": "I will write here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 742.68,
+            "end": 744.68,
+            "text": "BookmarkManager."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 744.68,
+            "end": 746.68,
+            "text": "BookmarkManager.html."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 746.68,
+            "end": 748.68,
+            "text": "You may ask why you are making this bookmark manager."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 748.68,
+            "end": 750.68,
+            "text": "It is made by our hands."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 750.68,
+            "end": 752.68,
+            "text": "It will be our child."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 752.68,
+            "end": 754.68,
+            "text": "We have made it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 754.68,
+            "end": 756.68,
+            "text": "You will get a different gift for it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 756.68,
+            "end": 758.68,
+            "text": "Because you made this yourself."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 758.68,
+            "end": 760.68,
+            "text": "Someone made a software."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 760.68,
+            "end": 762.68,
+            "text": "You made a software yourself."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 762.68,
+            "end": 764.68,
+            "text": "The software you made yourself."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 764.68,
+            "end": 766.68,
+            "text": "You can see here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 766.68,
+            "end": 768.68,
+            "text": "BookmarkManager.html."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 768.68,
+            "end": 770.68,
+            "text": "I will write here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 770.68,
+            "end": 772.68,
+            "text": "My Bookmarks."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 772.68,
+            "end": 774.68,
+            "text": "I will write here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 774.68,
+            "end": 776.68,
+            "text": "Primary Bookmarks."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 776.68,
+            "end": 778.68,
+            "text": "I will write here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 778.68,
+            "end": 780.68,
+            "text": "Secondary Bookmarks."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 780.68,
+            "end": 782.68,
+            "text": "In fact, if I write here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 782.68,
+            "end": 784.68,
+            "text": "All Shift buttons."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 784.68,
+            "end": 786.68,
+            "text": "Secondary Bookmarks."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 786.68,
+            "end": 788.68,
+            "text": "I can write here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 788.68,
+            "end": 790.68,
+            "text": "Now I will write in a paragraph."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 790.68,
+            "end": 792.68,
+            "text": "Google."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 792.68,
+            "end": 794.68,
+            "text": "I will write it like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 794.68,
+            "end": 796.68,
+            "text": "But in the coming videos."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 796.68,
+            "end": 798.68,
+            "text": "I will tell you how to use the list."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 798.68,
+            "end": 800.68,
+            "text": "For now you can understand."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 800.68,
+            "end": 802.68,
+            "text": "I will write here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 802.68,
+            "end": 804.68,
+            "text": "Open Google."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 804.68,
+            "end": 806.68,
+            "text": "And I will use Anchor Tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 806.68,
+            "end": 808.68,
+            "text": "As I will enter A."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 808.68,
+            "end": 810.68,
+            "text": "It is a mandatory attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 810.68,
+            "end": 812.68,
+            "text": "HRAF."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 812.68,
+            "end": 814.68,
+            "text": "I will write HRAF is equal to"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 814.68,
+            "end": 816.68,
+            "text": "HTTPS.double slash"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 816.68,
+            "end": 818.68,
+            "text": "www.google.com."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 818.68,
+            "end": 820.68,
+            "text": "It will be on this address."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 820.68,
+            "end": 822.68,
+            "text": "Whenever you click on Open Google."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 822.68,
+            "end": 824.68,
+            "text": "I will cut it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 824.68,
+            "end": 826.68,
+            "text": "The content of this stack."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 826.68,
+            "end": 828.68,
+            "text": "You can see here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 828.68,
+            "end": 830.68,
+            "text": "Open Google."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 830.68,
+            "end": 832.68,
+            "text": "It is called Anchor Tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 832.68,
+            "end": 834.68,
+            "text": "It helps us to make links."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 834.68,
+            "end": 836.68,
+            "text": "You must have seen many such links."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 836.68,
+            "end": 838.68,
+            "text": "You can see here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 838.68,
+            "end": 840.68,
+            "text": "As soon as I go"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 840.68,
+            "end": 842.68,
+            "text": "bookmarkmanager.html."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 842.68,
+            "end": 844.68,
+            "text": "You can see here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 844.68,
+            "end": 846.68,
+            "text": "You can see all the bookmarks."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 846.68,
+            "end": 848.68,
+            "text": "Open Google."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 848.68,
+            "end": 850.68,
+            "text": "You noticed one thing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 850.68,
+            "end": 852.68,
+            "text": "When I did not click on it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 852.68,
+            "end": 854.68,
+            "text": "It was blue."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 854.68,
+            "end": 856.68,
+            "text": "Now I have visited it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 856.68,
+            "end": 858.68,
+            "text": "I have converted it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 858.68,
+            "end": 860.68,
+            "text": "I have visited it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 860.68,
+            "end": 862.68,
+            "text": "I will tell you one more thing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 862.68,
+            "end": 864.68,
+            "text": "If we want to open this new tab."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 864.68,
+            "end": 866.68,
+            "text": "As I am clicking on it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 866.68,
+            "end": 868.68,
+            "text": "It is opening in the same tab."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 868.68,
+            "end": 870.68,
+            "text": "If you want to open it in the new tab."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 870.68,
+            "end": 872.68,
+            "text": "You can click on the wheel of your mouse."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 872.68,
+            "end": 874.68,
+            "text": "You can click on the wheel of your mouse."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 874.68,
+            "end": 876.68,
+            "text": "I will tell you one more thing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 876.68,
+            "end": 878.68,
+            "text": "If you want to open a new tab."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 878.68,
+            "end": 880.68,
+            "text": "You can use an attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 880.68,
+            "end": 882.68,
+            "text": "You can write here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 882.68,
+            "end": 884.68,
+            "text": "Target is equal to"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 884.68,
+            "end": 886.68,
+            "text": "underscore blank."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 886.68,
+            "end": 888.68,
+            "text": "And VS Code gives you suggestions."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 888.68,
+            "end": 890.68,
+            "text": "I have written it by entering two."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 890.68,
+            "end": 892.68,
+            "text": "It is written in the notepad."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 892.68,
+            "end": 894.68,
+            "text": "It is written in a cheap editor."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 894.68,
+            "end": 896.68,
+            "text": "It is free to VS Code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 896.68,
+            "end": 898.68,
+            "text": "But if you use a cheap editor."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 898.68,
+            "end": 900.68,
+            "text": "Target is equal to underscore blank."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 900.68,
+            "end": 902.68,
+            "text": "You have to type it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 902.68,
+            "end": 904.68,
+            "text": "It is a little painful."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 904.68,
+            "end": 906.68,
+            "text": "But if you write it in any way."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 906.68,
+            "end": 908.68,
+            "text": "Now I will click on it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 908.68,
+            "end": 910.68,
+            "text": "I am not clicking on the mouse wheel."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 910.68,
+            "end": 912.68,
+            "text": "I will click on the new tab."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 912.68,
+            "end": 914.68,
+            "text": "It will open in the same tab."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 914.68,
+            "end": 916.68,
+            "text": "I have written a simple open google tab."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 916.68,
+            "end": 918.68,
+            "text": "If you want."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 918.68,
+            "end": 920.68,
+            "text": "You can type your favorite website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 920.68,
+            "end": 922.68,
+            "text": "You can type whatever website you like."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 922.68,
+            "end": 924.68,
+            "text": "You can type it here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 924.68,
+            "end": 926.68,
+            "text": "I have written a good website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 926.68,
+            "end": 928.68,
+            "text": "I will write here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 928.68,
+            "end": 930.68,
+            "text": "Open Facebook."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 930.68,
+            "end": 932.68,
+            "text": "And here you can see."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 932.68,
+            "end": 934.68,
+            "text": "Facebook.com"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 934.68,
+            "end": 936.68,
+            "text": "And here we can type."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 936.68,
+            "end": 938.68,
+            "text": "Let us see."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 938.68,
+            "end": 940.68,
+            "text": "YouTube.com"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 940.68,
+            "end": 942.68,
+            "text": "Let us see if it came here or not."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 942.68,
+            "end": 944.68,
+            "text": "You have seen one thing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 944.68,
+            "end": 946.68,
+            "text": "It is coming in the same line."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 946.68,
+            "end": 948.68,
+            "text": "If you want it not to come in the same line."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 948.68,
+            "end": 950.68,
+            "text": "What will you do?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 950.68,
+            "end": 952.68,
+            "text": "You will put it in your own paragraph."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 952.68,
+            "end": 954.68,
+            "text": "This is a very dirty way."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 954.68,
+            "end": 956.68,
+            "text": "I am calling it dirty way."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 956.68,
+            "end": 958.68,
+            "text": "I will tell you in the future."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 958.68,
+            "end": 960.68,
+            "text": "But you close it in a paragraph."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 960.68,
+            "end": 962.68,
+            "text": "If you want."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 962.68,
+            "end": 964.68,
+            "text": "I will press shift. I will press right arrow."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 964.68,
+            "end": 966.68,
+            "text": "I will press control X."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 966.68,
+            "end": 968.68,
+            "text": "Then I will press the end."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 968.68,
+            "end": 970.68,
+            "text": "And then I will control it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 970.68,
+            "end": 972.68,
+            "text": "I have used this shortcut."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 972.68,
+            "end": 974.68,
+            "text": "Many of you will be like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 974.68,
+            "end": 976.68,
+            "text": "What did you do?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 976.68,
+            "end": 978.68,
+            "text": "I used the functionality of VS code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 978.68,
+            "end": 980.68,
+            "text": "Multiple cursor functionality."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 980.68,
+            "end": 982.68,
+            "text": "I have used multiple cursor."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 982.68,
+            "end": 984.68,
+            "text": "And then I used it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 984.68,
+            "end": 986.68,
+            "text": "This is not a good way to use paragraphs."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 986.68,
+            "end": 988.68,
+            "text": "We never make a list."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 988.68,
+            "end": 990.68,
+            "text": "We make a list."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 990.68,
+            "end": 992.68,
+            "text": "But because we have not read the list."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 992.68,
+            "end": 994.68,
+            "text": "We are using paragraphs."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 994.68,
+            "end": 996.68,
+            "text": "But this will do our job."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 996.68,
+            "end": 998.68,
+            "text": "This is blue."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 998.68,
+            "end": 1000.68,
+            "text": "It has a purple color."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1000.68,
+            "end": 1002.68,
+            "text": "It has a coral color."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1002.68,
+            "end": 1004.68,
+            "text": "Now these are your primary bookmarks."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1004.68,
+            "end": 1006.68,
+            "text": "What are your secondary bookmarks?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1006.68,
+            "end": 1008.68,
+            "text": "We will put two secondary bookmarks."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1008.68,
+            "end": 1010.68,
+            "text": "The secondary bookmarks are those that you visit sometimes."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1010.68,
+            "end": 1012.68,
+            "text": "Take Wikipedia.com."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1012.68,
+            "end": 1014.68,
+            "text": "Wikipedia.com is here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1014.68,
+            "end": 1016.68,
+            "text": "And you can consider it as Stackoverflow.com."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1016.68,
+            "end": 1018.68,
+            "text": "We will write the spelling correctly."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1018.68,
+            "end": 1020.68,
+            "text": "Stackoverflow."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1020.68,
+            "end": 1022.68,
+            "text": "Let's capitalize Stackoverflow."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1022.68,
+            "end": 1024.6799999999998,
+            "text": "And now you can see your secondary bookmarks."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1024.68,
+            "end": 1026.68,
+            "text": "You have become a bookmark manager."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1026.68,
+            "end": 1028.68,
+            "text": "And you can make this bookmark manager even better."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1028.68,
+            "end": 1030.68,
+            "text": "We will learn CSS styling."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1030.68,
+            "end": 1032.68,
+            "text": "If you see this as the next one."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1032.68,
+            "end": 1034.68,
+            "text": "Don't worry."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1034.68,
+            "end": 1036.68,
+            "text": "Don't worry."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1036.68,
+            "end": 1038.68,
+            "text": "We will do styling and designing in the coming time."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1038.68,
+            "end": 1040.68,
+            "text": "We will talk about all that."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1040.68,
+            "end": 1042.68,
+            "text": "Now you can see your bookmarks."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1042.68,
+            "end": 1044.68,
+            "text": "Bookmark manager is your title."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1044.68,
+            "end": 1046.68,
+            "text": "I will write it in H1."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1046.68,
+            "end": 1048.68,
+            "text": "Both will be same."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1048.68,
+            "end": 1050.68,
+            "text": "My bookmarks will be same."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1050.68,
+            "end": 1052.68,
+            "text": "My bookmarks will be same."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1052.68,
+            "end": 1054.68,
+            "text": "So you can make this bookmark manager."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1054.68,
+            "end": 1056.68,
+            "text": "You can use it in actual."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1056.68,
+            "end": 1058.68,
+            "text": "Now if you save this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1058.68,
+            "end": 1060.68,
+            "text": "Like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1060.68,
+            "end": 1062.68,
+            "text": "You can copy and paste it on your desktop."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1062.68,
+            "end": 1064.68,
+            "text": "If you want."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1064.68,
+            "end": 1066.68,
+            "text": "Whenever you want to open a website."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1066.68,
+            "end": 1068.68,
+            "text": "You can double click it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1068.68,
+            "end": 1070.68,
+            "text": "If you double click it and open it from VS code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1070.68,
+            "end": 1072.68,
+            "text": "You will have to do it correctly."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1072.68,
+            "end": 1074.68,
+            "text": "Open with."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1074.68,
+            "end": 1076.68,
+            "text": "Choose another app."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1076.68,
+            "end": 1078.68,
+            "text": "And then choose Google Chrome."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1078.68,
+            "end": 1080.68,
+            "text": "I will choose Google Chrome."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1080.68,
+            "end": 1082.68,
+            "text": "I will double click it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1082.68,
+            "end": 1084.68,
+            "text": "Google Chrome will open it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1084.68,
+            "end": 1086.68,
+            "text": "This was our bookmark manager."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1086.68,
+            "end": 1088.68,
+            "text": "I hope you liked it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1088.68,
+            "end": 1090.68,
+            "text": "I have a request."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1090.68,
+            "end": 1092.68,
+            "text": "If you like this course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1092.68,
+            "end": 1094.68,
+            "text": "Share it with your friends."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1094.68,
+            "end": 1096.68,
+            "text": "I know few people will share it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1096.68,
+            "end": 1098.68,
+            "text": "But if you do."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1098.68,
+            "end": 1100.68,
+            "text": "I will try to get more courses."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1100.68,
+            "end": 1102.68,
+            "text": "Many people are shocked."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1102.68,
+            "end": 1104.68,
+            "text": "They are asking how free this course is."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1104.68,
+            "end": 1106.68,
+            "text": "How will you benefit from it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1106.68,
+            "end": 1108.68,
+            "text": "I will find other ways to make more money."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1108.68,
+            "end": 1110.68,
+            "text": "I will mark this course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1110.68,
+            "end": 1112.68,
+            "text": "It is the best course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1112.68,
+            "end": 1114.68,
+            "text": "With all the development."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1114.68,
+            "end": 1116.68,
+            "text": "I will put everything in it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1116.68,
+            "end": 1118.68,
+            "text": "I will teach you more."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1118.68,
+            "end": 1120.68,
+            "text": "Many companies are upset with me."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1120.68,
+            "end": 1122.68,
+            "text": "They say they launch paid course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1122.68,
+            "end": 1124.68,
+            "text": "Do it on our platform."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1124.68,
+            "end": 1126.68,
+            "text": "Many companies are upset."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1126.68,
+            "end": 1128.68,
+            "text": "They said they launch paid course."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1128.68,
+            "end": 1130.68,
+            "text": "You will regret your decision."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1130.68,
+            "end": 1132.68,
+            "text": "But hopefully I will not regret."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1132.68,
+            "end": 1134.68,
+            "text": "I will make this course free."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1134.68,
+            "end": 1136.68,
+            "text": "I will make money in other ways."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1136.68,
+            "end": 1138.68,
+            "text": "I will teach you more."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1138.68,
+            "end": 1140.68,
+            "text": "How can you earn more money through web development."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1140.68,
+            "end": 1142.68,
+            "text": "With that said."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1142.68,
+            "end": 1144.68,
+            "text": "I will put the link in the description."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1144.68,
+            "end": 1146.68,
+            "text": "The source code is in the video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1146.68,
+            "end": 1148.68,
+            "text": "That is all for now."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1148.68,
+            "end": 1150.68,
+            "text": "Thank you so much for watching this video."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1150.68,
+            "end": 1152.68,
+            "text": "And I will see you next time."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170148_742",
+            "start": 1166.68,
+            "end": 1168.68,
+            "text": "Thank you for watching this video."
+        }
+    ],
+    "full_text": "In this video, I will tell you about the heading and paragraphs, and also about the anchor text. If you have liked this course, then do like this video. Your likes will help me in getting free courses. In this video, we will make a small project which will be a bookmark website. This bookmark website will help you in getting all your favorite websites in one place. And you will be able to use it in real life. So let's start quickly. Write down in the comments below, Sigma Batch OP. Let's roll the intro. So guys, as you can see, it has already been matched in the computer screen. And if you haven't accessed the playlist yet, then you can access it. One more thing I want to tell you is that if you go to github.com, you will get the Github repo of Sigma Web Dev course. I have made all the videos in this, and the committee has also made them according to the folder. So you will get it. So you have to access it so that you get the source code. I will also put the source code in the description. So there is no problem. Now we will make a very basic website today. But it will be very important for us because it will be our first useful website. So I will not take much time. I will make a new folder in this Sigma Web Dev folder. And I will name it video4 because it is our fourth video. So I will make it with the name of video4. I will click shift right and click open with code. So that this folder opens in our VS code. After doing this, I will do the same thing that we always do. Index.html, main.css, style.css and also script.js. We usually make these three files. If I write CSS, I will write here. If I write script, I will write here. But for now, I will just write the exclamation mark here and write something like this in the document. My bookmarks. Okay, so we are going to make a bookmark website. I guess I will write the code with the help of this. So you will have seen the titles like this. Now I will write H1 here. Now what happens with H1? You can put heading from H1 in your web page. We have talked about basic structure. We said that this is HTML page. HTML lang is equal to en, lang is an attribute. Its value is en. That is, this page's content is in English. This tells this search engine. Or if anyone is sitting with this web page link, he will be able to know that this is in English. Accordingly, he can parse this web page. The browser will also be able to know that your web page is in English. Now here is the head in which the metadata, title, page, CSS link is included. All these things are information. The main content is in the body. Now there is a tag in the body to put heading in which the name is H1. And I am going to write my bookmarks in it. So if I write my bookmarks here, we will write this H1 tag. And if I want to do it live here, I will click here and then I will open and browse it. So look at this, it shows my bookmarks like this. Now why should we always use H1? Why didn't I write my bookmarks directly? Because I am telling the browser that this is my heading and this is my first level heading. Now suppose I want to keep two types of bookmarks in my bookmarks. One is the main bookmarks and one is the secondary bookmarks. So I will use H2, that is, the heading of the second level. So I will write here. If you have used Microsoft Word, you will know what H1 and H2 are. But if you don't know, I will tell you that H1 is the heading of your main level. And the heading of the second level is from H2. Suppose I say main bookmarks and secondary bookmarks. Suppose I do something like this. And here I will press Alt, Shift, Alt, Down Arrow. I will work, I will turn on the screencast mode. So what I did here, Alt, Shift, Down Arrow, this is replicated. This is the shortcut for VS Code. I would like to tell you another shortcut for VS Code. If you press Alt in your keyboard and wherever you click, it will become a cursor. Suppose I click outside, then there will be only one cursor. But by pressing Alt, if I click somewhere else, then there will be a cursor. Suppose I want to do all the bookmarks with H3. So my bookmarks dash code with H3. I can write something like this. How did I do this? I clicked here, then pressed Alt. And wherever I press Alt, I will click. There I will get multiple cut-sars. Then whatever I type, they will come in multiple cut-sars. Wherever there are cut-sars, whatever I type, they will be visible. Isn't it fun? Like this. So I will remove something like this here. And you will see that it will be updated. So this is my main heading. This is my H2. Similarly, we have H6 heading with H1, H2. Suppose you gave the main heading. After the main heading, you gave a secondary heading. Then after that, you had to give some heading inside it. And so on. You had to give a lot of sub-headings. Then you can give H6 heading. H6 is more than enough. In HTML, you have given 6 heading. You will never need H7. If you talk in practical life. And if you read, you can use H6 repeatedly. Because it becomes so small after H1. That H6 will become your very small. So you won't need it so much. Now what I will do here? I will stop Alt Shift down. I will replicate it. And I will click here. I will press Alt. I am telling you all these shortcuts so that your productivity increases. Now I have put two cut-sars here and here. I will press backspace and make it H3. Then I will click here. I will press Alt. I will click here. I will make it H4. Okay. And I will click here. I will click here. I will make it H5. Okay. After that, I will click here. I will click here. I will make it H6 here. So it is H6. Now what I will do? I will write here using H1 so that you know. I will write using here at least. I will press space. I will write using and write H. And here I have kept my work. Click here and write 2, 3, 4, 5 and 6. And you see, it looks like this. So you know that H1 is like this. H2 is like this. H3 is so small. H4 is so small. H5 is so small. H6 is so small. And what will happen if it is smaller than H6? This will be over in a while. So H6 is more than enough. So I will show you a practical demonstration. As you know, this is my HTML tutorial. So here I have given the main heading, HTML introduction. After that, I have given the word as HTML. Then I have given the features of HTML. I have given this from H1. I have given this from H2. I have given this from H2. So I have given this from H3. There is also something in it. Like here Y, the term, hypertext and markup language. This is heading 2. What is the main heading page of HTML introduction? After that, this is sub-heading. If I had to give any exercise in it, then I have used H3 in it. Then H2 came back. Because it was in it. So H1, H3, H4, H5, H6 are used to build the hierarchy. I hope you all understood. Many people are commenting that you are starting very slowly. So we know. I am making this course as a beginner course. When I tell you about HTML, then you will say yes, this is very easy. Then I will tell you a little bit of CSS. Then I will say JavaScript. Then I will say bootstrap. Then you will say yes, this will also be done. There is a little problem. Then I will say react. Then you will say what is happening? Then you will say no. Then you will say I will take the things to the MongoDB MySQL. Then after that, you will say level will go up. I said we will raise the bar like anything. This is what I meant. So when we will do the react, when I will make projects there, when we will do dangerous things, then I will ask for their comments below. Tell me what is the level? So don't talk about the level. The level is going to rise. By doing it very well. So these are our headings. 6 headings that I want to keep like this. Now if we want to write a paragraph, then you can use the P tag. P will enter. This paragraph will come. Now I will tell you a shortcut trick. If you want to bring a dummy paragraph in the MET through VS Code, then what will you do? You will write here LORAM. Suppose I have written LORAM23. And here you see MET abbreviation has come. This is LORAM23. It will give me 23 words. Something like this. You can write a word here with a view. So you will not get a horizontal stroll bar. So you can write a view word. Now here you see LORAM, IBSUM, dollar set. Here this is a dummy text. Why do we want dummy text sometimes? Because we are making a template. And we do not have to fill that template with anything. Suppose you are making a website which looks like OYO rooms. Now here OYO become a member. OYO for business. I do not have to write all this here. I have written LORAM from here. Now I have to write something here. So I write LORAM here. Suppose I write 7 words. I will enter LORAM 7. Then I will give OYO to those who will write. So you use this to fill the placeholder. My plan is that we will make the clones of popular websites so that you will know how things work. This is also a very popular website. You use their services, please tell me in the comment section below. Now we will see other things like here is the paragraph. How to style it. And all these things are done through CSS. Now in the paragraph, look here. When I wrote LORAM23, there are so many text. Now I will enter P enter. Suppose I write LORAM10 here. Then only 10 words will come. And if I want to write LORAM100, If my page will be filled too much, then I can do that too. So this LORAM value trick is very good. You will enjoy it. And whenever we make a clone of popular websites, Suppose I make a clone of Amazon.in. I make a clone of Amazon.in. Suppose I have to write something here. Now I do not see much text here. Suppose I have to write 3 words here. So I will write LORAM3. I will not think about makeup products. I will write LORAM4 here. Or I will write LORAM3. Or I will write LORAM2. And when I am ready, And after that, Whatever is there, will come in my database too. And in a very different way, I can bring in my text. Many people asked me What will be the course job ready? The answer is yes, These course jobs are going to be ready. I will make you people like this. That you can do Industry level jobs by learning this course. Now let's talk about attributes in HTML. These attributes are there in HTML. Like I used HTML tag, Lang is equal to l-ang attribute. We didn't use any attribute in the body. We didn't use any attribute in H1. We didn't use any attribute in P. But I can use a style attribute in P. Which is called inline CSS. If I red the background color here. Like this. The background color will be red. It is called inline CSS through style attribute. If you add CSS to the style. We had learned to add CSS here. But if you add style to it. You will get this background red. Let me show you. I have added this red color to the background. Let me use this color. This color is looking good. I can also add style inline. But when you make an industrial-level website. We use inline styles. Because the sustainability decreases. The reusability decreases. We want to shift small bundles on the browser. And our website is more optimized. So we avoid all this. But inline CSS has a style tag. But here style is an attribute. P is a tag. P tag is an attribute style. Through which we can style this element. We will learn more about attributes. Attributes basically give an element. Enhanced functionality. Like this paragraph. We gave a style. Which was background color tizzle. To give this background color. We used style attribute. Similarly. To give properties. We use an attribute like this. Attributes. We talked about link. Link colon CSS. Relic attribute. So what we can do with this attribute. We can put this CSS style sheet. Like background. Background color. I said body first. What we want in body. Background color. Don't worry about it. Because in CSS it will be told. But I am telling you. I am doing hot pink. Listen to another functionality. This ninja technique. Over here. You can choose any color. Like this. I will leave it. The background color of body. It looks like ninja technique. Write in comment. Now. Index.html. I can remove it. If I comment. This style sheet. It was coming from style sheet. This background color. It is very natural. It is very normal. I have made this style. Because of which background color was visible. Now we are going to make a bookmark. A bookmark manager. BookmarkManager.html. I am making it for a different file. Because I have told you different headings. I am going to make a useful bookmark manager. I will write here. BookmarkManager. BookmarkManager.html. You may ask why you are making this bookmark manager. It is made by our hands. It will be our child. We have made it. You will get a different gift for it. Because you made this yourself. Someone made a software. You made a software yourself. The software you made yourself. You can see here. BookmarkManager.html. I will write here. My Bookmarks. I will write here. Primary Bookmarks. I will write here. Secondary Bookmarks. In fact, if I write here. All Shift buttons. Secondary Bookmarks. I can write here. Now I will write in a paragraph. Google. I will write it like this. But in the coming videos. I will tell you how to use the list. For now you can understand. I will write here. Open Google. And I will use Anchor Tag. As I will enter A. It is a mandatory attribute. HRAF. I will write HRAF is equal to HTTPS.double slash www.google.com. It will be on this address. Whenever you click on Open Google. I will cut it. The content of this stack. You can see here. Open Google. It is called Anchor Tag. It helps us to make links. You must have seen many such links. You can see here. As soon as I go bookmarkmanager.html. You can see here. You can see all the bookmarks. Open Google. You noticed one thing. When I did not click on it. It was blue. Now I have visited it. I have converted it. I have visited it. I will tell you one more thing. If we want to open this new tab. As I am clicking on it. It is opening in the same tab. If you want to open it in the new tab. You can click on the wheel of your mouse. You can click on the wheel of your mouse. I will tell you one more thing. If you want to open a new tab. You can use an attribute. You can write here. Target is equal to underscore blank. And VS Code gives you suggestions. I have written it by entering two. It is written in the notepad. It is written in a cheap editor. It is free to VS Code. But if you use a cheap editor. Target is equal to underscore blank. You have to type it. It is a little painful. But if you write it in any way. Now I will click on it. I am not clicking on the mouse wheel. I will click on the new tab. It will open in the same tab. I have written a simple open google tab. If you want. You can type your favorite website. You can type whatever website you like. You can type it here. I have written a good website. I will write here. Open Facebook. And here you can see. Facebook.com And here we can type. Let us see. YouTube.com Let us see if it came here or not. You have seen one thing. It is coming in the same line. If you want it not to come in the same line. What will you do? You will put it in your own paragraph. This is a very dirty way. I am calling it dirty way. I will tell you in the future. But you close it in a paragraph. If you want. I will press shift. I will press right arrow. I will press control X. Then I will press the end. And then I will control it. I have used this shortcut. Many of you will be like this. What did you do? I used the functionality of VS code. Multiple cursor functionality. I have used multiple cursor. And then I used it. This is not a good way to use paragraphs. We never make a list. We make a list. But because we have not read the list. We are using paragraphs. But this will do our job. This is blue. It has a purple color. It has a coral color. Now these are your primary bookmarks. What are your secondary bookmarks? We will put two secondary bookmarks. The secondary bookmarks are those that you visit sometimes. Take Wikipedia.com. Wikipedia.com is here. And you can consider it as Stackoverflow.com. We will write the spelling correctly. Stackoverflow. Let's capitalize Stackoverflow. And now you can see your secondary bookmarks. You have become a bookmark manager. And you can make this bookmark manager even better. We will learn CSS styling. If you see this as the next one. Don't worry. Don't worry. We will do styling and designing in the coming time. We will talk about all that. Now you can see your bookmarks. Bookmark manager is your title. I will write it in H1. Both will be same. My bookmarks will be same. My bookmarks will be same. So you can make this bookmark manager. You can use it in actual. Now if you save this. Like this. You can copy and paste it on your desktop. If you want. Whenever you want to open a website. You can double click it. If you double click it and open it from VS code. You will have to do it correctly. Open with. Choose another app. And then choose Google Chrome. I will choose Google Chrome. I will double click it. Google Chrome will open it. This was our bookmark manager. I hope you liked it. I have a request. If you like this course. Share it with your friends. I know few people will share it. But if you do. I will try to get more courses. Many people are shocked. They are asking how free this course is. How will you benefit from it. I will find other ways to make more money. I will mark this course. It is the best course. With all the development. I will put everything in it. I will teach you more. Many companies are upset with me. They say they launch paid course. Do it on our platform. Many companies are upset. They said they launch paid course. You will regret your decision. But hopefully I will not regret. I will make this course free. I will make money in other ways. I will teach you more. How can you earn more money through web development. With that said. I will put the link in the description. The source code is in the video. That is all for now. Thank you so much for watching this video. And I will see you next time. Thank you for watching this video."
+}

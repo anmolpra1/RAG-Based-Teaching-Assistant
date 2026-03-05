@@ -1,0 +1,1510 @@
+{
+    "chunks": [
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 0.0,
+            "end": 5.0,
+            "text": "In this video, we will see how CSS is added to an HTML page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 5.0,
+            "end": 8.0,
+            "text": "CSS is three ways to add to HTML."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 8.0,
+            "end": 14.0,
+            "text": "The first way is inline CSS, which is used to add style attributes to HTML pages."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 14.0,
+            "end": 17.0,
+            "text": "The second way is internal CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 17.0,
+            "end": 23.0,
+            "text": "Internal CSS means tag a style tag and add that HTML to the HTML page style tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 23.0,
+            "end": 26.0,
+            "text": "The most used one is external CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 26.0,
+            "end": 31.0,
+            "text": "So, make a .css file and add all your styles to it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 31.0,
+            "end": 34.0,
+            "text": "I will tell you very closely what the difference is in these three."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 34.0,
+            "end": 37.0,
+            "text": "When to use and when to avoid."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 37.0,
+            "end": 39.0,
+            "text": "I am very excited."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 39.0,
+            "end": 44.0,
+            "text": "Do like this video and don't forget to write a sigma in the comment section."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 44.0,
+            "end": 46.0,
+            "text": "Let's go to the computer screen."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 46.0,
+            "end": 48.0,
+            "text": "Let's roll the intro."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 54.0,
+            "end": 61.0,
+            "text": "So, in three ways, I told you that CSS is added to any HTML page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 61.0,
+            "end": 67.0,
+            "text": "The first thing I will do is to make a folder named video15."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 67.0,
+            "end": 75.0,
+            "text": "I will code it with Shift right click and make an index.html and add a boilerplate template."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 75.0,
+            "end": 78.0,
+            "text": "If you haven't accessed the playlist, then do access it."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 78.0,
+            "end": 80.0,
+            "text": "It is very important to access the playlist."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 80.0,
+            "end": 84.0,
+            "text": "Now, I will come back to my video15 HTML code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 84.0,
+            "end": 86.0,
+            "text": "I have a basic HTML."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 86.0,
+            "end": 88.0,
+            "text": "I have written I am a good boy."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 88.0,
+            "end": 94.0,
+            "text": "I have added a catch one and I have written about me."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 94.0,
+            "end": 98.0,
+            "text": "I have added a paragraph in the div."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 98.0,
+            "end": 104.0,
+            "text": "Everyone is good in some way or the other."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 104.0,
+            "end": 107.0,
+            "text": "Does this even make any sense?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 107.0,
+            "end": 109.0,
+            "text": "I have added this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 109.0,
+            "end": 111.0,
+            "text": "I will click on view and toggle word wrap."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 111.0,
+            "end": 115.0,
+            "text": "I will do Shift right click and go to command palette and toggle screencast mode."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 115.0,
+            "end": 117.0,
+            "text": "You can listen to me carefully."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 117.0,
+            "end": 123.0,
+            "text": "If I want to style this, then there is a very shortcut method."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 123.0,
+            "end": 125.0,
+            "text": "I call it the Desi method."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 125.0,
+            "end": 127.0,
+            "text": "I have a quick and dirty method."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 127.0,
+            "end": 129.0,
+            "text": "I will add a style tag here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 129.0,
+            "end": 131.0,
+            "text": "First, let's preview it and see how it looks."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 131.0,
+            "end": 136.0,
+            "text": "I have zoomed in to show you but you will see it like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 136.0,
+            "end": 140.0,
+            "text": "I am zooming in to show you."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 140.0,
+            "end": 142.0,
+            "text": "Now, the about me is written."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 142.0,
+            "end": 146.0,
+            "text": "I want to yellow the background and red the font for some weird reason."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 146.0,
+            "end": 148.0,
+            "text": "Let's do it and see."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 148.0,
+            "end": 150.0,
+            "text": "I have a quick and dirty method."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 150.0,
+            "end": 152.0,
+            "text": "I will add a style attribute here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 152.0,
+            "end": 156.0,
+            "text": "I will write color here and yellow here."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 156.0,
+            "end": 158.0,
+            "text": "You can see the WS code is helping me a lot."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 158.0,
+            "end": 160.0,
+            "text": "It is supporting me in writing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 160.0,
+            "end": 164.0,
+            "text": "I am completing the things I am thinking."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 164.0,
+            "end": 166.0,
+            "text": "That is one of the reasons we are using WS code."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 166.0,
+            "end": 172.0,
+            "text": "If you go to any id in the rep, you get this kind of support."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 172.0,
+            "end": 174.0,
+            "text": "The reason is that we don't do coding in the notepad."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 174.0,
+            "end": 178.0,
+            "text": "At the beginning, people asked me why we don't do it in the notepad."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 178.0,
+            "end": 180.0,
+            "text": "What is there in it that is not in the notepad."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 180.0,
+            "end": 182.0,
+            "text": "I want to add another property in Amal."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 182.0,
+            "end": 184.0,
+            "text": "Let me show you that this property is applied."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 184.0,
+            "end": 186.0,
+            "text": "Look at the color of this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 186.0,
+            "end": 188.0,
+            "text": "I want to red the background of this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 188.0,
+            "end": 192.0,
+            "text": "The background color is red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 192.0,
+            "end": 194.0,
+            "text": "The background will also be red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 194.0,
+            "end": 198.0,
+            "text": "I can do whatever I want to do with the CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 198.0,
+            "end": 200.0,
+            "text": "I want to add the individual elements."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 200.0,
+            "end": 202.0,
+            "text": "I can do that."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 202.0,
+            "end": 204.0,
+            "text": "This is not considered a good practice."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 204.0,
+            "end": 206.0,
+            "text": "It is not considered a good practice."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 206.0,
+            "end": 208.0,
+            "text": "I will tell you why it is not considered."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 208.0,
+            "end": 210.0,
+            "text": "I will tell you in a while."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 210.0,
+            "end": 212.0,
+            "text": "I will tell you two more ways."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 212.0,
+            "end": 214.0,
+            "text": "To add CSS to a web page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 214.0,
+            "end": 216.0,
+            "text": "Let me do one thing."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 216.0,
+            "end": 218.0,
+            "text": "I will write the title of the title."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 218.0,
+            "end": 224.0,
+            "text": "I will write three ways to add CSS to HTML."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 224.0,
+            "end": 230.0,
+            "text": "The first method is I will use the order list."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 230.0,
+            "end": 232.0,
+            "text": "I will write another list item."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 232.0,
+            "end": 234.0,
+            "text": "I will write the first method."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 234.0,
+            "end": 236.0,
+            "text": "Inline CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 236.0,
+            "end": 238.0,
+            "text": "I have told you about Inline CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 238.0,
+            "end": 246.0,
+            "text": "Inline CSS is to hold any element and write CSS in the style attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 246.0,
+            "end": 250.0,
+            "text": "The CSS will be applied in the element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 250.0,
+            "end": 252.0,
+            "text": "This is the method."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 252.0,
+            "end": 254.0,
+            "text": "This is the first method."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 254.0,
+            "end": 256.0,
+            "text": "I will tell you the second method."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 256.0,
+            "end": 258.0,
+            "text": "I will write the first method."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 258.0,
+            "end": 260.0,
+            "text": "The second method is internal CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 260.0,
+            "end": 264.0,
+            "text": "The second method is don't do it like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 264.0,
+            "end": 266.0,
+            "text": "I will replicate this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 266.0,
+            "end": 268.0,
+            "text": "I will remove the style attribute."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 268.0,
+            "end": 270.0,
+            "text": "Don't do it like this."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 270.0,
+            "end": 272.0,
+            "text": "Write a style tag."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 272.0,
+            "end": 274.0,
+            "text": "Don't get confused."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 274.0,
+            "end": 276.0,
+            "text": "Listen to me carefully."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 276.0,
+            "end": 278.0,
+            "text": "Write a style tag in the title."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 278.0,
+            "end": 282.0,
+            "text": "Write your selector and declaration."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 282.0,
+            "end": 284.0,
+            "text": "What is our selector?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 284.0,
+            "end": 286.0,
+            "text": "H1."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 286.0,
+            "end": 288.0,
+            "text": "What should we do with all the H1?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 288.0,
+            "end": 292.0,
+            "text": "Background it yellow."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 292.0,
+            "end": 294.0,
+            "text": "Color it red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 294.0,
+            "end": 298.0,
+            "text": "I think I did color yellow."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 298.0,
+            "end": 300.0,
+            "text": "I will color yellow and background red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 300.0,
+            "end": 302.0,
+            "text": "Color yellow and background red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 302.0,
+            "end": 304.0,
+            "text": "I think I did color yellow and background red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 304.0,
+            "end": 306.0,
+            "text": "I think I did color yellow and background red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 306.0,
+            "end": 308.0,
+            "text": "The same will happen now."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 308.0,
+            "end": 310.0,
+            "text": "How is this different from Inline CSS?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 310.0,
+            "end": 314.0,
+            "text": "Inline CSS I have to add style on every element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 314.0,
+            "end": 320.0,
+            "text": "If I have 100 H1 on my page, I can do it automatically."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 320.0,
+            "end": 326.0,
+            "text": "But I have to do style is equal to in every element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 326.0,
+            "end": 328.0,
+            "text": "I don't want to do it again and again."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 328.0,
+            "end": 330.0,
+            "text": "I have to do it again and again."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 330.0,
+            "end": 334.0,
+            "text": "I have to change the style in every element."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 334.0,
+            "end": 338.0,
+            "text": "For some reason my boss told me that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 338.0,
+            "end": 340.0,
+            "text": "I don't want to do background color red."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 340.0,
+            "end": 344.0,
+            "text": "I want to make the background color purple."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 344.0,
+            "end": 348.0,
+            "text": "I will do all the elements in the same way."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 348.0,
+            "end": 350.0,
+            "text": "I want to do bulk edit."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 350.0,
+            "end": 356.0,
+            "text": "If I am using internal CSS and not using Inline CSS,"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 356.0,
+            "end": 358.0,
+            "text": "I can do bulk edit."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 358.0,
+            "end": 360.0,
+            "text": "I want to make the background color purple."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 360.0,
+            "end": 362.0,
+            "text": "All the H1 elements will be purple on my page."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 362.0,
+            "end": 368.0,
+            "text": "But if I am using style is equal to style is equal to style is equal to"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 368.0,
+            "end": 370.0,
+            "text": "I will have to find all the elements first."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 370.0,
+            "end": 374.0,
+            "text": "After that I will have to do it individually."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 374.0,
+            "end": 378.0,
+            "text": "This is why inline CSS is not used that much."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 378.0,
+            "end": 382.0,
+            "text": "But you should know what is inline CSS."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 382.0,
+            "end": 384.0,
+            "text": "You will do it internally."
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 384.0,
+            "end": 389.3,
+            "text": "you will do internal or external CSS"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 389.3,
+            "end": 391.1,
+            "text": "I will tell you about that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 391.1,
+            "end": 395.5,
+            "text": "Now the idea of external CSS is that if you are writing internal CSS"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 395.5,
+            "end": 397.1,
+            "text": "then your style tag will grow"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 397.1,
+            "end": 400.0,
+            "text": "Suppose I am writing CSS here"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 400.0,
+            "end": 403.9,
+            "text": "then your HTML file will grow"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 403.9,
+            "end": 407.0,
+            "text": "So why are we writing CSS here?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 407.0,
+            "end": 410.3,
+            "text": "Why don't we write CSS in a file?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 410.3,
+            "end": 413.0,
+            "text": "This is the idea of external CSS"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 413.0,
+            "end": 417.3,
+            "text": "So write whatever you are writing here in a file"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 417.3,
+            "end": 420.8,
+            "text": "So we will write a link tag of colon CSS"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 420.8,
+            "end": 422.8,
+            "text": "So this shortcut will come here"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 422.8,
+            "end": 427.3,
+            "text": "So I am saying that I have written CSS in style.css"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 427.3,
+            "end": 428.3,
+            "text": "What am I doing?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 428.3,
+            "end": 432.0,
+            "text": "I have written CSS in style.css"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 432.0,
+            "end": 433.3,
+            "text": "Go there and see"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 433.3,
+            "end": 435.1,
+            "text": "I have done something like this"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 435.1,
+            "end": 440.9,
+            "text": "So here I will show you that I can write style.css"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 440.9,
+            "end": 443.2,
+            "text": "And I will write style.css here"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 443.2,
+            "end": 445.2,
+            "text": "and I will put this style in it"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 445.2,
+            "end": 447.4,
+            "text": "Now I will show you that my page has already removed the styles"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 447.4,
+            "end": 450.0,
+            "text": "By the way, there is no background red or yellow"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 450.0,
+            "end": 452.0,
+            "text": "But as soon as I will add it here"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 452.0,
+            "end": 455.5,
+            "text": "So I have linked this style.css here"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 455.5,
+            "end": 457.0,
+            "text": "So what does the link tag do?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 457.0,
+            "end": 461.0,
+            "text": "The link says that as a style sheet, link style.css"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 461.0,
+            "end": 462.2,
+            "text": "So what will happen?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 462.2,
+            "end": 464.4,
+            "text": "This CSS will add to my page"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 464.4,
+            "end": 466.0,
+            "text": "It's as simple as that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 466.0,
+            "end": 468.79999999999995,
+            "text": "I hope you have understood all this"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 468.90000000000003,
+            "end": 471.90000000000003,
+            "text": "And you have understood this very clearly"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 471.90000000000003,
+            "end": 476.90000000000003,
+            "text": "What is the difference between inline CSS, internal CSS and external CSS?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 476.90000000000003,
+            "end": 480.7,
+            "text": "Now I will tell you when you have to use which one"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 480.7,
+            "end": 485.90000000000003,
+            "text": "Look, inline CSS you should not try to use it"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 485.90000000000003,
+            "end": 490.3,
+            "text": "I am saying that try not to use inline CSS in ideal scenarios"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 490.3,
+            "end": 493.2,
+            "text": "But inline CSS is automatically generated"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 493.2,
+            "end": 494.7,
+            "text": "I will tell you about it later"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 494.7,
+            "end": 496.1,
+            "text": "Don't get confused now"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 496.20000000000005,
+            "end": 498.20000000000005,
+            "text": "Now as a beginner, you have to understand that"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 498.20000000000005,
+            "end": 500.6,
+            "text": "Inline CSS is to be used at least"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 500.6,
+            "end": 502.6,
+            "text": "In fact, you have to avoid it"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 502.6,
+            "end": 507.6,
+            "text": "You will use internal CSS only when your web page is very small"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 507.6,
+            "end": 509.6,
+            "text": "And you just write a little bit of CSS"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 509.6,
+            "end": 513.1,
+            "text": "Like I will tell you a very good use case of using internal CSS"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 513.1,
+            "end": 515.6,
+            "text": "When I used to write websites in bootstrap"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 515.6,
+            "end": 519.6,
+            "text": "In my website, I used to do all the styling of the bootstrap"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 519.6,
+            "end": 522.6,
+            "text": "But sometimes I had to tweak it a little"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 522.6,
+            "end": 524.6,
+            "text": "I used to use internal CSS"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 525.1,
+            "end": 530.1,
+            "text": "You will use external CSS only when you are creating a big production-grade website"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 530.1,
+            "end": 533.1,
+            "text": "And in most of the cases, if you are working on a serious project"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 533.1,
+            "end": 537.1,
+            "text": "You are creating a production-grade website"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 537.1,
+            "end": 540.1,
+            "text": "And if you are creating a production-grade website"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 540.1,
+            "end": 543.1,
+            "text": "You will want to use the best practices in it"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 543.1,
+            "end": 547.1,
+            "text": "And using external style sheet is considered a good practice"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 547.1,
+            "end": 548.1,
+            "text": "Why?"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 548.1,
+            "end": 552.1,
+            "text": "Because you can detach a style sheet from an HTML"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 552.1,
+            "end": 554.1,
+            "text": "You can attach it"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 554.6,
+            "end": 558.6,
+            "text": "You can say to your colleague that you work on the style sheet"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 558.6,
+            "end": 560.6,
+            "text": "I work on HTML"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 560.6,
+            "end": 563.6,
+            "text": "You can write styles, I am working on HTML"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 563.6,
+            "end": 566.6,
+            "text": "So you can work on it very well"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 566.6,
+            "end": 569.6,
+            "text": "Such things can be done easily"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 569.6,
+            "end": 571.6,
+            "text": "If you use external style sheets"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 571.6,
+            "end": 573.6,
+            "text": "And in most of the cases"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 573.6,
+            "end": 575.6,
+            "text": "You can go to any production-grade project"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 575.6,
+            "end": 577.6,
+            "text": "Big websites which have been written"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 577.6,
+            "end": 579.6,
+            "text": "Whether it is Netflix, YouTube"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 579.6,
+            "end": 581.6,
+            "text": "Or Kora"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 581.6,
+            "end": 584.1,
+            "text": "Or Facebook, Instagram"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 584.1,
+            "end": 586.1,
+            "text": "WhatsApp, anything"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 586.1,
+            "end": 588.1,
+            "text": "In most of the cases"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 588.1,
+            "end": 592.1,
+            "text": "You will get external style sheets in all these websites"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 592.1,
+            "end": 594.1,
+            "text": "So let me review you"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 594.1,
+            "end": 597.1,
+            "text": "In the element, you wrote CSS by tagging this style"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 597.1,
+            "end": 599.1,
+            "text": "In the internal CSS"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 599.1,
+            "end": 601.1,
+            "text": "You wrote CSS by tagging this style"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 601.1,
+            "end": 603.1,
+            "text": "And in the external CSS"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 603.1,
+            "end": 605.1,
+            "text": "You made a style.css"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 605.1,
+            "end": 607.1,
+            "text": "Or any name.css file"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 607.1,
+            "end": 610.1,
+            "text": "And you linked a CSS file"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 610.6,
+            "end": 612.6,
+            "text": "I hope you understood the difference"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 612.6,
+            "end": 614.6,
+            "text": "And I know I am going slower"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 614.6,
+            "end": 617.6,
+            "text": "Because there are many beginners in this course"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 617.6,
+            "end": 619.6,
+            "text": "I want to say it again"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 619.6,
+            "end": 623.6,
+            "text": "We are going to make production-grade websites"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 623.6,
+            "end": 625.6,
+            "text": "In the upcoming videos"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 625.6,
+            "end": 628.6,
+            "text": "So you all must tell me in the comment section below"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 628.6,
+            "end": 630.6,
+            "text": "If you haven't accessed this playlist"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 630.6,
+            "end": 632.6,
+            "text": "Then do it"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 632.6,
+            "end": 634.6,
+            "text": "I will update it in the source code"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 634.6,
+            "end": 636.6,
+            "text": "Don't worry about it"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 636.6,
+            "end": 638.6,
+            "text": "That's all for now"
+        },
+        {
+            "number": "VID",
+            "title": "20260202_170306_109",
+            "start": 638.6,
+            "end": 642.1,
+            "text": "I will see you next time"
+        }
+    ],
+    "full_text": "In this video, we will see how CSS is added to an HTML page. CSS is three ways to add to HTML. The first way is inline CSS, which is used to add style attributes to HTML pages. The second way is internal CSS. Internal CSS means tag a style tag and add that HTML to the HTML page style tag. The most used one is external CSS. So, make a .css file and add all your styles to it. I will tell you very closely what the difference is in these three. When to use and when to avoid. I am very excited. Do like this video and don't forget to write a sigma in the comment section. Let's go to the computer screen. Let's roll the intro. So, in three ways, I told you that CSS is added to any HTML page. The first thing I will do is to make a folder named video15. I will code it with Shift right click and make an index.html and add a boilerplate template. If you haven't accessed the playlist, then do access it. It is very important to access the playlist. Now, I will come back to my video15 HTML code. I have a basic HTML. I have written I am a good boy. I have added a catch one and I have written about me. I have added a paragraph in the div. Everyone is good in some way or the other. Does this even make any sense? I have added this. I will click on view and toggle word wrap. I will do Shift right click and go to command palette and toggle screencast mode. You can listen to me carefully. If I want to style this, then there is a very shortcut method. I call it the Desi method. I have a quick and dirty method. I will add a style tag here. First, let's preview it and see how it looks. I have zoomed in to show you but you will see it like this. I am zooming in to show you. Now, the about me is written. I want to yellow the background and red the font for some weird reason. Let's do it and see. I have a quick and dirty method. I will add a style attribute here. I will write color here and yellow here. You can see the WS code is helping me a lot. It is supporting me in writing. I am completing the things I am thinking. That is one of the reasons we are using WS code. If you go to any id in the rep, you get this kind of support. The reason is that we don't do coding in the notepad. At the beginning, people asked me why we don't do it in the notepad. What is there in it that is not in the notepad. I want to add another property in Amal. Let me show you that this property is applied. Look at the color of this. I want to red the background of this. The background color is red. The background will also be red. I can do whatever I want to do with the CSS. I want to add the individual elements. I can do that. This is not considered a good practice. It is not considered a good practice. I will tell you why it is not considered. I will tell you in a while. I will tell you two more ways. To add CSS to a web page. Let me do one thing. I will write the title of the title. I will write three ways to add CSS to HTML. The first method is I will use the order list. I will write another list item. I will write the first method. Inline CSS. I have told you about Inline CSS. Inline CSS is to hold any element and write CSS in the style attribute. The CSS will be applied in the element. This is the method. This is the first method. I will tell you the second method. I will write the first method. The second method is internal CSS. The second method is don't do it like this. I will replicate this. I will remove the style attribute. Don't do it like this. Write a style tag. Don't get confused. Listen to me carefully. Write a style tag in the title. Write your selector and declaration. What is our selector? H1. What should we do with all the H1? Background it yellow. Color it red. I think I did color yellow. I will color yellow and background red. Color yellow and background red. I think I did color yellow and background red. I think I did color yellow and background red. The same will happen now. How is this different from Inline CSS? Inline CSS I have to add style on every element. If I have 100 H1 on my page, I can do it automatically. But I have to do style is equal to in every element. I don't want to do it again and again. I have to do it again and again. I have to change the style in every element. For some reason my boss told me that I don't want to do background color red. I want to make the background color purple. I will do all the elements in the same way. I want to do bulk edit. If I am using internal CSS and not using Inline CSS, I can do bulk edit. I want to make the background color purple. All the H1 elements will be purple on my page. But if I am using style is equal to style is equal to style is equal to I will have to find all the elements first. After that I will have to do it individually. This is why inline CSS is not used that much. But you should know what is inline CSS. You will do it internally. you will do internal or external CSS I will tell you about that Now the idea of external CSS is that if you are writing internal CSS then your style tag will grow Suppose I am writing CSS here then your HTML file will grow So why are we writing CSS here? Why don't we write CSS in a file? This is the idea of external CSS So write whatever you are writing here in a file So we will write a link tag of colon CSS So this shortcut will come here So I am saying that I have written CSS in style.css What am I doing? I have written CSS in style.css Go there and see I have done something like this So here I will show you that I can write style.css And I will write style.css here and I will put this style in it Now I will show you that my page has already removed the styles By the way, there is no background red or yellow But as soon as I will add it here So I have linked this style.css here So what does the link tag do? The link says that as a style sheet, link style.css So what will happen? This CSS will add to my page It's as simple as that I hope you have understood all this And you have understood this very clearly What is the difference between inline CSS, internal CSS and external CSS? Now I will tell you when you have to use which one Look, inline CSS you should not try to use it I am saying that try not to use inline CSS in ideal scenarios But inline CSS is automatically generated I will tell you about it later Don't get confused now Now as a beginner, you have to understand that Inline CSS is to be used at least In fact, you have to avoid it You will use internal CSS only when your web page is very small And you just write a little bit of CSS Like I will tell you a very good use case of using internal CSS When I used to write websites in bootstrap In my website, I used to do all the styling of the bootstrap But sometimes I had to tweak it a little I used to use internal CSS You will use external CSS only when you are creating a big production-grade website And in most of the cases, if you are working on a serious project You are creating a production-grade website And if you are creating a production-grade website You will want to use the best practices in it And using external style sheet is considered a good practice Why? Because you can detach a style sheet from an HTML You can attach it You can say to your colleague that you work on the style sheet I work on HTML You can write styles, I am working on HTML So you can work on it very well Such things can be done easily If you use external style sheets And in most of the cases You can go to any production-grade project Big websites which have been written Whether it is Netflix, YouTube Or Kora Or Facebook, Instagram WhatsApp, anything In most of the cases You will get external style sheets in all these websites So let me review you In the element, you wrote CSS by tagging this style In the internal CSS You wrote CSS by tagging this style And in the external CSS You made a style.css Or any name.css file And you linked a CSS file I hope you understood the difference And I know I am going slower Because there are many beginners in this course I want to say it again We are going to make production-grade websites In the upcoming videos So you all must tell me in the comment section below If you haven't accessed this playlist Then do it I will update it in the source code Don't worry about it That's all for now I will see you next time"
+}
