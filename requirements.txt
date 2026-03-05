@@ -1,0 +1,12 @@
+# Core ML / Transcription
+openai-whisper
+torch
+
+# Embeddings & Data
+pandas
+numpy
+pyarrow          # required for parquet read/write
+scikit-learn
+
+# HTTP (Ollama API calls)
+requests
